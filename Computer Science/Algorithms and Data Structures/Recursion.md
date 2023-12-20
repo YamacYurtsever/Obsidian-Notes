@@ -1,8 +1,11 @@
 A programming concept where a function calls itself
+
 - **Recursive Case**
 Approaches base case
+
 - **Base Case**
 Exit Condition
+
 ```python
 def fibonacci(n):
     if n <= 1:   # Base Case

@@ -11,12 +11,8 @@
             "id": "75f102fdfa4378f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,24 +142,31 @@
   },
   "active": "75f102fdfa4378f6",
   "lastOpenFiles": [
-    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
-    "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Recursion.md",
-    "Computer Science/Programming Languages/Abstraction.md",
-    "Computer Science/Programming Languages/CLI.md",
-    "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Programming Languages/Memory Management.md",
-    "Computer Science/Programming Languages/Variables.md",
-    "Computer Science/Programming Languages/Ternary Operator.md",
-    "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Programming Languages/Human-to-Machine Translation.md",
     "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Human-to-Machine Translation.md"
+    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Algorithms and Data Structures/Recursion.md",
+    "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+    "Computer Science/Computer Architecture and Organization/Cache Memory.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Programming Languages/Variables.md",
+    "Computer Science/Programming Languages/Syntactic Sugar.md",
+    "Computer Science/Programming Languages/Abstraction.md",
+    "Computer Science/Programming Languages/CLI.md",
+    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
+    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
+    "Computer Science/Computer Architecture and Organization/Memory.md",
+    "Computer Science/Computer Architecture and Organization/Data Representation.md",
+    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
+    "Computer Science/Computer Architecture and Organization/CPU.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms.md",
+    "Computer Science/Programming Languages/Ternary Operator.md"
   ]
 }

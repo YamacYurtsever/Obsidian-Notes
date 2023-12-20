@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Images  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Computer Science/Computer Architecture and Organization\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13855081
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Networking\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4364016
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Programming Languages\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5748291
+      }
+    },
+    {
+      "query": "path: \"Computer Science/Algorithms and Data Structures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13335845
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.3578560465070402,
+  "close": false
+}
