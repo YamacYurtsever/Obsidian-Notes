@@ -39,6 +39,7 @@ void bubbleSort(arr[], int n) {
 				arr[j + 1] = temp;
 			}
 		}
+		// After each iteration of the outer loop we know that the largest number is as the last index, so the index of the outer loop can be subtracted from the inner one
 	}
 	return;
 }

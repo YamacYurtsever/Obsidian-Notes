@@ -32,3 +32,4 @@ int binarySearch(int arr[], int n, int target) {
 }
 ```
 - [[Time Complexity]]: O(log n)
+- ! Needs to be sorted before being searched

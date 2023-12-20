@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Memory Management.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Memory Management.md",
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Memory Management.md",
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Memory Management.md"
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md"
               }
             }
           }
@@ -150,13 +150,20 @@
   },
   "active": "75f102fdfa4378f6",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms.md",
+    "Computer Science/Programming Languages/Memory Management.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Comparison of ADTs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Linked-Lists.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Hash Tables.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Tries.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Trees.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Programming Languages/Human-to-Machine Translation.md",
     "Computer Science/Programming Languages/Magic Values.md",
     "Computer Science/Programming Languages/CLI.md",
     "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Parameters.md",
     "Computer Science/Algorithms and Data Structures/Recursion.md",
     "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
@@ -169,12 +176,6 @@
     "Computer Science/Programming Languages/Abstraction.md",
     "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
     "Computer Science/Computer Architecture and Organization/Logic Gates.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
-    "Computer Science/Computer Architecture and Organization/Data Representation.md",
-    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
-    "Computer Science/Computer Architecture and Organization/CPU.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms.md",
-    "Computer Science/Programming Languages/Ternary Operator.md"
+    "Computer Science/Computer Architecture and Organization/Memory.md"
   ]
 }
