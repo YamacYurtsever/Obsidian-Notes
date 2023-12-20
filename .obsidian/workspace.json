@@ -11,8 +11,12 @@
             "id": "75f102fdfa4378f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Programming Languages/Memory Management.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Programming Languages/Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Programming Languages/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Programming Languages/Memory Management.md"
+              }
             }
           }
         ]
@@ -144,9 +152,11 @@
   "lastOpenFiles": [
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Human-to-Machine Translation.md",
     "Computer Science/Programming Languages/Magic Values.md",
+    "Computer Science/Programming Languages/CLI.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Parameters.md",
     "Computer Science/Algorithms and Data Structures/Recursion.md",
     "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
@@ -154,11 +164,9 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Computer Architecture and Organization/Cache Memory.md",
-    "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Programming Languages/Abstraction.md",
-    "Computer Science/Programming Languages/CLI.md",
     "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
     "Computer Science/Computer Architecture and Organization/Logic Gates.md",
     "Computer Science/Computer Architecture and Organization/Memory.md",
