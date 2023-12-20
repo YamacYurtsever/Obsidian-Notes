@@ -1,0 +1,9 @@
+- [[Data Precision#Constants | Constants]] are written in all caps and with snake case -> MY_CONSTANT
+- [[Variables | Variable]] naming conventions
+	- camelCase -> Javascript, Java, C#
+	- snake_case -> Python, C
+	- kebab-case -> HTML, CSS
+- [[Functions | Function]] naming conventions
+	- camelCase -> Javascript, Java
+	- snake_case -> Python, C
+	- PascalCase -> C#

@@ -1,0 +1,4 @@
+- Small and high speed volatile memory that is close to the CPU ([[Memory Acess Order]])
+- Stores frequently used computer programs, applications, and data
+- Improves performance by providing faster access to frequently used data
+- Typically organized into multiple levels (L1, L2, L3), with each level being larger and slower than the previous one

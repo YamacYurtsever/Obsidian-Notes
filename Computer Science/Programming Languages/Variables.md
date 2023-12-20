@@ -1,0 +1,34 @@
+- Named containers or storage locations that hold data values
+- These data values can be manipulated, accessed, and modified during the execution of a program
+  
+### Declaration and Initialization:
+
+##### Declaration:
+- Variables must be declared before they are used
+- The declaration specifies the variable's name and type.
+
+##### Initialization:
+- The process of assigning an initial value to a variable at the time of declaration
+```C
+int a;     // Decleration
+int b = 5: // Initialization 
+```
+
+### Primitive and Composite Variables
+
+##### Primitive Variables
+- The most fundamental and elementary data types in a programming language
+- int, short, long, float, double, char, bool, 
+
+##### Composite Variables
+- Complex data structures that are composed of primitive data types or other composite variable types
+- Array, String, Pointer, Object, User Defined Variable (struct or class)
+
+### Scope of Variables
+
+##### Local Variables
+- Declared within a block and have limited scope
+
+##### Global Variables
+- Accessible throughout the entire program.
+

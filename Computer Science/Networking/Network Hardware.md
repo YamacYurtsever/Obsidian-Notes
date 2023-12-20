@@ -1,0 +1,12 @@
+- **Adapter**: 
+	- Connects a device (such as a computer or laptop) to a [[Network | network]]
+	- It can be a wired Ethernet adapter or a wireless adapter for connecting to Wi-Fi networks
+- **Router**: 
+	- A network device responsible for directing data packets between different [[Network | network]]
+	- It operates at the [[OSI Model#^7e919f | network layer]] of the [[OSI Model]] and uses routing tables to determine the best path for data to reach its destination
+	- Intermediate routers don’t plan out the packet’s entire course; each router only knows the best next step to get it closer to its destination
+- **Router Firmware**: 
+	- Preinstalled, embedded software that manages the control of routing protocols, administrative features and the router's security mechanism
+- **Repeater**: 
+	- A network device that extends the range of a wireless signal by amplifying or repeating it
+	- It helps overcome signal degradation over long communication lines or in areas with obstacles that can weaken the signal
