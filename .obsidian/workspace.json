@@ -11,37 +11,11 @@
             "id": "75f102fdfa4378f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c7a353859685b700",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Memory Management 2023-12-21 01.20.14.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "4651e4bb4d51deda",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Memory Management 2023-12-21 01.17.43.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3ed1ecaad1dbdb60",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Memory Management 2023-12-21 01.10.51.excalidraw.md"
+                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -111,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md"
+              }
             }
           }
         ]
@@ -170,35 +148,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "75f102fdfa4378f6",
+  "active": "c4fe3e01075326d7",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Memory Management.md",
-    "Excalidraw/Memory Management 2023-12-21 01.17.43.excalidraw.md",
-    "Excalidraw/Memory Management 2023-12-21 01.20.14.excalidraw.md",
-    "Excalidraw/Memory Management 2023-12-21 01.10.51.excalidraw.md",
-    "Excalidraw",
-    "Computer Science/Programming Languages/Parameters.md",
-    "Computer Science/Computer Architecture and Organization/Memory Management.md",
-    "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Untitled.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Untitled.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Arrays.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Structs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Sets.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Dictionaries.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Tuples.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Comparison of ADTs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Hash Tables.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Stacks.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Queues.md",
+    "Computer Science/Programming Languages/Memory Management.md",
+    "Computer Science/Computer Architecture and Organization/Memory Management.md",
+    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
+    "Computer Science/Computer Architecture and Organization/Memory.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Images/Memory Management 2023-12-21 01.10.51.excalidraw.md",
+    "Images/Memory Management 2023-12-21 01.17.43.excalidraw.md",
+    "Images/Memory Management 2023-12-21 01.20.14.excalidraw.md",
+    "Excalidraw",
+    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Linked-Lists.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Lists.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Tries.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Trees.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Programming Languages/Human-to-Machine Translation.md",
-    "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/CLI.md",
-    "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Algorithms and Data Structures/Recursion.md",
-    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Computer Architecture and Organization/Cache Memory.md",
-    "Computer Science/Programming Languages/Variables.md"
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types"
   ]
 }
