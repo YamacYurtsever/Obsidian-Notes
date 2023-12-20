@@ -18,18 +18,15 @@ int b = 5: // Initialization
 
 ##### Primitive Variables
 - The most fundamental and elementary data types in a programming language
-- int, short, long, float, double, char, bool, 
+- int, short, long, float, double, char, bool, pointer
 
 ##### Composite Variables
 - Complex data structures that are composed of primitive data types or other composite variable types
-- Array, String, Pointer, Object, User Defined Variable (struct or class)
+- User Defined Variables (struct or class), data structures, strings
 
 ### Scope of Variables
 
 ##### Local Variables
-
-^bad0ef
-
 - Declared within a block and have limited scope
 
 ##### Global Variables

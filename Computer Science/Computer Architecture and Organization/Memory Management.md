@@ -2,7 +2,7 @@ The [[Operating System]] manages the memory:
 ![[Operating System#Memory Management]]
 
 #### Stack Memory
-- Typically used for storing [[Variables#^bad0ef | local variables]] and [[Functions | functions]] (variables with a limited scope)
+- Typically used for storing [[Variables#Local Variables| local variables]] and [[Functions | functions]] (variables with a limited scope)
 - Memory is **automatically allocated and deallocated** as functions are called and returned ^8edada
 - It follows the **last-in-first-out (LIFO)** order (e.g. recursive functions)
 
