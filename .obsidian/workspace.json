@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Binary Search.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md"
+                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Binary Search.md"
               }
             }
           }
@@ -161,41 +161,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4fe3e01075326d7",
+  "active": "465e1dc119023026",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Search Algorithms.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Binary Search.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Linear Search.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms/Sort Algorithms.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sort Algorithms",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms",
+    "Computer Science/Algorithms and Data Structures/Recursion.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static vs Dynamic Data Strucures.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types vs Concrete Data Types.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types vs Concrete Data Types.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static vs Dynamic Data Strucures.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures",
     "UNSW/Classes to Topics.md",
     "Computer Science/Programming Languages/Variables.md",
     "UNSW",
     "Computer Science/UNSW",
     "Computer Science/Computer Architecture and Organization/Memory Management.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Sets.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Dictionaries.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Classes & Objects.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Dictionaries.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types/Untitled.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Structs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Concrete Data Types",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types/Comparison of ADTs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Hash Tables.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
-    "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Images/Memory Management 2023-12-21 01.10.51.excalidraw.md",
-    "Images/Memory Management 2023-12-21 01.17.43.excalidraw.md",
-    "Images/Memory Management 2023-12-21 01.20.14.excalidraw.md",
-    "Excalidraw",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types"
+    "Computer Science/Computer Architecture and Organization/Memory.md"
   ]
 }
