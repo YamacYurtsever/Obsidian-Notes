@@ -31,5 +31,5 @@ int binarySearch(int arr[], int n, int target) {
     return -1;  // Element not found
 }
 ```
+-  Needs to be sorted before being searched
 - [[Time Complexity]]: O(log n)
-- ! Needs to be sorted before being searched
