@@ -8,6 +8,11 @@
 | Modifications inside the function do not affect the original variable | Modifications inside the function affect the original variable |
 | E.g.: [[Variables#Primitive Variables \| Primitive Variables]]        | E.g.: [[Variables#Composite Variables \| Composite Variables]] | 
 
+| Pass by Value                                 | Pass by Reference                                       |
+| --------------------------------------------- | ------------------------------------------------------- |
+| A copy of the value is passed to the function | A reference or memory address is passed to the function |
+|                                               |                                                         |
+
 ```C
 #include <stdio.h>
 

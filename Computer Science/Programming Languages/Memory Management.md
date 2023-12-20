@@ -20,6 +20,24 @@
 - E.g.: C, C++
 
 #### Memory Management in C
-- & -> Tells the address of a [[Variables | variable]] in [[Memory | memory]]
-- ""* -> Goes to a specific address and retrieves the data
-- 
+
+- **Reference Operator: &** 
+	- Tells the address of a [[Variables | variable]] in [[Memory | memory]]
+
+- **Dereference Operator: \***
+	- Goes to a specific address and retrieves the data
+
+- **Pointer: datatype \*name**
+	- A variable that contains the memory address of a value in the computers memory 
+	- The `*` is used to indicate that the variable is a pointer, not the dereference operator
+
+- **Malloc** 
+	- Allocates Memory 
+	- Inputs the number of [[Data Representation#^ff39e6 | bytes]]
+	- sizeof(datatype) tells how many [[Data Representation#^ff39e6 | bytes]] a data type is
+
+- **Free** 
+	- Deallocates (Frees) Memory 
+	- Inputs the pointer or memory block to deallocate
+
+#### Dynamic Memory Allocation

@@ -27,6 +27,9 @@ int b = 5: // Initialization
 ### Scope of Variables
 
 ##### Local Variables
+
+^bad0ef
+
 - Declared within a block and have limited scope
 
 ##### Global Variables

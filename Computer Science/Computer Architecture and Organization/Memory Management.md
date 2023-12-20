@@ -2,12 +2,12 @@ The [[Operating System]] manages the memory:
 ![[Operating System#Memory Management]]
 
 #### Stack Memory
-- Typically used for storing **local variables and functions** (variables with a limited scope)
+- Typically used for storing [[Variables#^bad0ef | local variables]] and [[Functions | functions]] (variables with a limited scope)
 - Memory is **automatically allocated and deallocated** as functions are called and returned ^8edada
 - It follows the **last-in-first-out (LIFO)** order (e.g. recursive functions)
 
 #### Heap Memory
-- Typically used for **dynamic memory allocation** for storing variables with a longer lifetime or unknown size at compile time (like data structures created with `malloc`) are often stored in the heap
+- Typically used for [[Computer Science/Programming Languages/Memory Management#Dynamic Memory Allocation | dynamic memory allocation]] for storing variables with a longer lifetime or unknown size at compile time (like data structures created with `malloc`) are often stored in the heap
 - Memory in the heap needs to be explicitly managed by the programmer (allocated and freed)
 
 #### Overflow
