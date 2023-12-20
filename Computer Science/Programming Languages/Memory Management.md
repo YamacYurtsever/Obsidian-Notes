@@ -27,9 +27,9 @@
 - **Dereference Operator: \***
 	- Goes to a specific address and retrieves the data
 
-- **Pointer: datatype \*name**
-	- A variable that contains the memory address of a value in the computers memory 
-	- The `*` is used to indicate that the variable is a pointer, not the dereference operator
+- **Pointer: datatype\* name**
+	- A variable that contains the memory address of a value in the computers [[Memory | memory]] 
+	- The `*` is used to indicate that the [[Variables | variable]] is a pointer, not the dereference operator
 
 - **Malloc** 
 	- Allocates Memory 
@@ -41,3 +41,19 @@
 	- Inputs the pointer or memory block to deallocate
 
 #### Dynamic Memory Allocation
+```C
+int m;
+int* a = null;
+int* b = malloc(sizeof(int));
+```
+![[Memory Management 2023-12-21 01.10.51.excalidraw | 200]]
+```C
+a = b;
+m = 10;
+*a = m + 3;
+```
+![[Memory Management 2023-12-21 01.17.43.excalidraw | 200]]
+```C
+free(b)
+```
+![[Memory Management 2023-12-21 01.20.14.excalidraw | 200]]

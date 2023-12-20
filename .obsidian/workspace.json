@@ -11,11 +11,37 @@
             "id": "75f102fdfa4378f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7a353859685b700",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Computer Science/Programming Languages/Parameters.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/Memory Management 2023-12-21 01.20.14.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "4651e4bb4d51deda",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Memory Management 2023-12-21 01.17.43.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "3ed1ecaad1dbdb60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Memory Management 2023-12-21 01.10.51.excalidraw.md"
               }
             }
           }
@@ -85,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Programming Languages/Parameters.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,6 +173,10 @@
   "active": "75f102fdfa4378f6",
   "lastOpenFiles": [
     "Computer Science/Programming Languages/Memory Management.md",
+    "Excalidraw/Memory Management 2023-12-21 01.17.43.excalidraw.md",
+    "Excalidraw/Memory Management 2023-12-21 01.20.14.excalidraw.md",
+    "Excalidraw/Memory Management 2023-12-21 01.10.51.excalidraw.md",
+    "Excalidraw",
     "Computer Science/Programming Languages/Parameters.md",
     "Computer Science/Computer Architecture and Organization/Memory Management.md",
     "Computer Science/Algorithms and Data Structures/Static vs Dynamic Data Strucures.md",
@@ -173,9 +199,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Computer Architecture and Organization/Cache Memory.md",
-    "Computer Science/Programming Languages/Variables.md",
-    "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Programming Languages/Abstraction.md",
-    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md"
+    "Computer Science/Programming Languages/Variables.md"
   ]
 }
