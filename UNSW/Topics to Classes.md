@@ -3,7 +3,7 @@
 - <mark style="background: #D2B3FFA6;">COMP3121/3821</mark> - Algorithm Design and Analysis
 - COMP4121 - Advanced Algorithms
 - COMP4128 - Programming Challenges
-- <mark style="background: #FFF3A3A6;">COMP4141</mark> - Theory of Computation
+- <mark style="background: #CACFD9A6;">COMP4141</mark> - Theory of Computation
 - COMP6741 - Algorithms for Intractable Problems
 - COMP9312 - Data Analytics for Graphs
 ---
@@ -59,7 +59,7 @@
 ---
 ### Programming Languages
 - <mark style="background: #ADCCFFA6;">COMP1511</mark> - Programming Fundamentals
-- <mark style="background: #CACFD9A6;">COMP3131</mark> - Programming Languages and Compilers
+- <mark style="background: #FFF3A3A6;">COMP3131</mark> - Programming Languages and Compilers
 - COMP3161 - Concepts of Programming Languages
 - COMP6771 - Advanced C++ Programming
 ---
