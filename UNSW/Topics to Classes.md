@@ -1,9 +1,9 @@
 ### Algorithms and Data Structures
 - <mark style="background: #ADCCFFA6;">COMP2521</mark> - Data Structures and Algorithms
-- COMP3121 - Algorithm Design and Analysis
+- <mark style="background: #D2B3FFA6;">COMP3121</mark> - Algorithm Design and Analysis
 - COMP4121 - Advanced Algorithms
 - COMP4128 - Programming Challenges
-- COMP4141 - Theory of Computation
+- <mark style="background: #FFF3A3A6;">COMP4141</mark> - Theory of Computation
 - COMP6741 - Algorithms for Intractable Problems
 ---
 ### Artificial Intelligence
@@ -16,7 +16,7 @@
 - <mark style="background: #ADCCFFA6;">COMP1521</mark> - Computer Systems Fundamentals
 - COMP3211 - Computer Architecture
 - COMP3222 - Digital Circuits and Systems
-- COMP3231 - Operating Systems
+- <mark style="background: #FFF3A3A6;">COMP3231</mark> - Operating Systems
 ---
 ### Cybersecurity
 - COMP4337 - Securing Fixed and Wireless Networks
@@ -29,13 +29,13 @@
 - COMP6453 - Applied Cryptography
 ---
 ### Databases
-- COMP3311 - Database Systems
+- <mark style="background: #D2B3FFA6;">COMP3311</mark> - Database Systems
 ---
 ### Embedded Systems
 ---
 ### Game Development
-- COMP3421 - Computer Graphics
-- COMP4431 - Game Design Workshop
+- <mark style="background: #D2B3FFA6;">COMP3421</mark> - Computer Graphics
+- <mark style="background: #D2B3FFA6;">COMP4431</mark> - Game Design Workshop
 ---
 ### Networking
 - <mark style="background: #ADCCFFA6;">COMP3331</mark> - Computer Networks and Applications
@@ -50,9 +50,9 @@
 ---
 ### Software Design
 - <mark style="background: #ADCCFFA6;">COMP1531</mark> - Software Engineering Fundamentals
-- COMP2111 - System Modeling and Design
-- COMP2511 - Object-Oriented Design & Programming
-- COMP3141 - Software System Design and Implementation
+- <mark style="background: #D2B3FFA6;">COMP2111</mark> - System Modeling and Design
+- <mark style="background: #D2B3FFA6;">COMP2511</mark> - Object-Oriented Design & Programming
+- <mark style="background: #FFF3A3A6;">COMP3141</mark> - Software System Design and Implementation
 - COMP3153 - Algorithmic Verification
 - COMP4161 - Advanced Topics in Software Verification
 - COMP6721 - (In-)Formal Methods: The Lost Art
@@ -64,10 +64,10 @@
 - COMP4511 - User Interface Design and Construction
 
 #### *Front-End*
-- COMP6080 - Web Front-End Programming
+- <mark style="background: #FFF3A3A6;">COMP6080</mark> - Web Front-End Programming
 
 #### *Back-End*
-- COMP6991 - Solving Modern Programming Problems with Rust
+- <mark style="background: #FFF3A3A6;">COMP6991</mark> - Solving Modern Programming Problems with Rust
 
 #### *DevOps*
 - <mark style="background: #D2B3FFA6;">COMP2041</mark> - Software Construction: Techniques and Tools

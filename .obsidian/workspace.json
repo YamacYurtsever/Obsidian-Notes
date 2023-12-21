@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f912ad98c1da8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSW/Classes to Topics.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "75f102fdfa4378f6",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +150,13 @@
   },
   "active": "75f102fdfa4378f6",
   "lastOpenFiles": [
-    "UNSW/Classes to Topics.md",
+    "Computer Science/Computer Architecture and Organization/CPU.md",
+    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
+    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
+    "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "UNSW/Topics to Classes.md",
+    "UNSW/Classes to Topics.md",
+    "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Web Development/Design",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Web Development/DevOps/CLI.md",
@@ -185,13 +177,8 @@
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Computer Science/Algorithms and Data Structures/Recursion.md",
     "Sort Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Sort Algorithms.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Search Algorithms.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static vs Dynamic Data Strucures.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types vs Concrete Data Types.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures",
