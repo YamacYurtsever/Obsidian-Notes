@@ -16,16 +16,16 @@ When O(i) is equal to Ω(i)
 	- E.g.: Accessing an element in an array by index
 2. **O(log n): Logarithmic Time** ^fd9f43
 	- The running time grows logarithmically with the size of the input
-	- E.g.: [[Search Algorithms#Binary Search | Binary Search]]
+	- E.g.: [[Binary Search]]
 	- ! Usually when something is being divided into multiple parts, the running time is logarithmic
 1. **O(n): Linear Time**
 	- The running time is directly proportional to the size of the input
-	- E.g.: [[Search Algorithms#Linear Search | Linear Search]]
+	- E.g.: [[Linear Search]]
 2. **O(n log n): Linearithmic Time**
-	- E.g.: [[Sort Algorithms#Merge Sort | Merge Sort]]
+	- E.g.: [[Merge Sort]]
 3. **O(${n^k}$): Polynomial Time**
 	- The running time is a polynomial function of the input size
-	- [[Sort Algorithms#Selection Sort | Selection Sort]] & [[Sort Algorithms#Bubble Sort | Bubble Sort]]
+	- [[Selection Sort]] & [[Bubble Sort]]
 4. **O(2^n): Exponential Time**
 	- The running time grows exponentially with the size of the input
 	- E.g.:  [[Recursion | Recursive]] Fibonacci

@@ -1,0 +1,7 @@
+- COMP 1511 -> Programming Languages
+- COMP 1521 -> Computer Architecture and Organization
+- COMP 1531 -> Software Design
+- COMP 2521 -> Algorithms and Data Structures
+- COMP 2511 -> Software Design (OOP)
+- COMP 3121 -> Algorithms and Data Structures
+- 
