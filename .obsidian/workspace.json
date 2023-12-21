@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75f102fdfa4378f6",
+            "id": "7f912ad98c1da8c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "465e1dc119023026",
+            "id": "75f102fdfa4378f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CLI.md",
+                "file": "UNSW/Classes to Topics.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CLI.md",
+                "file": "UNSW/Classes to Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CLI.md",
+                "file": "UNSW/Classes to Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CLI.md"
+                "file": "UNSW/Classes to Topics.md"
               }
             }
           }
@@ -161,9 +161,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4fe3e01075326d7",
+  "active": "75f102fdfa4378f6",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "UNSW/Classes to Topics.md",
+    "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
@@ -185,7 +187,6 @@
     "Computer Science/Algorithms and Data Structures/Algorithms/Search Algorithms/Search Algorithms.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static vs Dynamic Data Strucures.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Abstract Data Types vs Concrete Data Types.md",
@@ -194,7 +195,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures",
     "UNSW",
     "Computer Science/UNSW",

@@ -4,4 +4,8 @@
 - COMP 2521 -> Algorithms and Data Structures
 - COMP 2511 -> Software Design (OOP)
 - COMP 3121 -> Algorithms and Data Structures
+- COMP 2041 -> Web Development / Dev Ops
+- COMP 2111 -> Software Design
+- COMP 3131 -> Programming Languages (Compilers)
+- COMP 3141 -> Software Design
 - 
