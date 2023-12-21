@@ -8,7 +8,7 @@
 - COMP9312 - Data Analytics for Graphs
 ---
 ### Artificial Intelligence
-- COMP3411 - Artificial Intelligence
+- <mark style="background: #CACFD9A6;">COMP3411</mark> - Artificial Intelligence
 - COMP3431 - Robotic Software Architecture
 - COMP4418 - Knowledge Representation and Reasoning
 - COMP6713 - Natural Language Processing
@@ -33,7 +33,7 @@
 - <mark style="background: #D2B3FFA6;">COMP6441/6841</mark> - Security Engineering and Cyber Security
 - COMP6443/6843 - Web Application Security and Testing
 - COMP6445/6845 - Digital Forensics
-- COMP6447 - System and Software Security Assessment
+- <mark style="background: #CACFD9A6;">COMP6447</mark> - System and Software Security Assessment
 - COMP6448 - Security Engineering Masterclass
 - COMP6453 - Applied Cryptography
 - COMP9301 - Cyber Security Project
@@ -47,7 +47,7 @@
 - COMP9321 - Data Services Engineering
 ---
 ### Game Development
-- COMP3421 - Computer Graphics
+- <mark style="background: #CACFD9A6;">COMP3421</mark> - Computer Graphics
 - <mark style="background: #FFF3A3A6;">COMP4431</mark> - Game Design Workshop
 ---
 ### Networking
@@ -59,7 +59,7 @@
 ---
 ### Programming Languages
 - <mark style="background: #ADCCFFA6;">COMP1511</mark> - Programming Fundamentals
-- COMP3131 - Programming Languages and Compilers
+- <mark style="background: #CACFD9A6;">COMP3131</mark> - Programming Languages and Compilers
 - COMP3161 - Concepts of Programming Languages
 - COMP6771 - Advanced C++ Programming
 ---
@@ -94,7 +94,7 @@
 - COMP6714 - Information Retrieval and Web Search
 - COMP6451 - Cryptocurrency and Distributed Ledger Technologies
 - COMP6452 - Software Architecture for Blockchain Applications
-- COMP3151 - Foundations of Concurrency
+- <mark style="background: #CACFD9A6;">COMP3151</mark> - Foundations of Concurrency
 - COMP6752 - Modeling Concurrent Systems
 - COMP9243 - Distributed Systems
 ---
@@ -102,7 +102,7 @@
 - <mark style="background: #ADCCFFA6;">MATH1081</mark> - Discrete Mathematics
 - <mark style="background: #ADCCFFA6;">MATH1131/1141</mark> - Mathematics 1A
 - <mark style="background: #ADCCFFA6;">MATH1231/1241</mark> - Mathematics 1B
-- MATH2400 - Finite Mathematics
-- MATH2859 - Probability, Statistics and Information
+- <mark style="background: #CACFD9A6;">MATH2400</mark> - Finite Mathematics
+- <mark style="background: #CACFD9A6;">MATH2859</mark> - Probability, Statistics and Information
 ---
 ![[Term Planner.png]]
