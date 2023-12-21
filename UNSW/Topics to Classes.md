@@ -1,35 +1,50 @@
 ### Algorithms and Data Structures
 - <mark style="background: #ADCCFFA6;">COMP2521</mark> - Data Structures and Algorithms
-- <mark style="background: #D2B3FFA6;">COMP3121</mark> - Algorithm Design and Analysis
+- <mark style="background: #D2B3FFA6;">COMP3121/3821</mark> - Algorithm Design and Analysis
 - COMP4121 - Advanced Algorithms
 - COMP4128 - Programming Challenges
 - <mark style="background: #FFF3A3A6;">COMP4141</mark> - Theory of Computation
 - COMP6741 - Algorithms for Intractable Problems
+- COMP9312 - Data Analytics for Graphs
 ---
 ### Artificial Intelligence
 - COMP3411 - Artificial Intelligence
 - COMP3431 - Robotic Software Architecture
 - COMP4418 - Knowledge Representation and Reasoning
 - COMP6713 - Natural Language Processing
+- COMP9417 - Machine Learning and Data Mining
+- COMP9418 - Advanced Topics in Statistical Machine Learning
+- COMP9444 - Neural Networks and Deep Learning
+- COMP9447 - Security Engineering Workshop
+- COMP9491 - Applied Artificial Intelligence
+- COMP9517 - Computer Vision
+- COMP9727 - Recommender Systems
 ---
 ### Computer Architecture and Organization
 - <mark style="background: #ADCCFFA6;">COMP1521</mark> - Computer Systems Fundamentals
 - COMP3211 - Computer Architecture
 - COMP3222 - Digital Circuits and Systems
-- <mark style="background: #FFF3A3A6;">COMP3231</mark> - Operating Systems
+- <mark style="background: #FFF3A3A6;">COMP3231/3891</mark> - Operating Systems
+- COMP9242 - Advanced Operating Systems
 ---
 ### Cybersecurity
 - COMP4337 - Securing Fixed and Wireless Networks
-- COMP6131 - Static Analysis for Software Security
-- COMP6441 - Security Engineering and Cyber Security
-- COMP6443 - Web Application Security and Testing
-- COMP6445 - Digital Forensics
+- COMP6131 - Software Security Analysis
+- COMP6441/6841 - Security Engineering and Cyber Security
+- COMP6443/6843 - Web Application Security and Testing
+- COMP6445/6845 - Digital Forensics
 - COMP6447 - System and Software Security Assessment
 - COMP6448 - Security Engineering Masterclass
 - COMP6453 - Applied Cryptography
+- COMP9301 - Cyber Security Project
+- COMP9302 - Cyber Security Project B
 ---
 ### Databases
 - <mark style="background: #D2B3FFA6;">COMP3311</mark> - Database Systems
+- COMP9313 - Big Data Management
+- COMP9315 - Database Systems Implementation
+- COMP9319 - Web Data Compression and Search
+- COMP9321 - Data Services Engineering
 ---
 ### Game Development
 - <mark style="background: #D2B3FFA6;">COMP3421</mark> - Computer Graphics
@@ -39,6 +54,8 @@
 - <mark style="background: #ADCCFFA6;">COMP3331</mark> - Computer Networks and Applications
 - COMP4336 - Mobile Data Networking
 - COMP6733 - Internet of Things Experimental Design Studio
+- COMP9332 - Network Routing and Switching
+- COMP9334 - Capacity Planning of Computer Systems and Networks
 ---
 ### Programming Languages
 - <mark style="background: #ADCCFFA6;">COMP1511</mark> - Programming Fundamentals
@@ -72,13 +89,14 @@
 - <mark style="background: #D2B3FFA6;">COMP2041</mark> - Software Construction: Techniques and Tools
 ---
 ### Other
-- COMP3151 - Foundations of Concurrency
-- COMP6752 - Modeling Concurrent Systems
+- COMP6714 - Information Retrieval and Web Search
 - COMP6451 - Cryptocurrency and Distributed Ledger Technologies
 - COMP6452 - Software Architecture for Blockchain Applications
-- COMP6714 - Information Retrieval and Web Search
+- COMP3151 - Foundations of Concurrency
+- COMP6752 - Modeling Concurrent Systems
+- COMP9243 - Distributed Systems
 ---
 ### Mathematics
 - <mark style="background: #ADCCFFA6;">MATH1081</mark> - Discrete Mathematics
-- <mark style="background: #ADCCFFA6;">MATH1131</mark> - Mathematics 1A
-- <mark style="background: #ADCCFFA6;">MATH1231</mark> - Mathematics 1B
+- <mark style="background: #ADCCFFA6;">MATH1131/1141</mark> - Mathematics 1A
+- <mark style="background: #ADCCFFA6;">MATH1231/1241</mark> - Mathematics 1B
