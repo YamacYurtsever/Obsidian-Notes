@@ -30,7 +30,7 @@
 ### Cybersecurity
 - COMP4337 - Securing Fixed and Wireless Networks
 - COMP6131 - Software Security Analysis
-- COMP6441/6841 - Security Engineering and Cyber Security
+- <mark style="background: #D2B3FFA6;">COMP6441/6841</mark> - Security Engineering and Cyber Security
 - COMP6443/6843 - Web Application Security and Testing
 - COMP6445/6845 - Digital Forensics
 - COMP6447 - System and Software Security Assessment
@@ -47,8 +47,8 @@
 - COMP9321 - Data Services Engineering
 ---
 ### Game Development
-- <mark style="background: #D2B3FFA6;">COMP3421</mark> - Computer Graphics
-- <mark style="background: #D2B3FFA6;">COMP4431</mark> - Game Design Workshop
+- COMP3421 - Computer Graphics
+- <mark style="background: #FFF3A3A6;">COMP4431</mark> - Game Design Workshop
 ---
 ### Networking
 - <mark style="background: #ADCCFFA6;">COMP3331</mark> - Computer Networks and Applications
@@ -89,6 +89,8 @@
 - <mark style="background: #D2B3FFA6;">COMP2041</mark> - Software Construction: Techniques and Tools
 ---
 ### Other
+- <mark style="background: #FFF3A3A6;">COMP3900</mark> - Computer Science Project
+- <mark style="background: #FFF3A3A6;">COMP4920</mark> - Professional Issues and Ethics in Information Technology
 - COMP6714 - Information Retrieval and Web Search
 - COMP6451 - Cryptocurrency and Distributed Ledger Technologies
 - COMP6452 - Software Architecture for Blockchain Applications
@@ -100,3 +102,5 @@
 - <mark style="background: #ADCCFFA6;">MATH1081</mark> - Discrete Mathematics
 - <mark style="background: #ADCCFFA6;">MATH1131/1141</mark> - Mathematics 1A
 - <mark style="background: #ADCCFFA6;">MATH1231/1241</mark> - Mathematics 1B
+- MATH2400 - Finite Mathematics
+- MATH2859 - Probability, Statistics and Information
