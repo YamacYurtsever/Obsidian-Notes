@@ -104,3 +104,5 @@
 - <mark style="background: #ADCCFFA6;">MATH1231/1241</mark> - Mathematics 1B
 - MATH2400 - Finite Mathematics
 - MATH2859 - Probability, Statistics and Information
+---
+![[Term Planner.png]]
