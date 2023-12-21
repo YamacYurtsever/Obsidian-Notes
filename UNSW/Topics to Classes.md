@@ -31,8 +31,6 @@
 ### Databases
 - <mark style="background: #D2B3FFA6;">COMP3311</mark> - Database Systems
 ---
-### Embedded Systems
----
 ### Game Development
 - <mark style="background: #D2B3FFA6;">COMP3421</mark> - Computer Graphics
 - <mark style="background: #D2B3FFA6;">COMP4431</mark> - Game Design Workshop
@@ -53,6 +51,7 @@
 - <mark style="background: #D2B3FFA6;">COMP2111</mark> - System Modeling and Design
 - <mark style="background: #D2B3FFA6;">COMP2511</mark> - Object-Oriented Design & Programming
 - <mark style="background: #FFF3A3A6;">COMP3141</mark> - Software System Design and Implementation
+- COMP3142 -  Software Testing and Quality Assurance
 - COMP3153 - Algorithmic Verification
 - COMP4161 - Advanced Topics in Software Verification
 - COMP6721 - (In-)Formal Methods: The Lost Art
