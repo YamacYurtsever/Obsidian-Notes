@@ -8,4 +8,36 @@
 - COMP 2111 -> Software Design
 - COMP 3131 -> Programming Languages (Compilers)
 - COMP 3141 -> Software Design
+- COMP 3151 -> Compter Architecture and Organization (Concurrency)
+- COMP 3133 -> Software Design & Algorithms
+- COMP 3161 -> Programming Languages
+- COMP 3211 -> Computer Architecture and Organization
+- COMP 3222 -> Computer Architecture and Organization
+- COMP 3231 -> Computer Architecture and Organization (Operating Systems)
+- COMP 3311 -> Databases
+- COMP 3331 -> Networking
+- COMP 34111 -> Artificial Intelligence
+- COMP3421 -> Game Development
+- COMP 3778 -> Artificial Intelligence
+- COMP 3511 -> Web Development / Design
+- COMP 4121 -> Algorithms and Data Structures
+- COMP 4128 -> Algorithms and Data Structures
+- COMP 4141 -> Algorithms and Data Structures
+- COMP 4161 -> Software Design
+- COMP 4336 -> Networking
+- COMP 4337 -> Networking
+- COMP 4418 -> Artificial Intelligence
+- COMP 4431 -> Game Development
+- COMP 4511 -> Web Development / Design
+- COMP 6080 -> Web Development / Front-end
+- COMP 6131 -> Cybersecurity
+- COMP 6641 -> Cybersecurity
+- COMP 6443 -> Cybersecurity
+- COMP 6445 -> Cybersecurity
+- COMP 6447 -> Cybersecurity
+- COMP 6448 -> Cybersecurity
+- COMP6451 -> Blockchain???
+- COMP6452 -> Blockchain???
+- COMP6453 -> Cybersecurity
+- COMP6713 -> Artificial Intelligence
 - 
