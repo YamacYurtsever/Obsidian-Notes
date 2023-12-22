@@ -1,6 +1,6 @@
 - Consists of dynamically allocated nodes where each node points to the next node in the sequence
 - This dynamic structure allows for efficient insertion and deletion operations at any position in the list
-- Don't have a fixed size and can contain different data types
+- **Doesn't have a fixed size** and can contain **different data types**
 - Can be searched at [[Time Complexity#^2171dc | linear time O(n)]]
 
 ![[Linked Lists 2023-12-22 13.05.15.excalidraw]]

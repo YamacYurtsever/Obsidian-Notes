@@ -1,6 +1,6 @@
-- Used to organize and store data in a sequential manner, where each element can be quickly accessed directly by its index in the array
+- Used to organize and store data in an ordered manner, where each element can be quickly accessed directly by its index in the array
 - The index usually starts from 0, and the elements are stored in contiguous memory locations
-- Have a fixed size and can contain only one data type
+- **Has a fixed size** and can contain **only one data type**
 - Can be searched at [[Time Complexity#^2171dc | linear time O(n)]]
 
 #### Key Operations

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md"
               }
             }
           }
@@ -150,21 +150,22 @@
   },
   "active": "ed2bcab415096f8d",
   "lastOpenFiles": [
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
-    "Computer Science/Programming Languages/Memory Management.md",
-    "Computer Science/Computer Architecture and Organization/Memory Management.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Selection Sort.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Merge Sort.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
+    "Computer Science/Programming Languages/Memory Management.md",
+    "Computer Science/Computer Architecture and Organization/Memory Management.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Bubble Sort.md",
     "Images/Linked Lists 2023-12-22 13.05.15.excalidraw.md",
@@ -183,7 +184,6 @@
     "Computer Science/Computer Architecture and Organization/Logic Gates.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "UNSW/Classes to Topics.md",
-    "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Web Development/Design",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms",
