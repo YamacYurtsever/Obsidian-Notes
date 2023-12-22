@@ -1,15 +1,15 @@
-- A fundamental data structure that follows the First-In-First-Out (FIFO) principle
-- Elements are added to the rear (enqueue) and removed from the front (dequeue)
-- This ensures that the oldest element in the queue is the next one to be processed
+- Follows the First-In-First-Out (FIFO) principle
+- Elements are added to the rear and removed from the front, which ensures that the oldest element in the queue is the next one to be processed
 - E.g.: Printer Spooling
 
-#### Queue Operations
+#### Key Operations
 - **Enqueue**: Adds an element to the rear of the queue
 - **Dequeue**: Removes an element from the front of the queue
 - **Peek**: Returns the element at the front of the queue without removing it
 - **IsEmpty**: Checks whether the queue is empty or not
+- **Size**: Returns the number of elements in the queue
 
-#### Queue Implementation
+#### Implementation
 Python
 ```python
 class Queue:
@@ -112,22 +112,5 @@ int peek(struct Queue* queue) {
 
     return queue->items[queue->front];
 }
-
-int main() {
-    // Example usage of the queue
-    struct Queue myQueue;
-    initializeQueue(&myQueue);
-
-    enqueue(&myQueue, 10);
-    enqueue(&myQueue, 20);
-    enqueue(&myQueue, 30);
-
-    printf("Front element: %d\n", peek(&myQueue));
-    printf("Dequeued element: %d\n", dequeue(&myQueue));
-    printf("Front element after dequeue: %d\n", peek(&myQueue));
-
-    return 0;
-}
-
 ```
 
