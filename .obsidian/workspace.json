@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Trees 2023-12-23 01.31.50.excalidraw.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Trees 2023-12-23 01.31.50.excalidraw.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Trees 2023-12-23 01.31.50.excalidraw.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md"
               }
             }
           }
@@ -159,17 +158,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1edf02c6a44b5f2",
+  "active": "ed2bcab415096f8d",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
-    "Images/Trees 2023-12-23 01.31.50.excalidraw.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
-    "Images/Pasted Image 20231223013205_154.png",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+    "Images/Trees 2023-12-23 01.31.50.excalidraw.md",
+    "Images/Pasted Image 20231223013205_154.png",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Selection Sort.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Merge Sort.md",
@@ -178,7 +178,6 @@
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Computer Architecture and Organization/Memory Management.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Bubble Sort.md",
     "Images/Linked Lists 2023-12-22 13.05.15.excalidraw.md",

@@ -1,4 +1,4 @@
-- Follows the First-In-First-Out (FIFO) principle
+- Follow the First-In-First-Out (FIFO) principle
 - Elements are added to the rear and removed from the front, which ensures that the oldest element in the queue is the next one to be processed
 - Can be searched at [[Time Complexity#^2171dc | linear time O(n)]]
 - E.g.: Printer Spooling

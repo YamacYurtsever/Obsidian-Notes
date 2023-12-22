@@ -1,0 +1,4 @@
+- A tree-like data structure where each node is usually a character of a string
+- Particularly useful for problems involving the efficient storage and retrieval of strings
+- **Don't have a fixed size** and can contain **different data types**
+- 
