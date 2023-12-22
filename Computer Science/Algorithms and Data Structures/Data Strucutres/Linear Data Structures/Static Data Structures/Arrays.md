@@ -13,3 +13,15 @@ int values[] = {1, 2, 3, 4, 5}; // Decleration & Initialization
 ```C
 int third_element = numbers[2]
 ```
+- **Modifying**
+```C
+numbers[0] = 10
+```
+
+#### Multi-Dimensional Arrays
+- Multidimensional arrays are a natural extension of the concept of arrays, allowing you to organize data in more than one dimension
+- They are often used to represent tables, matrices, or other higher-dimensional structures
+```
+int matrix[3][4];
+int matrixInitialized = 
+```
