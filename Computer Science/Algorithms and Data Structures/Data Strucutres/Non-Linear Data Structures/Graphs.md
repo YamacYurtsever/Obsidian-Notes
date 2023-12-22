@@ -7,8 +7,12 @@
 	- Each node can hold additional information, such as labels or attributes
 - **Edges**:
 	- Edges connect pairs of nodes and represent relationships between them
-- **Weighted Edges**:
-	- Edges can be assigned weights or costs to represent quantities such as distance, time, or any other relevant metric
+	- **Undirected Edges**: 
+		- Connections without a specified direction
+	- **Directed Edges**:
+		- Connections with a specified direction from one node to another
+	- **Weighted Edges**:
+		- Edges can be assigned weights or costs to represent quantities such as distance, time, probability or any other relevant metric
 - **Adjacency:**
 	- Two nodes are adjacent if there is an edge connecting them
 - **Degree**:
