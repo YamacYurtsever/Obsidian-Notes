@@ -18,7 +18,7 @@ When O(i) is equal to Ω(i)
 	- The running time grows logarithmically with the size of the input
 	- E.g.: [[Binary Search]]
 	- ! Usually when something is being divided into multiple parts, the running time is logarithmic
-1. **O(n): Linear Time**
+1. **O(n): Linear Time** ^2171dc
 	- The running time is directly proportional to the size of the input
 	- E.g.: [[Linear Search]]
 2. **O(n log n): Linearithmic Time**
