@@ -1,6 +1,7 @@
-- A data structure that stores a collection of elements, each identified by an index
-- Arrays are used to organize and store data in a sequential manner, where each element can be accessed directly by its position in the array
+- Used to organize and store data in a sequential manner, where each element can be quickly accessed directly by its index in the array
 - The index usually starts from 0, and the elements are stored in contiguous memory locations
+- Have a fixed size and can contain only one data type
+- Can be searched at [[Time Complexity#^2171dc | linear time O(n)]]
 
 #### Key Operations
 - **Declaration**: Declares the type of elements the array will hold and specifies its size
