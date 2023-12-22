@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
-                "mode": "source",
+                "file": "UNSW/Topics to Classes.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+                "file": "UNSW/Topics to Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+                "file": "UNSW/Topics to Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md"
+                "file": "UNSW/Topics to Classes.md"
               }
             }
           }
@@ -163,10 +163,20 @@
   "active": "75f102fdfa4378f6",
   "lastOpenFiles": [
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Selection Sort.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Merge Sort.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Bubble Sort.md",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Algorithms and Data Structures/Recursion.md",
+    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Magic Values.md",
+    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "UNSW/Topics to Classes.md",
     "Images/Term Planner.png",
     "UNSW/Obsidian-Notes/Images/Term Planner.png",
@@ -179,7 +189,6 @@
     "Computer Science/Networking/Data Transmission.md",
     "Computer Science/Computer Architecture and Organization/CPU.md",
     "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
-    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "UNSW/Classes to Topics.md",
     "Computer Science/Computer Architecture and Organization/Operating System.md",
@@ -188,15 +197,6 @@
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Programming Languages/Variables.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
-    "Computer Science/Programming Languages/Parameters.md",
-    "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Programming Languages/Memory Management.md",
-    "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures",

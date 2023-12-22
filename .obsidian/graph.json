@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Computer Science/Computer Architecture and Organization\"  ",
@@ -46,6 +46,6 @@
   "repelStrength": 9.78886044009054,
   "linkStrength": 0.49831162566329,
   "linkDistance": 290,
-  "scale": 0.4275554090396523,
+  "scale": 0.42755540903964934,
   "close": false
 }
