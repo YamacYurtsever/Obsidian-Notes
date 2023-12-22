@@ -46,18 +46,45 @@ int main() {
 
 #### Inserting to the Beginning
 ```C
-node* newNode = malloc(sizeof(node));
-newNode->value = 5;
-newNode->next = head;
-head = newNode;
+int InsertToBeginning(node* head, int newValue) {
+	// Create New Node
+	node* newNode = malloc(sizeof(node));
+	if (newNode == NULL)
+		return 1;
+	newNode->value = newValue;
+	
+	// Insert to Beginning
+	newNode->next = head;
+	head = newNode;
+
+	return 0;
+}
 ```
 
-#### Inserting to the Middle
+#### Inserting to the Index
 ```C
-insertIndex = 3;
-i = 0;
-while (i < 3) {
+int InsertToIndex(node* head, int newValue, int index) {
+	// Create New Node
+	node* newNode = malloc(sizeof(node));
+	if (newNode == NULL)
+		return 1;
+	newNode->value = newValue;
 	
+	// Traverse the Linked List Until the Index
+	node* current = head;
+	for (int i = 0; i < index; i++) {
+		current = current->next;
+		if (current == NULL) {
+			printf("Index out of range\n");
+			return 2;
+		}
+	}
+	
+	// Insert to the Index
+	newNode->next = current->next;
+	current->next = newNode;
+
+	return 0;
 }
 ```
 
