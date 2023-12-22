@@ -1,19 +1,133 @@
-- A queue is a fundamental data structure in computer science that follows the First-In-First-Out (FIFO) principle
-- In a queue data structure, elements are added to the rear (enqueue) and removed from the front (dequeue). 
-- This ensures that the oldest element in the queue is the next one to be processed.
+- A fundamental data structure that follows the First-In-First-Out (FIFO) principle
+- Elements are added to the rear (enqueue) and removed from the front (dequeue)
+- This ensures that the oldest element in the queue is the next one to be processed
+- E.g.: Printer Spooling
 
-###
-Enqueue: This operation adds an element to the rear of the queue.
+#### Queue Operations
+- **Enqueue**: Adds an element to the rear of the queue
+- **Dequeue**: Removes an element from the front of the queue
+- **Peek**: Returns the element at the front of the queue without removing it
+- **IsEmpty**: Checks whether the queue is empty or not
 
-Dequeue: This operation removes an element from the front of the queue.
+#### Queue Implementation
+Python
+```python
+class Queue:
+    def __init__(self):
+        self.items = []
 
-Additionally, there are two other common operations:
+    def is_empty(self):
+        return len(self.items) == 0
 
-Peek (or Front): Returns the element at the front of the queue without removing it.
+    def enqueue(self, item):
+        self.items.append(item)
 
-IsEmpty: Checks whether the queue is empty or not.
+    def dequeue(self):
+        if not self.is_empty():
+            return self.items.pop(0)
+        else:
+            raise IndexError("Dequeue from an empty queue")
 
-Queues can be implemented using various data structures, such as arrays or linked lists. The choice of implementation depends on the specific requirements of the application.
+    def peek(self):
+        if not self.is_empty():
+            return self.items[0]
+        else:
+            raise IndexError("Peek from an empty queue")
 
-Here's a simple example of a queue implemented using an array in a programming language like Python:
+    def size(self):
+        return len(self.items)
+```
+
+C
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAX_SIZE 100
+
+// Structure to represent a queue
+struct Queue {
+    int items[MAX_SIZE];
+    int front;
+    int rear;
+};
+
+void initializeQueue(struct Queue* queue) {
+    queue->front = -1;
+    queue->rear = -1;
+}
+
+int isEmpty(struct Queue* queue) {
+    return (queue->front == -1 && queue->rear == -1);
+}
+
+int isFull(struct Queue* queue) {
+    return (queue->rear == MAX_SIZE - 1);
+}
+
+void enqueue(struct Queue* queue, int value) {
+    if (isFull(queue)) {
+        printf("Queue is full. Cannot enqueue.\n");
+        return;
+    }
+
+    if (isEmpty(queue)) {
+        // If the queue is empty, set both front and rear to 0
+        queue->front = 0;
+        queue->rear = 0;
+    } else {
+        // Increment rear circularly
+        queue->rear = (queue->rear + 1) % MAX_SIZE;
+    }
+
+    // Enqueue the element
+    queue->items[queue->rear] = value;
+}
+
+int dequeue(struct Queue* queue) {
+    int dequeuedValue;
+
+    if (isEmpty(queue)) {
+        printf("Queue is empty. Cannot dequeue.\n");
+        exit(EXIT_FAILURE);
+    } else if (queue->front == queue->rear) {
+        // If there is only one element in the queue
+        dequeuedValue = queue->items[queue->front];
+        queue->front = -1;
+        queue->rear = -1;
+    } else {
+        // Dequeue the front element and increment front circularly
+        dequeuedValue = queue->items[queue->front];
+        queue->front = (queue->front + 1) % MAX_SIZE;
+    }
+
+    return dequeuedValue;
+}
+
+int peek(struct Queue* queue) {
+    if (isEmpty(queue)) {
+        printf("Queue is empty. Cannot peek.\n");
+        exit(EXIT_FAILURE);
+    }
+
+    return queue->items[queue->front];
+}
+
+int main() {
+    // Example usage of the queue
+    struct Queue myQueue;
+    initializeQueue(&myQueue);
+
+    enqueue(&myQueue, 10);
+    enqueue(&myQueue, 20);
+    enqueue(&myQueue, 30);
+
+    printf("Front element: %d\n", peek(&myQueue));
+    printf("Dequeued element: %d\n", dequeue(&myQueue));
+    printf("Front element after dequeue: %d\n", peek(&myQueue));
+
+    return 0;
+}
+
+```
 

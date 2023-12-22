@@ -21,15 +21,19 @@
 
 #### Memory Management in C
 
-- **Reference Operator -> `&`** 
+- **Reference Operator : `&`** 
 	- Tells the address of a [[Variables | variable]] in [[Memory | memory]]
 
-- **Dereference Operator -> `*`**
+- **Dereference Operator: `*`**
 	- Goes to a specific address and retrieves the data
 
-- **Pointer: -> `datatype* name`**
+- **Pointer: `datatype* name`**
 	- A variable that contains the memory address of a value in the computers [[Memory | memory]] 
 	- The `*` is used to indicate that the [[Variables | variable]] is a pointer, not the dereference operator
+
+- **Arrow Operator: `->`**
+	- When you have a pointer to a structure, you use the arrow operator to access its members
+	- It is equivalent to `(*pointer).member`
 
 - **Malloc** 
 	- Allocates Memory 
