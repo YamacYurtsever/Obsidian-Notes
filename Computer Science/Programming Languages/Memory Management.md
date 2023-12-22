@@ -71,4 +71,5 @@ node* node2 = malloc(sizeof(node))
 // Dynamic Memory Allocation -> Heap Memory
 ```
 - Both statements functionally achieve the same thing
-- However, [[Computer Science/Computer Architecture and Organization/Memory Management#Heap Memory | heap memory]] is usually larger [[Computer Science/Computer Architecture and Organization/Memory Management#Stack Memory | stack memory]]
+- However, [[Computer Science/Computer Architecture and Organization/Memory Management#Heap Memory | heap memory]] is usually larger [[Computer Science/Computer Architecture and Organization/Memory Management#Stack Memory | stack memory]], so it is preferable
+- Also, if the variable is created inside a function, it is still accessible outside
