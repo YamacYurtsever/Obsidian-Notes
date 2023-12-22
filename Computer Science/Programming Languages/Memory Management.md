@@ -70,6 +70,6 @@ node node1;
 node* node2 = malloc(sizeof(node)) 
 // Dynamic Memory Allocation -> Heap Memory
 ```
-- Both statements functionally achieve the same thing
+- Both statements achieve a similar result
 - However, [[Computer Science/Computer Architecture and Organization/Memory Management#Heap Memory | heap memory]] is usually larger [[Computer Science/Computer Architecture and Organization/Memory Management#Stack Memory | stack memory]], so it is preferable
-- Also, if the variable is created inside a function, it is still accessible outside
+- Also, the variable created by dynamic memory allocation has global [[Variables#Scope of Variables | scope]] while the cariable created by static memory allocation has local [[Variables#Scope of Variables | scope]]
