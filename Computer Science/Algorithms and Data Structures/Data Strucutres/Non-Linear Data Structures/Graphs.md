@@ -13,3 +13,5 @@
 	- Two nodes are adjacent if there is an edge connecting them
 - **Degree**:
 	- The degree of a node is the number of edges connected to it
+
+![[Pasted image 20231223021723.png | 500]]
