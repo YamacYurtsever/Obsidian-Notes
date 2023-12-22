@@ -63,11 +63,12 @@ free(b)
 ![[Memory Management 2023-12-21 01.20.14.excalidraw | 200]]
 
 #### Static vs Dynamic Memory Allocation
-Say we have a struct called node
+- Say we have a struct called node
 ```C
 node node1; 
 // Static Memory Allocation -> Stack Memory
 node* node2 = malloc(sizeof(node)) 
 // Dynamic Memory Allocation -> Heap Memory
 ```
-Both statements functionally achieve the same thing
+- Both statements functionally achieve the same thing
+- However, [[Computer Science/Computer Architecture and Organization/Memory Management#Heap Memory | heap memory]] is usually larger [[Computer Science/Computer Architecture and Organization/Memory Management#Stack Memory | stack memory]]

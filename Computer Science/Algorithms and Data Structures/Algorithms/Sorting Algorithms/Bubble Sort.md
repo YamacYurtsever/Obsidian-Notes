@@ -16,3 +16,6 @@ void bubbleSort(arr[], int n) {
 
 - Since after each iteration of the outer loop, the largest element is guaranteed to be at the last index, there is no need to compare and swap it again. Hence, n - i - 1 is used as the upper limit for the inner loop.
 - [[Time Complexity]]: O($n^2$)
+
+*Calculation*:
+- 
