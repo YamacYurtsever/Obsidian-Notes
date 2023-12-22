@@ -21,6 +21,6 @@ void selectionSort(arr[], int n)
 [[Time Complexity]]: O($n^2$)
 
 *Calculation*:
-- Each round in the outer for loop -> (n - 1) + (n - 2) + (n - 3) + ...
+- $\sum\limits_{i = 0}^{n-2}(n - i - 1)$ = (n - 1) + (n - 2)  + (n - 3) + ... + 1
 - Arithmetic series -> $S_n = n * \frac{(n - 1) + 1}{2} = n * \frac{n}{2} = \frac{n^2}{2}$
 - As n approaches infinity -> $n^2$

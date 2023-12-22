@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e82c80958642f1da",
+        "id": "2b7a287f945e43d8",
         "type": "tabs",
         "children": [
           {
-            "id": "02ade56d8f8db26a",
+            "id": "ed2bcab415096f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md"
               }
             }
           }
@@ -148,16 +148,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02ade56d8f8db26a",
+  "active": "ed2bcab415096f8d",
   "lastOpenFiles": [
-    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Selection Sort.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Merge Sort.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
-    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
-    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Selection Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Merge Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Bubble Sort.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
@@ -181,10 +185,6 @@
     "UNSW/Classes to Topics.md",
     "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Web Development/Design",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
-    "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Programming Languages/Debugging.md",
-    "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures",
