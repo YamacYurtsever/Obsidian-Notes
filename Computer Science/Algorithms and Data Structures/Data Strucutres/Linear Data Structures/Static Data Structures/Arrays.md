@@ -21,7 +21,9 @@ numbers[0] = 10
 #### Multi-Dimensional Arrays
 - Multidimensional arrays are a natural extension of the concept of arrays, allowing you to organize data in more than one dimension
 - They are often used to represent tables, matrices, or other higher-dimensional structures
-```
+```C
 int matrix[3][4];
-int matrixInitialized = 
+int matrixInitialized[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+int row1col2 = matrixInitialized[1][2];
+int row3col2 = 12;
 ```
