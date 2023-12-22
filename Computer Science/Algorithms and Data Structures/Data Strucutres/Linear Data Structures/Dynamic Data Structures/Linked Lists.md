@@ -32,7 +32,9 @@ int main() {
 	node2.next = &node3;
 	node3.next = NULL;
 	
-	node* current = &node1;
+	node* head = &node1;
+	node* current = head;
+
 	while (current != NULL) {
 		printf("%i\n", current->number);
 		current = current->next;
@@ -41,3 +43,24 @@ int main() {
 	return 0;
 }
 ```
+
+#### Inserting to the Beginning
+```C
+node* newNode = malloc(sizeof(node));
+newNode->value = 5;
+newNode->next = head;
+head = newNode;
+```
+
+#### Inserting to the Middle
+```C
+insertIndex = 3;
+i = 0;
+while (i < 3) {
+	
+}
+```
+
+
+
+

@@ -1,5 +1,6 @@
 - Follows the Last-In-First-Out (LIFO) principle
 - The last element added is the first one to be removed first
+- Can be searched at [[Time Complexity#^2171dc | linear time O(n)]]
 - E.g.: Going Back on a Browser
 
 #### Key Operations

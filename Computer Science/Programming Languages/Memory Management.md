@@ -5,7 +5,7 @@
 	- When a variable is declared but not initialized with a specific value, or when a variable is used before it is assigned a value, the variable may contain whatever data happened to be in that memory location at the time
 	- This data could be leftover from previous operations, or it might be arbitrary values that were present in the memory
 
-- **Nul**l:
+- **Null**:
 	- A value that represents the absence of a meaningful or valid value in programming
 	- It is often used to indicate that a variable or pointer does not point to any memory location or the failure of a memory allocation request
 
@@ -61,3 +61,13 @@ m = 10;
 free(b)
 ```
 ![[Memory Management 2023-12-21 01.20.14.excalidraw | 200]]
+
+#### Static vs Dynamic Memory Allocation
+Say we have a struct called node
+```C
+node node1; 
+// Static Memory Allocation -> Stack Memory
+node* node2 = malloc(sizeof(node)) 
+// Dynamic Memory Allocation -> Heap Memory
+```
+Both statements functionally achieve the same thing
