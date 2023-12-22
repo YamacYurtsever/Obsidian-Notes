@@ -11,7 +11,7 @@ When O(i) is equal to Ω(i)
 
 ### Common Runtimes
 ! Ordered in increasing time complexity
-1. **O(1) : Constant Time**
+1. **O(1) : Constant Time** ^fe68a1
 	- The running time of the algorithm remains constant, regardless of the size of the input. 
 	- E.g.: Accessing an element in an array by index
 2. **O(log n): Logarithmic Time** ^fd9f43

@@ -1,6 +1,6 @@
 - A hierarchical data structure that consists of nodes connected by edges
 - **Don't have a fixed size** and can contain **different data types**
-- They have the scalability of linked lists while also being able to be searched in [[Time Complexity#^fd9f43 | logarithmic time]] ([[#^28e812 | BTSs]])
+- They have the scalability of linked lists while also being able to be searched in [[Time Complexity#^fd9f43 | logarithmic time O(log n)]] ([[#^28e812 | BTSs]])
 
 #### Terms
 - **Node**: A part of trees that contains data and may have zero or more children
@@ -30,32 +30,29 @@ A binary tree where the left subtree of a node contains only nodes with values l
 
 #### Implementation
 ```C
-#include <stdio.h>
-#include <stdlib.h>
-
 struct Node {
-    int key;
+    int value;
     struct Node* left;
     struct Node* right;
 };
 
-struct Node* createNode(int key) {
+struct Node* createNode(int value) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
-    newNode->key = key;
+    newNode->value = value;
     newNode->left = NULL;
     newNode->right = NULL;
     return newNode;
 }
 
-struct Node* insert(struct Node* root, int key) {
+struct Node* insert(struct Node* root, int value) {
     if (root == NULL) {
         return createNode(key);
     }
 
-    if (key < root->key) {
-        root->left = insert(root->left, key);
-    } else if (key > root->key) {
-        root->right = insert(root->right, key);
+    if (key < root->value) {
+        root->left = insert(root->left, value);
+    } else if (key > root->value) {
+        root->right = insert(root->right, value);
     }
 
     return root;
@@ -64,20 +61,20 @@ struct Node* insert(struct Node* root, int key) {
 void inorderTraversal(struct Node* root) {
     if (root != NULL) {
         inorderTraversal(root->left);
-        printf("%d ", root->key);
+        printf("%d ", root->value);
         inorderTraversal(root->right);
     }
 }
 
-struct Node* search(struct Node* root, int key) {
-    if (root == NULL || root->key == key) {
+struct Node* search(struct Node* root, int value) {
+    if (root == NULL || root->value == value) {
         return root;
     }
 
-    if (key < root->key) {
-        return search(root->left, key);
+    if (key < root->value) {
+        return search(root->left, value);
     } else {
-        return search(root->right, key);
+        return search(root->right, value);
     }
 }
 ```
