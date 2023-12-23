@@ -11,8 +11,12 @@
             "id": "b39e69924b64a574",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Databases/Relational Databases.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Databases/Relational Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Databases/Relational Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Databases/Relational Databases.md"
+              }
             }
           }
         ]
@@ -142,6 +150,9 @@
   },
   "active": "b39e69924b64a574",
   "lastOpenFiles": [
+    "Computer Science/Databases/Types of Databases.md",
+    "Computer Science/Databases/Relational Databases.md",
+    "Computer Science/Computer Architecture and Organization/Memory.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
@@ -159,15 +170,12 @@
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Comparing Data Structures.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",
