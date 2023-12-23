@@ -83,7 +83,7 @@ LSR R2, R0, #1    @ 00000101 = 5  (halves)
 LSR R3, R2, #1    @ 00000010 = 2. (the last 1 shifts out)
 ROR R4, R2, #1    @ 10000010 = 130(the last 1 rotates to the beginning)
 ```
-- CMP -> Compare 
+- CMP -> Compare  ^3b3679
 	- Subtracts one operand from the other and updates the [[#^ed2c7f | CPSR]] registry without saving the result
 	- If the Negative Flag is 0 we know that the first operand is greater than the second and vice versa
 	- Also the Zero Flag is checked to see if they are equal

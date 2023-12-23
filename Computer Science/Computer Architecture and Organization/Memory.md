@@ -28,7 +28,7 @@
 
 ---
 
-#### Non-Volatile Memory
+### Non-Volatile Memory
 - Non-volatile storage devices can hold data even when power is turned off
 - In hard disks this is done through magnetic storage to store data on spinning disks
 	- The read/write heads on the drive can magnetize specific regions on the disk to represent binary data (0s and 1s)

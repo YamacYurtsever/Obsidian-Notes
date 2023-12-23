@@ -11,9 +11,9 @@
 - Takes care of the **decoding** step in [[Machine Instruction Cycle]]
 
 ### Arithmetic Logic Unit (ALU)
-- Performs arithmetic operations: addition, subtraction, multiplication and division
-- Performs logic operations: AND, OR, NOT, ... ([[Logic Gates]])
-- Performs comparison: greater than, equal to, less than
+- Performs [[Arithmetic Operations | arithmetic operations]]: addition, subtraction, multiplication and division
+- Performs [[Logic Gates | logic operations]]: AND, OR, NOT, ...
+- Performs [[ARM Assembly#^3b3679 | comparison]]: greater than, equal to, less than
 - Takes care of the **execute** step in [[Machine Instruction Cycle]]
 
 ### Registers
