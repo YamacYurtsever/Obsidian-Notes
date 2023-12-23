@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Programming Languages/Error Handling.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -148,12 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b39e69924b64a574",
+  "active": "c4fe3e01075326d7",
   "lastOpenFiles": [
+    "Computer Science/Networking/Network Protocols.md",
+    "Computer Science/Networking/Network Hardware.md",
+    "Computer Science/Networking/Network.md",
+    "Computer Science/Programming Languages/Error Handling.md",
+    "Computer Science/Programming Languages/Functions.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Programming Languages/Data Precision.md",
@@ -163,7 +167,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Computer Science/Algorithms and Data Structures/Recursion.md",
-    "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
@@ -173,9 +176,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Comparing Data Structures.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
-    "Computer Science/Computer Architecture and Organization/Arithmetic Operations.md",
-    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",

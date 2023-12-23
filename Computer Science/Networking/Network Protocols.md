@@ -33,7 +33,7 @@ DATE (KEY): XXX (VALUE)
 ...
 ```
 
-! One value always returned is an **exit code**
+! One value always returned is an [[Error Handling#Exit Codes | exit code]]
 
 **HTTP Response**
 ```
