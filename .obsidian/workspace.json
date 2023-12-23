@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md"
               }
             }
           }
@@ -151,9 +151,17 @@
   "active": "ed2bcab415096f8d",
   "lastOpenFiles": [
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Comparing Data Structures.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Computer Architecture and Organization/Arithmetic Operations.md",
     "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
     "Computer Science/Computer Architecture and Organization/CPU.md",
@@ -170,16 +178,8 @@
     "Images/Pasted image 20231223141622.png",
     "Images/Hash Tables 2023-12-23 13.09.27.excalidraw.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Dictionaries.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Programming Languages/Variables.md",
-    "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Parameters.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
     "Images/Pasted image 20231223021723.png",
     "Images/Pasted image 20231223020142.png",
     "Images/Pasted Image 20231223013205_154.png",
