@@ -1,3 +1,7 @@
+- The components used to store and retrieve data for processing
+
+---
+
 ### Primary Memory & Secondary Memory
 
 | Primary (Main) Memory                            | Secondary Memory                                                             |

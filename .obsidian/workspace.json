@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7a287f945e43d8",
+        "id": "d34be6fc4bf42f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2bcab415096f8d",
+            "id": "b39e69924b64a574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-                "mode": "source",
+                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md"
+                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md"
               }
             }
           }
@@ -148,10 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed2bcab415096f8d",
+  "active": "b39e69924b64a574",
   "lastOpenFiles": [
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
+    "Computer Science/Computer Architecture and Organization/Memory.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Algorithms and Data Structures/Recursion.md",
+    "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
@@ -169,17 +176,10 @@
     "Computer Science/Computer Architecture and Organization/Logic Gates.md",
     "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
     "Computer Science/Computer Architecture and Organization/Operating System.md",
-    "Computer Science/Computer Architecture and Organization/Memory Management.md",
-    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",
     "Images/Pasted image 20231223141622.png",
-    "Images/Hash Tables 2023-12-23 13.09.27.excalidraw.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Dictionaries.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Arrays.md",
-    "Computer Science/Programming Languages/Variables.md",
     "Images/Pasted image 20231223021723.png",
     "Images/Pasted image 20231223020142.png",
     "Images/Pasted Image 20231223013205_154.png",
