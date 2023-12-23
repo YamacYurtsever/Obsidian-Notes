@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md",
-                "mode": "preview",
+                "file": "Computer Science/Programming Languages/Error Handling.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+                "file": "Computer Science/Programming Languages/Error Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+                "file": "Computer Science/Programming Languages/Error Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Concatenation & Interpolation.md"
+                "file": "Computer Science/Programming Languages/Error Handling.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "b39e69924b64a574",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Programming Languages/Error Handling.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Programming Languages/Debugging.md",
+    "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
     "Computer Science/Computer Architecture and Organization/Memory.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
@@ -171,11 +176,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Computer Architecture and Organization/Arithmetic Operations.md",
     "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
-    "Computer Science/Computer Architecture and Organization/CPU.md",
-    "Computer Science/Computer Architecture and Organization/Data Representation.md",
-    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
-    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
-    "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",

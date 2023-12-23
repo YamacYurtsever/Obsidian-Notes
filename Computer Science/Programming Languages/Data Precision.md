@@ -50,7 +50,7 @@ unsigned int x = -5;
 // This will result in an error
 ```
 
-#### Constants
+##### Constants
 - Values in a program that, once assigned, cannot be changed during the program's execution
 - They are used to represent fixed values, such as mathematical constants or configuration settings
 ```C
