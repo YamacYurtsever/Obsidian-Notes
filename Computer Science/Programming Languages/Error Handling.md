@@ -5,14 +5,26 @@
 - Specific exit codes are used to indicate success, errors, or other conditions
 - 0 is usually the exit code for success
 
+C
 ```C
+#include <stdlib.h>
+
 int main() {
     if (some_condition) {
-        return EXIT_FAILURE;
+        return EXIT_CODE; //Failure
     }
-    return EXIT_SUCCESS;
+    return 0; //Success
 }
+```
 
+Python
+```python
+import sys
+
+def main():
+    if some_condition:
+        sys.exit(EXIT_CODE) #Failure
+    return 0 #Success
 ```
 
 ### Exception Handling 
