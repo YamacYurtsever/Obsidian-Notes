@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
-                "mode": "preview",
+                "file": "Computer Science/Computer Architecture and Organization/Memory.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
+                "file": "Computer Science/Computer Architecture and Organization/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
+                "file": "Computer Science/Computer Architecture and Organization/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/ARM Assembly.md"
+                "file": "Computer Science/Computer Architecture and Organization/Memory.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "ed2bcab415096f8d",
   "lastOpenFiles": [
     "Computer Science/Computer Architecture and Organization/CPU.md",
+    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Images/Hash Tables 2023-12-23 13.09.27.excalidraw.md",
@@ -178,7 +179,6 @@
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
     "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
-    "Computer Science/Programming Languages/Memory Management.md",
     "Images/Term Planner.png",
     "UNSW/Obsidian-Notes/Images/Term Planner.png",
     "UNSW/Obsidian-Notes/Images",
