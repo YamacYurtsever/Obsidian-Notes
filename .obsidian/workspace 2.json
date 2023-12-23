@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "9c6ee319ad1dd213",
+    "type": "split",
+    "children": [
+      {
+        "id": "e82c80958642f1da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75f102fdfa4378f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Programming Languages/Functions.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02ade56d8f8db26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1411efe03e3ccff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a135b4684895ab19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fe3e01075326d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1eba57745ea5cb37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Packet Sw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1884853dce8cb7fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acd3a4ed3de36ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "f81028df8016bacc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "262805d717bc79ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Programming Languages/Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ec56ac88cdca4b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Programming Languages/Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c7aaa19de52fac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a07dd24a3c1d5e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Programming Languages/Functions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "75f102fdfa4378f6",
+  "lastOpenFiles": [
+    "UNSW/Topics to Classes.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Linear Search.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms/Binary Search.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Selection Sort.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms/Merge Sort.md",
+    "Bubble Sort.md",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Algorithms and Data Structures/Recursion.md",
+    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Magic Values.md",
+    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+    "Images/Term Planner.png",
+    "UNSW/Obsidian-Notes/Images/Term Planner.png",
+    "UNSW/Obsidian-Notes/Images",
+    "UNSW/Obsidian-Notes",
+    "Images/ASCII Table.png",
+    "UNSW/Images/Term Planner.png",
+    "UNSW/Images",
+    "UNSW CS Plan FN.png",
+    "Computer Science/Networking/Data Transmission.md",
+    "Computer Science/Computer Architecture and Organization/CPU.md",
+    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
+    "Computer Science/Computer Architecture and Organization/Data Representation.md",
+    "UNSW/Classes to Topics.md",
+    "Computer Science/Computer Architecture and Organization/Operating System.md",
+    "Computer Science/Web Development/Design",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Web Development/DevOps/CLI.md",
+    "Computer Science/Programming Languages/Debugging.md",
+    "Computer Science/Programming Languages/Variables.md",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
+    "Computer Science/Algorithms and Data Structures/Algorithms/Searching Algorithms",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures"
+  ]
+}
