@@ -4,7 +4,7 @@
 - Normally hash tables can be searched at [[Time Complexity#^fe68a1 | constant time O(1)]], however if many keys hash to the same index, then the time complexity may degrade to [[Time Complexity#^2171dc | linear time O(n)]]
 - The efficiency of a hash table is associated with a balanced distribution of elements across its indices
 
-![[Hash Tables 2023-12-23 13.09.27.excalidraw]]
+![[Hash Tables 2023-12-23 13.09.27.excalidraw | 400]]
 
 #### Hash Function
 - The hash function takes a key as input and produces a fixed-size hash code or hash value
