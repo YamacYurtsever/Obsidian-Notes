@@ -11,12 +11,8 @@
             "id": "b39e69924b64a574",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Programming Languages/Error Handling.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Error Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Error Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Programming Languages/Error Handling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,25 +142,25 @@
   },
   "active": "b39e69924b64a574",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
+    "Computer Science/Algorithms and Data Structures/Recursion.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Debugging.md",
+    "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Networking/Network Hardware.md",
     "Computer Science/Networking/Network.md",
-    "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Programming Languages/Debugging.md",
-    "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
     "Computer Science/Computer Architecture and Organization/Memory.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
-    "Computer Science/Algorithms and Data Structures/Recursion.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",

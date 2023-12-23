@@ -37,6 +37,7 @@ def main():
 	- Contains code that should run if no exceptions occurred in the try block
 	- It is executed only if no exceptions were raised
 
+Python
 ```python
 try:
     result = 10 / 0
