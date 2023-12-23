@@ -1,9 +1,42 @@
-- A type of database that organizes data into tables, which consist of rows and columns
+- A type of database that organizes data into tables, which consist of rows and cells
 - SQL (Standard Query Language) is the standard language for interacting with relational databases
 
+#### Implementation
+
+Every cell of a table has **only one** value, so if a person has watched **multiple** tv shows, to store this in a relational database, you would need two tables: one table for people and their attributes and one for tv shows and their attributes, then these tables can have **relations** with each other
+
+```SQL
+CREATE TABLE People (
+    person_id INT PRIMARY KEY,
+    name VARCHAR(50),
+    age INT,
+    gender VARCHAR(10)
+);
+
+CREATE TABLE TVShows (
+    show_id INT PRIMARY KEY,
+    title VARCHAR(100),
+    genre VARCHAR(50),
+    release_year INT
+);
+
+CREATE TABLE WatchedShows (
+    person_id INT,
+    show_id INT,
+    PRIMARY KEY (person_id, show_id),
+    FOREIGN KEY (person_id) REFERENCES People(person_id),
+    FOREIGN KEY (show_id) REFERENCES TVShows(show_id)
+);
+```
+
 #### Data Types in SQL
-- INTEGER (INT)
-- 
+- `INTEGER`        (int)
+- `NUMERIC`        (date, time, ...)
+- `VARCHAR(n)` (Variable-length character strings with a maximum length)
+- `REAL`              (float)
+- `TEXT`              (string)
+- `BLOB`              (binary large object e.g.: images)
+...
 
 #### Main Functions of Relational Databases (CRUD)
 - Creating:
@@ -28,4 +61,10 @@
 - `ORDER BY`: Sorts the result set of a query by one or more columns in ascending (default) or descending order
 - `LIMIT`: Limits the number of rows returned by a query
 - `GROUP BY`: Groups rows based on the values in specified columns
+
+#### SQL Keys
+- `PRIMARY KEY`
+	- A unique identifier of a table, so that it is relatable from other tables
+- `SECONDARY KEY`
+	- A reference to the primary key of another table, relating them
 
