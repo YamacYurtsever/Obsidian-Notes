@@ -3,24 +3,24 @@
 
 #### Implementation
 
-Every cell of a table has **only one** value, so if a person has watched **multiple** tv shows, to store this in a relational database, you would need two tables: one table for people and their attributes and one for tv shows and their attributes, then these tables can have **relations** with each other
+Every cell of a table has **only one** value, so if a person has starred in **multiple** shows, to store this in a relational database, you would need at least two tables: one table for people and their attributes and one for shows and their attributes, then these tables can have **relations** with each other
 
 ```SQL
-CREATE TABLE People (
-    person_id INT PRIMARY KEY,
+CREATE TABLE people (
+    id INT PRIMARY KEY,
     name VARCHAR(50),
     age INT,
     gender VARCHAR(10)
 );
 
-CREATE TABLE TVShows (
-    show_id INT PRIMARY KEY,
+CREATE TABLE shows (
+    id INT PRIMARY KEY,
     title VARCHAR(100),
     genre VARCHAR(50),
     release_year INT
 );
 
-CREATE TABLE WatchedShows (
+CREATE TABLE stars (
     person_id INT,
     show_id INT,
     PRIMARY KEY (person_id, show_id),
@@ -68,3 +68,28 @@ CREATE TABLE WatchedShows (
 - `SECONDARY KEY`
 	- A reference to the primary key of another table, relating them
 
+#### Joining Tables
+! `.schema`: Shows all of the tables
+
+Example: 
+What are the Shows that Steve Carell starred in?
+Tables: shows, stars, people
+
+- **Parentheses**
+```SQL
+SELECT title FROM shows WHERE id IN 
+(SELECT show_id FROM stars WHERE person_id = 
+(SELECT id FROM people WHERE name = 'Steve Carell'));
+```
+- **Explicit Joining**
+```SQL
+SELECT title FROM people 
+JOIN stars ON people.id = stars.person_id
+JOIN shows ON stars.show_id = shows.id
+WHERE name = 'Steve Carell';
+```
+- **Implicit Joining**
+```SQL
+SELECT title FROM people, stars, shows
+WHERE people.person_id = stars.person_id AND
+```
