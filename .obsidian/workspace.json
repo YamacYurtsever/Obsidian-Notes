@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/AJAX.md",
+                "file": "Computer Science/Web Development/Back-End/APIs.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/AJAX.md",
+                "file": "Computer Science/Web Development/Back-End/APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/AJAX.md",
+                "file": "Computer Science/Web Development/Back-End/APIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/AJAX.md"
+                "file": "Computer Science/Web Development/Back-End/APIs.md"
               }
             }
           }
@@ -150,9 +150,15 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Back-End/HTTP Methods.md",
-    "Computer Science/Web Development/Front-End/AJAX.md",
+    "Computer Science/Web Development/Front-End/Client-to-Server Communication.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Computer Science/Web Development/Front-End/HTTP Methods.md",
     "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
@@ -172,17 +178,11 @@
     "Computer Science/Programming Languages/Function Mapping.md",
     "Computer Science/Programming Languages/Enumerators.md",
     "Computer Science/Programming Languages/Debugging.md",
-    "Computer Science/Programming Languages/Abstraction.md",
-    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming/Singletons?.md",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",
     "Computer Science/Web Development/Back-End/Back-End Technologies",
     "Computer Science/Web Development/Front-End/Front-End Technologies",
-    "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims",

@@ -16,5 +16,10 @@
 - Attribute Selector
 	- `selector[attribute = "value"] {}`
 
+Specificity?
+Responsive Design?
+Box Model?
+Layouts: Floats, Flexbox, Grid?
+
 ### Javascript
 - Interactivity of a website

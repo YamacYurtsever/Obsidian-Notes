@@ -1,1 +1,1 @@
-- Application Programming Interfaces
+- Application Programming Interfaces are a set of rules and protocols that allow one software application to interact with another
