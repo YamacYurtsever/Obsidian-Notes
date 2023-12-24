@@ -1,4 +1,4 @@
-- Client-to-server communication is done through **[[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Responses**
+- Server-to-client communication is done through **[[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Responses**
 
 ### Status Codes
 

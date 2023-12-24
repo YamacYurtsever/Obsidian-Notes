@@ -11,11 +11,9 @@
             "id": "7ad9436376027f1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
-                "mode": "source",
-                "source": true
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md"
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md"
               }
             }
           }
@@ -150,14 +148,16 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
+    "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/HTTP Methods.md",
     "Computer Science/Web Development/APIs.md",
     "Computer Science/Networking/Network Protocols.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Networking/Network Types.md",
     "Computer Science/Networking/Network Hardware.md",
     "Computer Science/Networking/Network.md",
@@ -168,13 +168,11 @@
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/Version Control.md",
     "Computer Science/Programming Languages/Conditionals.md",
     "Computer Science/Programming Languages/Loops.md",
     "Images/DOM.png",
-    "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
     "Images/Pasted image 20231224235605.png",
     "Computer Science/Networking/OSI Model.md",
     "Computer Science/Programming Languages/Parameters.md",
