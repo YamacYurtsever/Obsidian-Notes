@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
-                "mode": "preview",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "7ad9436376027f1f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md"
+                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md"
               }
             }
           }
@@ -148,10 +159,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "404dd91ce14a2148",
+  "active": "7ad9436376027f1f",
   "lastOpenFiles": [
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+    "Images/Pasted Image 20231224221006_775.png",
+    "Computer Science/Web Development/Front-End/Front-End Technologies.md",
+    "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Databases/Indexing.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Types of Databases.md",
@@ -173,9 +187,6 @@
     "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
-    "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
-    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",
