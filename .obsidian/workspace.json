@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md",
-                "mode": "preview",
+                "file": "Computer Science/Databases/Potential Problems in Databases.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md",
+                "file": "Computer Science/Databases/Potential Problems in Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md",
+                "file": "Computer Science/Databases/Potential Problems in Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md"
+                "file": "Computer Science/Databases/Potential Problems in Databases.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "404dd91ce14a2148",
   "lastOpenFiles": [
+    "Computer Science/Databases/Indexing.md",
+    "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Databases/Types of Databases.md",
     "Computer Science/Computer Architecture and Organization/Memory.md",
@@ -174,8 +176,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Tries.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",
