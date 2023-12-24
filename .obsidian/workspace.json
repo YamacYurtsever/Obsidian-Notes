@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Databases/Potential Problems in Databases.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases/Potential Problems in Databases.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases/Potential Problems in Databases.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Databases/Potential Problems in Databases.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md"
               }
             }
           }
@@ -150,21 +150,24 @@
   },
   "active": "404dd91ce14a2148",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Databases/Indexing.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Types of Databases.md",
     "Computer Science/Databases/Relational Databases.md",
+    "Computer Science/Networking/Network Types.md",
+    "Computer Science/Web Development/DevOps/CLI.md",
+    "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Computer Architecture and Organization/Memory.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Computer Science/Algorithms and Data Structures/Recursion.md",
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Programming Languages/Error Handling.md",
-    "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Networking/Network Hardware.md",
     "Computer Science/Networking/Network.md",
     "Computer Science/Programming Languages/Functions.md",
@@ -173,9 +176,6 @@
     "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
     "Computer Science/Algorithms and Data Structures/Time Complexity.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",

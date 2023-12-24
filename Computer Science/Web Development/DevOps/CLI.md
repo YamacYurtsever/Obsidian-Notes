@@ -13,7 +13,7 @@
 - **..** -> Previous directory
 ! cd not followed by anything changes the directory to the root
 
-#### Command Line Argument
+#### Command Line Arguments
 An additional word or phrase typed after a command in the CLI that modifies the behavior of that command
 - [[Parameters]] that are passed to a program or script when it is run from the [[CLI]]
 - They allow users to provide input to a program at the time of execution, influencing its behavior
