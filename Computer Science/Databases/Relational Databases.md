@@ -69,9 +69,8 @@ CREATE TABLE stars (
 	- A reference to the primary key of another table, relating them
 
 #### Joining Tables
-! `.schema`: Shows all of the tables
 
-Example: 
+*Example*: 
 What are the Shows that Steve Carell starred in?
 Tables: shows, stars, people
 
@@ -91,5 +90,10 @@ WHERE name = 'Steve Carell';
 - **Implicit Joining**
 ```SQL
 SELECT title FROM people, stars, shows
-WHERE people.person_id = stars.person_id AND
+WHERE people.id = stars.person_id
+AND stars.show_id = shows.id
+AND name = 'Steve Carell'
+/* If the name attribute existed in multiple of the tables that were joined, then the table would need to be specified -> table.attribute */
 ```
+
+! `.schema`: Shows all of the tables
