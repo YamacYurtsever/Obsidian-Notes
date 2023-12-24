@@ -24,27 +24,4 @@ Set of rules that computers adhere to in order transmit data over the internet
 
 ![[HTTP.excalidraw | 450]]
 
-! When data is sent from one device to another, it is sent as **key/value** pairs
-
-**HTTP Request **
-```
-GET: XXX
-DATE (KEY): XXX (VALUE)
-...
-```
-
-! One value always returned is an [[Error Handling#Exit Codes | exit code]]
-
-**HTTP Response**
-```
-200 -> OK
-301 -> Moved Permenantly
-403 -> Forbidden
-404 -> Not Found
-500 -> Internal Server Error
-...
-```
-
-! These can be seen in browsers though inspector > network > preserve log
-
 

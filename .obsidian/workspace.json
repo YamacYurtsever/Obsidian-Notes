@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/APIs.md",
-                "mode": "source",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/APIs.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/APIs.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/APIs.md"
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
               }
             }
           }
@@ -150,21 +150,27 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Front-End/Client-to-Server Communication.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/HTTP Methods.md",
+    "Computer Science/Web Development/APIs.md",
+    "Computer Science/Networking/Network Protocols.md",
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Computer Science/Networking/Network Types.md",
+    "Computer Science/Networking/Network Hardware.md",
+    "Computer Science/Networking/Network.md",
+    "Computer Science/Networking/Data Transmission.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
-    "Computer Science/Web Development/Front-End/HTTP Methods.md",
     "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/Version Control.md",
-    "Computer Science/Web Development/Back-End/APIs.md",
     "Computer Science/Programming Languages/Conditionals.md",
     "Computer Science/Programming Languages/Loops.md",
     "Images/DOM.png",
@@ -172,12 +178,6 @@
     "Images/Pasted image 20231224235605.png",
     "Computer Science/Networking/OSI Model.md",
     "Computer Science/Programming Languages/Parameters.md",
-    "Computer Science/Programming Languages/Memory Management.md",
-    "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Programming Languages/Function Mapping.md",
-    "Computer Science/Programming Languages/Enumerators.md",
-    "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",

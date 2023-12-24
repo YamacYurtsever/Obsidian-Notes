@@ -1,0 +1,3 @@
+- Application Programming Interfaces are a set of rules and protocols that allow one software application to interact with another
+- Clients can request data from the server through fetch APIs
+- Servers can retrieve data from other servers through APIs
