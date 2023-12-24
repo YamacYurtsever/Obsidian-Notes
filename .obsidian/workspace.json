@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "404dd91ce14a2148",
+            "id": "7ad9436376027f1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7ad9436376027f1f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md"
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md"
               }
             }
           }
@@ -161,9 +150,12 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
-    "Images/Pasted Image 20231224221006_775.png",
+    "Computer Science/Networking/Network Hardware.md",
+    "Computer Science/Networking/Network.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies.md",
     "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
+    "Images/Pasted Image 20231224221724_129.png",
+    "Images/Pasted Image 20231224221006_775.png",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Static Data Structures/Tuples.md",
     "Computer Science/Databases/Indexing.md",
@@ -182,8 +174,6 @@
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Programming Languages/Error Handling.md",
-    "Computer Science/Networking/Network Hardware.md",
-    "Computer Science/Networking/Network.md",
     "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
@@ -195,10 +185,8 @@
     "Images/Pasted image 20231223020142.png",
     "Images/Pasted Image 20231223013205_154.png",
     "Images/Term Planner.png",
-    "UNSW/Obsidian-Notes/Images/Term Planner.png",
     "UNSW/Obsidian-Notes/Images",
     "UNSW/Obsidian-Notes",
-    "Images/ASCII Table.png",
     "UNSW/Images",
     "Computer Science/Web Development/Design",
     "Computer Science/Algorithms and Data Structures/Algorithms/Sorting Algorithms",
