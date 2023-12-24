@@ -3,7 +3,7 @@
   
 ```
 GET: XXX
-DATE (KEY): XXX (VALUE)
+DATE: XXX
 ...
 ```
 

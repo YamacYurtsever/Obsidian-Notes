@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
-                "mode": "preview",
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/HTTP Methods.md",
@@ -167,8 +169,6 @@
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/Front-End/Events.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/Version Control.md",
     "Computer Science/Programming Languages/Conditionals.md",
