@@ -1,0 +1,4 @@
+- `GET`: Retrieves data from server to the client
+- `POST`: Sends data from the client to the server
+- `PUT`: Updates the data in the server
+- `DELETE`: Removes data from the server
