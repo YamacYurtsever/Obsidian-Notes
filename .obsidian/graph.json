@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Computer Science/Computer Architecture and Organization\"  ",
@@ -34,9 +34,16 @@
         "a": 1,
         "rgb": 13335845
       }
+    },
+    {
+      "query": "path: \"Computer Science/Databases\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12261822
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.51077962076515,
@@ -46,6 +53,6 @@
   "repelStrength": 9.78886044009054,
   "linkStrength": 0.49831162566329,
   "linkDistance": 290,
-  "scale": 0.34220196345162135,
+  "scale": 0.5303925481238912,
   "close": false
 }
