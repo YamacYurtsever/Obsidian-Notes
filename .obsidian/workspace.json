@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
-                "mode": "preview",
+                "file": "Computer Science/Web Development/Front-End/AJAX.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
+                "file": "Computer Science/Web Development/Front-End/AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
+                "file": "Computer Science/Web Development/Front-End/AJAX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Core.md"
+                "file": "Computer Science/Web Development/Front-End/AJAX.md"
               }
             }
           }
@@ -150,10 +150,18 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/AJAX.md",
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Computer Science/Programming Languages/Conditionals.md",
+    "Computer Science/Programming Languages/Loops.md",
+    "Images/DOM.png",
+    "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
+    "Images/Pasted image 20231224235605.png",
+    "Computer Science/Networking/OSI Model.md",
     "Computer Science/Programming Languages/Parameters.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Loops.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Function Mapping.md",
     "Computer Science/Programming Languages/Enumerators.md",
@@ -163,7 +171,6 @@
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming/Singletons?.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",
@@ -179,21 +186,14 @@
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims",
     "Computer Science/Programming Languages/Error Handling.md",
-    "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Networking/Network Hardware.md",
-    "Computer Science/Networking/Network.md",
-    "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
     "Images/Pasted Image 20231224221724_129.png",
     "Images/Pasted Image 20231224221006_775.png",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",
     "Images/Pasted image 20231223141622.png",
     "Images/Pasted image 20231223021723.png",
     "Images/Pasted image 20231223020142.png",
-    "Images/Pasted Image 20231223013205_154.png",
-    "Images/Term Planner.png",
     "UNSW/Obsidian-Notes/Images",
     "UNSW/Obsidian-Notes"
   ]
