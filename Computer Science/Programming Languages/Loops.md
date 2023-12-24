@@ -1,0 +1,1 @@
+! For, foreach, switch, while, do-while

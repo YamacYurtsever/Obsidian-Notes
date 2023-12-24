@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md"
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies.md"
               }
             }
           }
@@ -150,10 +150,16 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming/Lambda Expressions.md",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming/Function Mapping.md",
-    "Computer Science/Programming Languages/Regular Expressions.md",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
+    "Computer Science/Programming Languages/Loops.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Programming Languages/Enumerators.md",
+    "Computer Science/Programming Languages/Debugging.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
+    "Computer Science/Programming Languages/Abstraction.md",
+    "Computer Science/Programming Languages/Function Mapping.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+    "Computer Science/Programming Languages/Regular Expressions.md",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Ternary Operator.md",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
@@ -161,7 +167,6 @@
     "Computer Science/Software Design/Programming Paradigims",
     "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies.md",
     "Computer Science/Networking/Network Hardware.md",
     "Computer Science/Networking/Network.md",
@@ -176,11 +181,6 @@
     "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Networking/Network Types.md",
     "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Networking/Network Protocols.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Structs.md",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
     "Images/Pasted image 20231223141632.png",

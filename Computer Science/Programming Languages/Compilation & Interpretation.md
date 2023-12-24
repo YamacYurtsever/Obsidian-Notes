@@ -1,4 +1,4 @@
-- High level programming languages are necessary for humans to communicate with the computer efficiently
+D- High level programming languages are necessary for humans to communicate with the computer efficiently
 - In order for readable high level code to be understood by the computer, it needs to be translated into machine code or an equivalent form that can be executed
 
 ### Compilation
