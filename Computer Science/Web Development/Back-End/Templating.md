@@ -52,7 +52,7 @@
 {% block title %}Page Title{% endblock %}
 
 {% block content %}
-  <h1>This is the content of the page.</h1>
+	<h1>This is the content of the page.</h1>
 {% endblock %}
 ```
 

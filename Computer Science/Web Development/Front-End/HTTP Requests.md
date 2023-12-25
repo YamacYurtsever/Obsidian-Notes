@@ -1,6 +1,7 @@
 - Client-to-server communication is done through **[[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Requests**
 - The most common ways of making HTTP Requests are **forms and fetch [[APIs]]**
-  
+
+! DO CHATGPT EXPLAIN HTTP REQUESTS
 ```
 GET: XXX
 DATE: XXX

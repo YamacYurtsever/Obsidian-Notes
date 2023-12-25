@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
-                "mode": "source",
+                "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md"
+                "file": "Computer Science/Web Development/Front-End/Front-End Core.md"
               }
             }
           }
@@ -150,15 +150,17 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
+    "UNSW/Topics to Classes.md",
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
     "Computer Science/Web Development/Front-End/Events.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/HTTP Methods.md",
     "Computer Science/Web Development/APIs.md",
     "Computer Science/Networking/Network Protocols.md",
@@ -166,7 +168,6 @@
     "Computer Science/Networking/Network Hardware.md",
     "Computer Science/Networking/Network.md",
     "Computer Science/Networking/Data Transmission.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
@@ -177,7 +178,6 @@
     "Computer Science/Programming Languages/Loops.md",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
-    "Computer Science/Networking/OSI Model.md",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",
