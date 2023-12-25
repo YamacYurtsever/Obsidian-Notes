@@ -1,12 +1,12 @@
-### HTML (Hypertext Markup Language)
+## HTML (Hypertext Markup Language)
 - Structure of a website
 
 ![[Front-End Technologies 2023-12-24 22.09.51.excalidraw | 300]]
 
-### CSS (Cascading Style Sheets)
+## CSS (Cascading Style Sheets)
  - Aesthetics of a website
 
-##### CSS Selectors
+#### CSS Selectors
 - Type Selectore
 	- `tag {}`
 	- Universal Selector: `* {}`
@@ -19,7 +19,7 @@
 - Pseudo Classes
 	- `selector::pseudo-class {}`
 
-##### CSS Specificity
+#### CSS Specificity
 Inline CSS > External CSS
 
 1. ID Selectors
@@ -28,17 +28,17 @@ Inline CSS > External CSS
 
 If the specificities are the same, the one that appears later in the stylesheet takes precedence due to the "cascade"
 
-##### CSS Combinators
+#### CSS Combinators
 - Descendant Selector: `(space)`
 - Child Selector: `>`
 - Adjacent Sibling Selector: `+`
 - General Sibling Selector: `~`
 
-##### Box Model
+#### Box Model
 ![[Pasted image 20231225134340.png | 300]]
 - `box-sizing: border-box` includes the padding and border in an element's total width and height
 
-##### Responsive Design
+#### Responsive Design
 - Viewport
 	- `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - Media Queries
@@ -53,7 +53,7 @@ If the specificities are the same, the one that appears later in the stylesheet 
 	- rem
 	- vh, vw
 
-##### Animations
+#### Animations
 ```css
 @keyframes animation-name {
 	from {}
@@ -71,6 +71,6 @@ element {
 }
 ```
 
-### Javascript
+## Javascript
 - Interactivity of a website
-- It is used for [[DOM]] manipulation and [[HTTP Requests#FetchAPI | Fetch APIs]]
+- It is used for [[DOM#DOM Manipulation | DOM Manipulation]], making HTTP requests through [[HTTP Requests#FetchAPIs | Fetch APIs]], [[Event Handling]] and managing [[Client Side Storage]]

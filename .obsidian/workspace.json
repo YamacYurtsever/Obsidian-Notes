@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a69ada13ec7686bc",
+        "id": "f38a198df26d73f8",
         "type": "tabs",
         "children": [
           {
-            "id": "585121d8a84e193e",
+            "id": "565584f27514ce5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md"
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md"
               }
             }
           }
@@ -148,41 +148,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "585121d8a84e193e",
+  "active": "565584f27514ce5f",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Back-End/Templating.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
-    "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
-    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Images/HTTP Responses 2023-12-26 01.31.29.excalidraw.md",
-    "Images/Pasted Image 20231226013144_585.png",
-    "Computer Science/Web Development/APIs.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
-    "Computer Science/Web Development/Front-End/JSON.md",
-    "Computer Science/Web Development/HTTP Methods.md",
-    "Computer Science/Web Development/Front-End/Events.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
-    "Images/HTTP Requests 2023-12-25 19.43.02.excalidraw.md",
-    "Images/Django 2023-12-25 18.59.02.excalidraw.md",
-    "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Web Development/DevOps/CI CD.md",
-    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+    "Computer Science/Web Development/Front-End/Client Side Storage.md",
+    "Computer Science/Web Development/Front-End/Event Handling.md",
+    "Computer Science/Web Development/Front-End/HTML, CSS & Javascript.md",
+    "Computer Science/Web Development/Front-End/JSON.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
+    "Computer Science/Programming Languages/Enumerators.md",
+    "Computer Science/Programming Languages/Magic Values.md",
+    "Computer Science/Programming Languages/Memory Management.md",
+    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Programming Languages/Variables.md",
+    "Computer Science/Programming Languages/Ternary Operator.md",
+    "Computer Science/Programming Languages/Syntactic Sugar.md",
+    "Computer Science/Programming Languages/Conditionals.md",
+    "Computer Science/Programming Languages/Loops.md",
+    "Computer Science/Programming Languages/Function Mapping.md",
+    "Computer Science/Programming Languages/Functions.md",
+    "Computer Science/Programming Languages/Error Handling.md",
+    "Computer Science/Programming Languages/Debugging.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
+    "Computer Science/Programming Languages/Abstraction.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+    "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
-    "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Indexing.md",
     "Computer Science/Databases/Database Technologies",
     "Images/Pasted Image 20231225185919_572.png",
-    "Computer Science/Databases/Types of Databases.md",
-    "Images/Drawing 2023-12-25 18.17.06.excalidraw.md",
     "Images/Pasted image 20231225151940.png",
     "Images/Pasted image 20231225151923.png",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted image 20231225134340.png",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
