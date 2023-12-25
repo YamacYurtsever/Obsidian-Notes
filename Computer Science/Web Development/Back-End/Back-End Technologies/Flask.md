@@ -3,6 +3,12 @@
 
 ### Commands
 - `flask run`
+  
+### Accessing Data in HTTP Requests
+```python
+get_data = request.args.get('data') 
+post_data = request.form.get('data') 
+```
 
 ### Implementation
   

@@ -31,5 +31,11 @@
 - `python manage.py migrate`
 - `python manage.py shell` -> Can run database commands
 
+### Accessing Data in HTTP Requests
+```python
+get_data = request.GET.get('data') 
+post_data = request.POST.get('data') 
+```
+
 
 

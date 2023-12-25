@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "87ef073ad4a95739",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/HTTP Requests 2023-12-25 19.43.02.excalidraw.md"
               }
             }
           }
@@ -160,9 +150,11 @@
   },
   "active": "585121d8a84e193e",
   "lastOpenFiles": [
-    "Images/HTTP Requests 2023-12-25 19.43.02.excalidraw.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+    "Images/HTTP Requests 2023-12-25 19.43.02.excalidraw.md",
     "Images/Django 2023-12-25 18.59.02.excalidraw.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/Back-End/Templating.md",
@@ -173,9 +165,7 @@
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Web Development/HTTP Methods.md",
     "Computer Science/Web Development/APIs.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Front-End/Front-End Core.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Indexing.md",
