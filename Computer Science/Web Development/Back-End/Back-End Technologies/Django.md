@@ -19,23 +19,10 @@
 - Handles authentication, authorization and security features such as CSRF tokens
 
 ### Project Structure
-```
-myproject/
-|-- manage.py
-|-- myproject/
-|   |-- __init__.py
-|   |-- settings.py
-|   |-- urls.py
-|   |-- asgi.py
-|   |-- wsgi.py
-|-- myapp/
-|   |-- migrations/
-|   |-- __init__.py
-|   |-- admin.py
-|   |-- apps.py
-|   |-- models.py
-|   |-- tests.py
-|   |-- views.py
-|-- static/
-|-- templates/
-```
+![[Django 2023-12-25 18.59.02.excalidraw | 500]]
+
+### Commands
+- `django-admin startproject <projectname>`
+- `django startapp `
+
+

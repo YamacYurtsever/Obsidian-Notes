@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e73d95686b18c9e9",
+            "id": "87ef073ad4a95739",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e73d95686b18c9e9",
+  "active": "87ef073ad4a95739",
   "lastOpenFiles": [
-    "Computer Science/Databases/Relational Databases.md",
+    "Images/Django 2023-12-25 18.59.02.excalidraw.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+    "Images/Pasted Image 20231225185919_572.png",
+    "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/DevOps/Version Control System.md",
     "Computer Science/Databases/Types of Databases.md",
@@ -178,8 +180,6 @@
     "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Networking/Network Types.md",
-    "Computer Science/Networking/Network Hardware.md",
-    "Computer Science/Networking/Network.md",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
@@ -194,7 +194,6 @@
     "Images/Pasted Image 20231224221006_775.png",
     "Images/Pasted image 20231223142126.png",
     "Images/Pasted image 20231223141949.png",
-    "Images/Pasted image 20231223141632.png",
     "UNSW/Obsidian-Notes/Images"
   ]
 }
