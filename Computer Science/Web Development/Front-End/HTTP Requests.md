@@ -1,15 +1,31 @@
 - Client-to-server communication is done through **[[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Requests**
 - The most common ways of making HTTP Requests are **forms and fetch [[APIs]]**
-- HTTP Methods indicate the desired action to be performed on a resource identified by a URI
+- HTTP Methods indicate the desired action to be performed by the server
+	- `GET`: Retrieves data from server to the client
+	- `POST`: Sends data from the client to the server
+	- `PUT`: Updates the data in the server
+	- `DELETE`: Removes data from the server
+	- ! GET method is typically visible in the browser's address bar, as it appends the data to the URL, while POST is not
+- Example HTTP Request (Can be seen through browser > inspect > network):
 
-! DO CHATGPT EXPLAIN HTTP REQUESTS
-```
-GET: XXX
-DATE: XXX
-...
-```
+![[HTTP Requests 2023-12-25 19.43.02.excalidraw | 400]]
 
 ### Forms
+- A section of a web page that contains interactive elements, such as text fields, checkboxes, radio buttons, buttons, and more
+- Users can input data into these elements, and when the form is submitted, the data is sent to a server for processing
+```html
+<form action="/submit" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="user_name" required>
+    
+    <input type="submit" value="Submit">
+  </form>
+```
+- When the form is submitted, the data is sent to the server as key-value pairs, where the name attributes act as the keys
+```python
+user_name = request.form.get('user_name')
+```
+
 
 ### FetchAPI
 
