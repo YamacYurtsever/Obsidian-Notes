@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md"
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md"
               }
             }
           }
@@ -150,8 +150,6 @@
   },
   "active": "44f91639516c78b9",
   "lastOpenFiles": [
-    "Computer Science/Networking/Network.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Images/ASCII Table.png",
     "Images/DOM.png",
     "Images/Drawing 2023-12-25 18.17.06.excalidraw.md",

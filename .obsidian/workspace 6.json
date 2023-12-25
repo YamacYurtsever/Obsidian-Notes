@@ -11,11 +11,9 @@
             "id": "44f91639516c78b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
-                "mode": "source",
-                "source": true
+                "file": "Images/DOM.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
+                "file": "Images/DOM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
+                "file": "Images/DOM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Version Control System.md"
+                "file": "Images/DOM.png"
               }
             }
           }
@@ -148,12 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44f91639516c78b9",
+  "active": "d378633ed943b90d",
   "lastOpenFiles": [
-    "Computer Science/Networking/Network.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
-    "Images/ASCII Table.png",
-    "Images/DOM.png",
     "Images/Drawing 2023-12-25 18.17.06.excalidraw.md",
     "Images/Hash Tables 2023-12-23 13.09.27.excalidraw.md",
     "Images/HTTP.excalidraw.md",
