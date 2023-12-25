@@ -1,1 +1,1 @@
-- Object-Relational Mapping
+- Object-Relational Mapping is a programming technique that allows developers to interact with [[Relational Databases | relational databases]] using an object-oriented paradigm rather than SQL queries
