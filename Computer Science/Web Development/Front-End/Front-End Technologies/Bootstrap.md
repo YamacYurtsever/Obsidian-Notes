@@ -1,6 +1,6 @@
 - A front-end framework that simplifies front-end web development by providing a collection of pre-designed components, styles, and JavaScript plugins 
 
-#### Tools
+#### Features
 -  **Grid System:**
 	- Utilizes a responsive grid system with a 12-column layout
 

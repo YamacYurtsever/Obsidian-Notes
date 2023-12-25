@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+                "file": "Computer Science/Web Development/DevOps/Version Control Systems.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+                "file": "Computer Science/Web Development/DevOps/Version Control Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+                "file": "Computer Science/Web Development/DevOps/Version Control Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md"
+                "file": "Computer Science/Web Development/DevOps/Version Control Systems.md"
               }
             }
           }
@@ -150,12 +150,14 @@
   },
   "active": "dd179c05cde06945",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Front-End/Client Side Storage.md",
+    "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
+    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
+    "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/APIs.md",
     "Computer Science/Web Development/HTTP Methods.md",
     "Images/Pasted image 20231225134340.png",
@@ -170,11 +172,10 @@
     "Computer Science/Networking/Network Hardware.md",
     "Computer Science/Networking/Network.md",
     "Computer Science/Networking/Data Transmission.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Web Development/DevOps/Version Control.md",
+    "Computer Science/Web Development/DevOps/Version Control Systems.md",
     "Computer Science/Programming Languages/Conditionals.md",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
@@ -193,7 +194,6 @@
     "Images/Pasted image 20231223141632.png",
     "Images/Pasted image 20231223141622.png",
     "Images/Pasted image 20231223021723.png",
-    "UNSW/Obsidian-Notes/Images",
-    "UNSW/Obsidian-Notes"
+    "UNSW/Obsidian-Notes/Images"
   ]
 }
