@@ -17,7 +17,7 @@
 - **Merging:**
 	- The process of combining changes from different branches
 - **Checkout:**
-    - Switching between different branches or versions of the code.
+    - Switching between different branches or versions of the code
 - **Conflict**
     - Occur when changes made in one branch cannot be automatically merged with changes in another
     - Manual intervention is required to resolve conflicts.

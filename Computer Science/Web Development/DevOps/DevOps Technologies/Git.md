@@ -9,11 +9,19 @@
 - `git pull`: Pulls the Changes in the Remote Repo to the Local Repo
 - `git log`: Shows Commit History
 
-### Handling Conflicts
+### Branching
+- `git branch`: Tells which branch you are on
+- `git checkout -b <branchname>`: Switches to a branch, creates it if it doesn't exits
+- `git merge <branchname>`: Merges the named branch to the current branch
+
+### Resolving Conflicts
 ```python
 <<<<<<<<<<<<<<< HEAD
 b = 3 # Local Changes
 ===============
 b = 1 # Remote Changes
->>>>>>>>>>>>>>> 53423464... # Hash for the conflicting local commit
+>>>>>>>>>>>>>>> 53423464... # Hash for the conflicting other commit
 ```
+1. Accept Local Changes
+2. Accept Incoming Changes
+3. Manually Combine Changes

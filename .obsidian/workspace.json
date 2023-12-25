@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+                "file": "Computer Science/Web Development/Back-End/ORM.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e73d95686b18c9e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Web Development/DevOps/Version Control System.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+                "file": "Computer Science/Web Development/Back-End/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+                "file": "Computer Science/Web Development/Back-End/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md"
+                "file": "Computer Science/Web Development/Back-End/ORM.md"
               }
             }
           }
@@ -150,9 +162,11 @@
   },
   "active": "dd179c05cde06945",
   "lastOpenFiles": [
-    "Computer Science/Web Development/DevOps/CLI.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+    "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
     "Computer Science/Web Development/DevOps/Version Control System.md",
+    "Computer Science/Web Development/DevOps/CLI.md",
     "Images/Pasted image 20231225151940.png",
     "Images/Pasted image 20231225151923.png",
     "Computer Science/Web Development/Front-End/Front-End Core.md",
@@ -170,7 +184,6 @@
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Networking/Network Types.md",
@@ -179,7 +192,6 @@
     "Computer Science/Networking/Data Transmission.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Programming Languages/Conditionals.md",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
