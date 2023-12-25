@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/APIs.md",
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/APIs.md",
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/APIs.md",
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/APIs.md"
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md"
               }
             }
           }
@@ -151,13 +151,13 @@
   "active": "585121d8a84e193e",
   "lastOpenFiles": [
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/APIs.md",
     "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Web Development/Front-End/JSON.md",
     "Computer Science/Web Development/HTTP Methods.md",
-    "Computer Science/Web Development/APIs.md",
     "Computer Science/Web Development/Front-End/Events.md",
     "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Images/HTTP Requests 2023-12-25 19.43.02.excalidraw.md",

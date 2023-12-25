@@ -1,5 +1,5 @@
-- Client-to-server communication is done through **[[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Requests**
-- The most common ways of making HTTP Requests are **forms and fetch [[APIs]]**
+- Messages sent by a client to a server specifying an action to be performed, to which the server responds by [[HTTP Responses]]
+- The most common ways of making [[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Requests are **forms and fetch [[APIs]]**
 - HTTP Methods indicate the desired action to be performed by the server
 	- `GET`: Retrieves data from server to the client
 	- `POST`: Sends data from the client to the server
