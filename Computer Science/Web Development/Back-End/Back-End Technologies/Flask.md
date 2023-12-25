@@ -1,5 +1,10 @@
 - A python web framework
 - Integrates with the Jinja2 [[Templating | templating]] engine
+
+### Commands
+- `flask run`
+
+### Implementation
   
 ```python
 from flask import Flask, render_template, request, redirect, url_for

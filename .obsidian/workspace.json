@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md"
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
               }
             }
           }
@@ -150,36 +150,38 @@
   },
   "active": "87ef073ad4a95739",
   "lastOpenFiles": [
-    "Images/Django 2023-12-25 18.59.02.excalidraw.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
-    "Images/Pasted Image 20231225185919_572.png",
-    "Computer Science/Databases/Relational Databases.md",
+    "Computer Science/Web Development/HTTP Methods.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/APIs.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Databases/Types of Databases.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Web Development/Back-End/Templating.md",
-    "Images/Drawing 2023-12-25 18.17.06.excalidraw.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+    "Computer Science/Web Development/DevOps/Version Control System.md",
+    "Computer Science/Web Development/DevOps/CI CD.md",
     "Computer Science/Web Development/DevOps/CLI.md",
+    "Computer Science/Databases/Relational Databases.md",
+    "Computer Science/Databases/Potential Problems in Databases.md",
+    "Computer Science/Databases/Indexing.md",
+    "Computer Science/Databases/Database Technologies",
+    "Images/Django 2023-12-25 18.59.02.excalidraw.md",
+    "Images/Pasted Image 20231225185919_572.png",
+    "Computer Science/Databases/Types of Databases.md",
+    "Images/Drawing 2023-12-25 18.17.06.excalidraw.md",
     "Images/Pasted image 20231225151940.png",
     "Images/Pasted image 20231225151923.png",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Web Development/Front-End/Events.md",
-    "Computer Science/Web Development/APIs.md",
-    "Computer Science/Web Development/HTTP Methods.md",
     "Images/Pasted image 20231225134340.png",
     "UNSW/Topics to Classes.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Images/Front-End Technologies 2023-12-24 22.09.51.excalidraw.md",
-    "Computer Science/Networking/Network Protocols.md",
-    "Computer Science/Networking/Network Types.md",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
@@ -193,7 +195,6 @@
     "Images/Pasted Image 20231224221724_129.png",
     "Images/Pasted Image 20231224221006_775.png",
     "Images/Pasted image 20231223142126.png",
-    "Images/Pasted image 20231223141949.png",
-    "UNSW/Obsidian-Notes/Images"
+    "Images/Pasted image 20231223141949.png"
   ]
 }

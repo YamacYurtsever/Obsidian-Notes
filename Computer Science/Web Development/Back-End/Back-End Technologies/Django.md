@@ -23,6 +23,13 @@
 
 ### Commands
 - `django-admin startproject <projectname>`
-- `django startapp `
+- `python manage.py startapp <appname>`
+- `python manage.py runserver`
+- `python manage.py createsuperuser`
+- `python manage.py test`
+- `python manage.py makemigrations`
+- `python manage.py migrate`
+- `python manage.py shell` -> Can run database commands
+
 
 

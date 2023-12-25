@@ -34,3 +34,8 @@
 	- Developers can create branches to experiment with new features or bug fixes without affecting the main codebase
 - **Backup**
 	- Serves as a backup mechanism by storing project history
+	  
+### VCS Hosting
+- The platforms or services that provide infrastructure and tools for hosting and managing version-controlled repositories
+- VCS hosting services often integrate with [[CI CD | CI/CD]] systems, automated build and test processes can be triggered whenever changes are pushed to the repository, ensuring that code changes are continuously validated
+- E.g.: GitHub, GitLab, Bitbucket

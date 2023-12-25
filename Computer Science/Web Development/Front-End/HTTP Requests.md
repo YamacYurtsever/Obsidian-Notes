@@ -1,5 +1,6 @@
 - Client-to-server communication is done through **[[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Requests**
 - The most common ways of making HTTP Requests are **forms and fetch [[APIs]]**
+- HTTP Methods indicate the desired action to be performed on a resource identified by a URI
 
 ! DO CHATGPT EXPLAIN HTTP REQUESTS
 ```

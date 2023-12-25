@@ -1,4 +1,5 @@
 - A [[Version Control System#Centralized vs Distributed VCSs | distributed]] [[Version Control System | version control system]] 
+- GitHub is a VCS hosting provider for git
 
 ### Commands
 - `git clone <url>`: Clones Remote Repository
