@@ -18,7 +18,7 @@
       "query": "path:\"Computer Science/Networking\"  ",
       "color": {
         "a": 1,
-        "rgb": 4364016
+        "rgb": 3561382
       }
     },
     {
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 12261822
       }
+    },
+    {
+      "query": "path: \"Computer Science/Web Development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5096917
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 9.78886044009054,
   "linkStrength": 0.49831162566329,
   "linkDistance": 290,
-  "scale": 0.36506436734693093,
+  "scale": 0.37311337633057545,
   "close": false
 }

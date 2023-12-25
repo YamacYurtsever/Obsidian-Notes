@@ -7,7 +7,7 @@
  - Aesthetics of a website
 
 ##### CSS Selectors
-- Type Selector
+- Type Selectore
 	- `tag {}`
 	- Universal Selector: `* {}`
 - Class Selector
@@ -73,4 +73,4 @@ element {
 
 ### Javascript
 - Interactivity of a website
-- It is used for [[DOM]] manipulation
+- It is used for [[DOM]] manipulation and [[HTTP Requests#FetchAPI | Fetch APIs]]
