@@ -51,6 +51,23 @@ async function fetchData() {
 }
 ```
 
-##### AJAX
-- Asynchronous javascript and XML is a set of web development techniques that allows web pages to be updated asynchronously by exchanging data with the server behind the scenes
+##### Promises
+- A programming pattern that represent the eventual completion or failure of an asynchronous operation and its resulting value
+- Fetch APIs use promises to wait for HTML responses
+	- **`.then()`:** 
+		Sets up a callback to be executed when the Promise is resolved
+	- **`await`:** 
+	Used inside an `async` function, it pauses the function's execution until the awaited Promise is resolved
+- States of a Promise:
+	- **Pending**: 
+		The initial state, the promise is neither fulfilled nor rejected
+	- **Fulfilled**: 
+		The asynchronous operation completed successfully, the promise has a resulting value
+	- **Rejected**: 
+		The asynchronous operation encountered an error, the promise has a reason for the failure
+
+##### AJAX (Asynchronous javascript and XML)
+-  A set of web development techniques that allows web pages to be updated asynchronously by exchanging data with the server behind the scenes
 - This means that instead of reloading the entire web page when a user performs an action, such as submitting a form, only the specific part of the page that needs to be updated is refreshed
+- This can be achieved using Fetch APIs
+- E.g.: Loading related items from the database when/after writing search queries
