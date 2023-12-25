@@ -32,3 +32,10 @@ int b = 5: // Initialization
 ##### Global Variables
 - Accessible throughout the entire program.
 
+### Static vs Dynamic Typing
+| Static Typing                                                                                                                                                                          | Dynamic Typing                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| The data type of a variable is known at compile-time                                                                                                                                   | The data type of a variable is determined at runtime                                                |
+| The programmer must explicitly declare the data type of each variable, and the compiler checks that the types are used consistently throughout the code before the program is executed | Variable types are not explicitly declared, and they can change during the execution of the program |
+| E.g.: Python, Javascript                                                                                                                                                               | E.g.: C, C++, C#, Java                                                                                    | 
+
