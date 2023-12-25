@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Web Development/Front-End/Front-End Core.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -150,9 +150,10 @@
   },
   "active": "7ad9436376027f1f",
   "lastOpenFiles": [
-    "UNSW/Topics to Classes.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Images/Pasted image 20231225134340.png",
     "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "UNSW/Topics to Classes.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Back-End/Templating.md",
@@ -175,7 +176,6 @@
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/Version Control.md",
     "Computer Science/Programming Languages/Conditionals.md",
-    "Computer Science/Programming Languages/Loops.md",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
