@@ -5,61 +5,89 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "path:\"Computer Science/Algorithms and Data Structures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Artificial Intelligence\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
     {
       "query": "path:\"Computer Science/Computer Architecture and Organization\"  ",
       "color": {
         "a": 1,
-        "rgb": 13855081
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Cybersecurity\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Databases\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Game Development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7785977
       }
     },
     {
       "query": "path:\"Computer Science/Networking\"  ",
       "color": {
         "a": 1,
-        "rgb": 3561382
+        "rgb": 5395168
       }
     },
     {
       "query": "path:\"Computer Science/Programming Languages\"  ",
       "color": {
         "a": 1,
-        "rgb": 5748291
+        "rgb": 11621088
       }
     },
     {
-      "query": "path: \"Computer Science/Algorithms and Data Structures\"  ",
+      "query": "path:\"Computer Science/Software Design\"  ",
       "color": {
         "a": 1,
-        "rgb": 13335845
-      }
-    },
-    {
-      "query": "path: \"Computer Science/Databases\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12261822
+        "rgb": 14701233
       }
     },
     {
       "query": "path: \"Computer Science/Web Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 5096917
+        "rgb": 3573444
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.51077962076515,
-  "lineSizeMultiplier": 1.5151434190508,
+  "nodeSizeMultiplier": 1.15567553527033,
+  "lineSizeMultiplier": 1.20022264276968,
   "collapse-forces": false,
-  "centerStrength": 0.20483134810197,
-  "repelStrength": 9.78886044009054,
-  "linkStrength": 0.49831162566329,
-  "linkDistance": 290,
-  "scale": 0.27800174462766114,
+  "centerStrength": 0.496753126275558,
+  "repelStrength": 10.9688671193736,
+  "linkStrength": 0.802775613195295,
+  "linkDistance": 151,
+  "scale": 0.6567885691285871,
   "close": false
 }

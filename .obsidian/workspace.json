@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md"
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md"
               }
             }
           }
@@ -150,8 +150,14 @@
   },
   "active": "585121d8a84e193e",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/Back-End/ORM.md",
+    "Computer Science/Databases/Potential Problems in Databases.md",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Images/HTTP Responses 2023-12-26 01.31.29.excalidraw.md",
+    "Images/Pasted Image 20231226013144_585.png",
     "Computer Science/Web Development/APIs.md",
     "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Web Development/Front-End/JSON.md",
@@ -162,15 +168,12 @@
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Images/HTTP Requests 2023-12-25 19.43.02.excalidraw.md",
     "Images/Django 2023-12-25 18.59.02.excalidraw.md",
-    "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/DevOps/Version Control System.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/CI CD.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Indexing.md",
     "Computer Science/Databases/Database Technologies",
     "Images/Pasted Image 20231225185919_572.png",
@@ -179,8 +182,6 @@
     "Images/Pasted image 20231225151940.png",
     "Images/Pasted image 20231225151923.png",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted image 20231225134340.png",
     "Images/DOM.png",
@@ -194,7 +195,6 @@
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims",
     "Images/Pasted Image 20231224221724_129.png",
-    "Images/Pasted Image 20231224221006_775.png",
-    "Images/Pasted image 20231223142126.png"
+    "Images/Pasted Image 20231224221006_775.png"
   ]
 }

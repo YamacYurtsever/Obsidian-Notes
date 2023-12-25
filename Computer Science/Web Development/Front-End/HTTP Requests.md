@@ -1,12 +1,13 @@
 - Messages sent by a client to a server specifying an action to be performed, to which the server responds by [[HTTP Responses]]
 - The most common ways of making [[Network Protocols#Hyper Text Transfer Protocol / Secure (HTTP / HTTPS) | HTTP]] Requests are **forms and fetch [[APIs]]**
-- HTTP Methods indicate the desired action to be performed by the server
+
+#### HTTP Methods
+- Indicate the desired action to be performed by the server
 	- `GET`: Retrieves data from server to the client
 	- `POST`: Sends data from the client to the server
 	- `PUT`: Updates the data in the server
 	- `DELETE`: Removes data from the server
-	- ! GET method is typically visible in the browser's address bar, as it appends the data to the URL, while POST is not
-- Example HTTP Request (Can be seen through browser > inspect > network):
+- ! GET method is typically visible in the browser's address bar, as it appends the data to the URL, while POST is not
 
 ![[HTTP Requests 2023-12-25 19.43.02.excalidraw | 400]]
 
@@ -27,8 +28,8 @@ user_name = request.form.get('user_name')
 ```
 
 
-### FetchAPI
-- JavaScript interface for making HTTP requests
+### FetchAPIs
+- JavaScript interfaces for making HTTP requests
 
 1. Promise Based
 ```javascript
