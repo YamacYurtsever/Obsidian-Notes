@@ -9,6 +9,7 @@
 ##### CSS Selectors
 - Type Selector
 	- `tag {}`
+	- Universal Selector: `* {}`
 - Class Selector
 	- `.class {}`
 - ID Selector
@@ -23,20 +24,52 @@ Inline CSS > External CSS
 
 1. ID Selectors
 2. Class Selectors & Attribute Selectors & Pseudo-Classes
-3. Type Selectors
+3. Type Selectors 
 
 If the specificities are the same, the one that appears later in the stylesheet takes precedence due to the "cascade"
 
-#### Box Model
+##### CSS Combinators
+- Descendant Selector: `(space)`
+- Child Selector: `>`
+- Adjacent Sibling Selector: `+`
+- General Sibling Selector: `~`
+
+##### Box Model
 ![[Pasted image 20231225134340.png | 300]]
--  box-sizing property allows us to include the padding and border in an element's total width and height
+- `box-sizing: border-box` includes the padding and border in an element's total width and height
 
+##### Responsive Design
+- Viewport
+	- `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+- Media Queries
+	- `@media only screen and (max-width: 600px)`
+- Layout
+	- Floats
+	- Flexbox
+	- CSS Grid
+- CSS Units
+	- px
+	- em
+	- rem
+	- vh, vw
 
-Responsive Design?
-Box Model?
-Layouts: Floats, Flexbox, Grid?
-pseudo classes
-Animations
+##### Animations
+```css
+@keyframes animation-name {
+	from {}
+	to {}
+	/* OR */
+	0% {}
+	50% {}
+	100% {}
+}
+
+element {
+	animation-name: xxx;
+	animation-duration: xxx;
+	...
+}
+```
 
 ### Javascript
 - Interactivity of a website
