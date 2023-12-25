@@ -11,7 +11,7 @@
 ![[HTTP Requests 2023-12-25 19.43.02.excalidraw | 400]]
 
 ### Forms
-- A section of a web page that contains interactive elements, such as text fields, checkboxes, radio buttons, buttons, and more
+- HTML element that contains interactive elements, such as text fields, checkboxes, radio buttons, buttons, and more
 - Users can input data into these elements, and when the form is submitted, the data is sent to a server for processing
 ```html
 <form action="/submit" method="post">
@@ -28,9 +28,29 @@ user_name = request.form.get('user_name')
 
 
 ### FetchAPI
+- JavaScript interface for making HTTP requests
 
-JSON
+1. Promise Based
+```javascript
+fetch('https://api.example.com/data')
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error('Error:', error));
+```
 
-AJAX
+2. Async/Await
+```javascript
+async function fetchData() {
+  try {
+    const response = await fetch('https://api.example.com/data');
+    const data = await response.json(); // Decodes JSON
+    console.log(data);
+  } catch (error) {
+    console.error('Error:', error);
+  }
+}
+```
+
+##### AJAX
 - Asynchronous javascript and XML is a set of web development techniques that allows web pages to be updated asynchronously by exchanging data with the server behind the scenes
 - This means that instead of reloading the entire web page when a user performs an action, such as submitting a form, only the specific part of the page that needs to be updated is refreshed
