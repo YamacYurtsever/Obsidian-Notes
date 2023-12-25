@@ -1,0 +1,3 @@
+- Javascript object notation is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate
+- JSON is widely used in **[[APIs]] for data exchange between a server and a web application
+- It's also used for **configuration files** and data storage formats

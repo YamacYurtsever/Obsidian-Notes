@@ -2,5 +2,5 @@
 
 ![[DOM.png | 500]]
 
-#### DOM Manipulation
+### DOM Manipulation
 

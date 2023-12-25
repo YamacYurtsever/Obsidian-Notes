@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Front-End/JSON.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Front-End/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Front-End/JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
+                "file": "Computer Science/Web Development/Front-End/JSON.md"
               }
             }
           }
@@ -150,7 +150,12 @@
   },
   "active": "585121d8a84e193e",
   "lastOpenFiles": [
+    "Computer Science/Web Development/APIs.md",
+    "Computer Science/Web Development/Front-End/JSON.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Front-End/Front-End Core.md",
+    "Computer Science/Web Development/Front-End/Events.md",
+    "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
@@ -164,8 +169,6 @@
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Web Development/HTTP Methods.md",
-    "Computer Science/Web Development/APIs.md",
-    "Computer Science/Web Development/Front-End/Front-End Core.md",
     "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Indexing.md",
@@ -176,11 +179,9 @@
     "Images/Pasted image 20231225151940.png",
     "Images/Pasted image 20231225151923.png",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
-    "Computer Science/Web Development/Front-End/Events.md",
     "Images/Pasted image 20231225134340.png",
     "Images/DOM.png",
     "Images/Pasted image 20231224235605.png",
