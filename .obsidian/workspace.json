@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md"
+                "file": "Computer Science/Web Development/Front-End/DOM.md"
               }
             }
           }
@@ -150,7 +150,11 @@
   },
   "active": "565584f27514ce5f",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/Error Handling.md",
+    "Computer Science/Programming Languages/Function Mapping.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Programming Languages/Enumerators.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
@@ -158,7 +162,6 @@
     "Computer Science/Web Development/Front-End/JSON.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
-    "Computer Science/Programming Languages/Enumerators.md",
     "Computer Science/Programming Languages/Magic Values.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Parameters.md",
@@ -167,16 +170,13 @@
     "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Programming Languages/Conditionals.md",
     "Computer Science/Programming Languages/Loops.md",
-    "Computer Science/Programming Languages/Function Mapping.md",
     "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Programming Languages/Debugging.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Abstraction.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Databases/Database Technologies",

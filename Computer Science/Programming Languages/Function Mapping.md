@@ -1,4 +1,4 @@
-The process of applying a function to each element of a collection or sequence, producing a new collection of results
+The process of applying a function to each element of a collection, producing a new collection of results
 
 python
 ```python
