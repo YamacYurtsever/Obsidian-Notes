@@ -71,6 +71,6 @@ element {
 }
 ```
 
-## Javascript
+## JavaScript
 - Interactivity of a website
 - It is used for [[DOM#DOM Manipulation | DOM Manipulation]], making HTTP requests through [[HTTP Requests#FetchAPIs | Fetch APIs]], [[Event Handling]] and managing [[Client Side Storage]]

@@ -148,11 +148,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4fe3e01075326d7",
+  "active": "565584f27514ce5f",
   "lastOpenFiles": [
-    "Mathematics",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
+    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
     "Computer Science/Web Development/Front-End/DOM.md",
+    "Mathematics",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "Computer Science/Networking/Data Transmission.md",
@@ -160,14 +164,10 @@
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
-    "Computer Science/Web Development/Front-End/HTML, CSS & Javascript.md",
     "Computer Science/Web Development/Front-End/JSON.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Databases/Indexing.md",
@@ -193,7 +193,6 @@
     "Computer Science/Web Development/Front-End/Front-End Technologies",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
-    "Computer Science/Software Design/Programming Paradigims",
     "Images/Pasted Image 20231224221724_129.png",
     "Images/Pasted Image 20231224221006_775.png"
   ]
