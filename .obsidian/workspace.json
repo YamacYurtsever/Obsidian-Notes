@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md",
-                "mode": "source",
+                "file": "Computer Science/Programming Languages/Asynchronous Operations.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6d84d4ee8a78b1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md"
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
               }
             }
           }
@@ -148,14 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "565584f27514ce5f",
+  "active": "6d84d4ee8a78b1d7",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/Asynchronous Operations.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
-    "Computer Science/Programming Languages/Timeouts and Intervals.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
