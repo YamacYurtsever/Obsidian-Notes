@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "f31845a01c907c25",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md"
               }
             }
           }
@@ -160,11 +150,13 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Networking/SSL & TLS.md",
+    "Computer Science/Networking/SSH.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Software Design/Imperative & Declarative Programming.md",
     "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Databases/Types of Databases.md",
     "Computer Science/Databases/Relational Databases.md",
@@ -186,7 +178,6 @@
     "Computer Science/Web Development/DevOps/CI CD.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
-    "Computer Science/Web Development/DevOps/Package Managers.md",
     "Mathematics",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
