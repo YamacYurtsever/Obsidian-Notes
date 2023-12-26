@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "f31845a01c907c25",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Software Design/Synchronous & Asynchronous Programming.md"
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md"
               }
             }
           }
@@ -151,32 +161,33 @@
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
     "Computer Science/Software Design/Imperative & Declarative Programming.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md",
+    "Images/Pasted Image 20231227000102_131.png",
+    "Images/Pasted Image 20231227000102_116.png",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+    "Computer Science/Programming Languages/Syntactic Sugar.md",
+    "Computer Science/Databases/Types of Databases.md",
+    "Computer Science/Databases/Relational Databases.md",
+    "Computer Science/Databases/Potential Problems in Databases.md",
+    "Computer Science/Databases/Non-Relational Databases.md",
+    "Computer Science/Databases/Indexing.md",
+    "Computer Science/Web Development/Back-End/ORM.md",
+    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
     "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/JSON.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Programming Languages/Abstraction.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/DevOps/CI CD.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
-    "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Mathematics",
-    "Computer Science/Programming Languages/Variables.md",
-    "Computer Science/Computer Architecture and Organization/Data Representation.md",
-    "Computer Science/Networking/Data Transmission.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
@@ -193,8 +204,6 @@
     "Computer Science/Web Development/Back-End/Back-End Technologies",
     "Computer Science/Web Development/Front-End/Front-End Technologies",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming",
-    "Images/Pasted Image 20231224221724_129.png",
-    "Images/Pasted Image 20231224221006_775.png"
+    "Computer Science/Software Design/Programming Paradigims/Functional Programming"
   ]
 }

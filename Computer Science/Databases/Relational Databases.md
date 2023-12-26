@@ -42,7 +42,7 @@ CREATE TABLE stars (
 - Creating:
 	- `CREATE`, `INSERT`
 - Reading
-	- `SELECT`
+	- `SELECT` ^40ee59
 - Updating
 	- `UPDATE`
 - Deleting

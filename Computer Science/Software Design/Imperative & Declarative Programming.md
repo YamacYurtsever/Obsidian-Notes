@@ -4,3 +4,5 @@
 | Thinking like a computer                                                                                                                               | Thinking like a human                                                                                                                                                  |
 | The programmer specifies the sequence of operations, [[Loops \| loops]], and [[Conditionals \| conditional statements]] to achieve the desired outcome | The use of higher-level [[Abstraction \| abstractions]] allows developers to express their intent more concisely without delving into low-level implementation details |
 | Mutable state, where [[Variables \| variables]] can be modified during the execution of the program                                                    | Immutable data structures, avoiding direct modifications to [[Variables \| variables]]                                                                                 | 
+
+![[Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw | 700]]
