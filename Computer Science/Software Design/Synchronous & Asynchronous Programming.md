@@ -7,6 +7,23 @@
 
 #### Callbacks
 - Functions that are passed as arguments to other functions to be invoked after the completion of an asynchronous operation or at a specified time
+```js
+function performAsyncOperation(callback) {
+  console.log('Start of the operation');
+  
+  // Simulating an asynchronous operation
+  setTimeout(function() {
+    const result = 'Operation completed successfully';
+    callback(result);
+  }, 2000);
+}
+
+function handleResult(result) {
+  console.log('Handling the result:', result);
+}
+
+performAsyncOperation(handleResult);
+```
 - **Callback hell** refers to a situation where multiple nested callbacks make the code hard to read and maintain which often occurs when dealing with a series of asynchronous tasks
 ```js
 getUser(function(user) {
