@@ -33,3 +33,21 @@ parentElement.appendChild(clonedElement);
 elementToRemove.parentElement.removeChild(elementToRemove);
 ```
 
+##### Datasets
+```html
+<div id="user" data-user-id="123"></div>
+```
+
+```javascript
+var userElement = document.getElementById('user'); 
+
+var userId = userElement.dataset.userId;
+var username = userElement.dataset.username;
+var age = userElement.dataset.age;
+
+userElement.dataset.age = '26';
+userElement.dataset.email = 'john@example.com';
+delete userElement.dataset.age;
+```
+
+
