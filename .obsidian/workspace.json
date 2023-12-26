@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Package Managers.md",
-                "mode": "source",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "string",
+                "query": "data types",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Package Managers.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Package Managers.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/Package Managers.md"
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md"
               }
             }
           }
@@ -148,10 +149,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "565584f27514ce5f",
+  "active": "1eba57745ea5cb37",
   "lastOpenFiles": [
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
+    "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
     "Computer Science/Web Development/Front-End/DOM.md",
@@ -170,13 +177,7 @@
     "Computer Science/Programming Languages/Function Mapping.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Enumerators.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
-    "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Memory Management.md",
-    "Computer Science/Programming Languages/Parameters.md",
-    "Computer Science/Programming Languages/Ternary Operator.md",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Databases/Database Technologies",
