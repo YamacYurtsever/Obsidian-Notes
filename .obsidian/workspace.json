@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Variables.md",
-                "mode": "preview",
+                "file": "Computer Science/Web Development/DevOps/Package Managers.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Variables.md",
+                "file": "Computer Science/Web Development/DevOps/Package Managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Variables.md",
+                "file": "Computer Science/Web Development/DevOps/Package Managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Variables.md"
+                "file": "Computer Science/Web Development/DevOps/Package Managers.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "565584f27514ce5f",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
     "Computer Science/Programming Languages/Variables.md",
+    "Computer Science/Web Development/DevOps/Package Managers.md",
+    "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Web Development/Front-End/HTML, CSS & Javascript.md",
@@ -176,7 +177,6 @@
     "Computer Science/Programming Languages/Parameters.md",
     "Computer Science/Programming Languages/Ternary Operator.md",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Programming Languages/Conditionals.md",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Databases/Database Technologies",
