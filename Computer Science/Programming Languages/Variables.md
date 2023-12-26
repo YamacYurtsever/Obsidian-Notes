@@ -16,11 +16,11 @@ int b = 5: // Initialization
 
 ### Primitive and Composite Variables
 
-##### Primitive Variables
+##### Primitive Data Types
 - The most fundamental and elementary data types in a programming language
 - int, short, long, float, double, char, bool, pointer
 
-##### Composite Variables
+##### Composite Data Types
 - Complex data structures that are composed of primitive data types or other composite variable types
 - User Defined Variables (struct or class), data structures, strings
 

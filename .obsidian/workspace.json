@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
-                "mode": "preview",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data types",
+                "query": "primitive",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md"
+                "file": "Computer Science/Web Development/Front-End/DOM.md"
               }
             }
           }
@@ -149,19 +148,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1eba57745ea5cb37",
+  "active": "c4fe3e01075326d7",
   "lastOpenFiles": [
+    "Mathematics",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
+    "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Programming Languages/Variables.md",
+    "Computer Science/Computer Architecture and Organization/Data Representation.md",
+    "Computer Science/Networking/Data Transmission.md",
+    "Computer Science/Networking/VPN.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
-    "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Web Development/Front-End/HTML, CSS & Javascript.md",
     "Computer Science/Web Development/Front-End/JSON.md",
@@ -172,11 +176,6 @@
     "Computer Science/Databases/Types of Databases.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Software Design/Programming Paradigims/Singletons???.md",
-    "Computer Science/Programming Languages/Error Handling.md",
-    "Computer Science/Programming Languages/Function Mapping.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Programming Languages/Enumerators.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
