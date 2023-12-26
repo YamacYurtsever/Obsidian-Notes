@@ -77,7 +77,15 @@ element.animationPlayState = "running";
 element.addEventListener('animationend', () => {});
 ```
 
+#### History API
+- A way to manipulate the browser's history and navigate between different states of the web page without triggering a full page reload
+```js
+history.pushState({ page: 1 }, "Title", "/page-1");
 
+window.onpopstate = () => {}; // Back or forward in browser event
+
+window.location.href = "/new-url";
+```
 
 
 

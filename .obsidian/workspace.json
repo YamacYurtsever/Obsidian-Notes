@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "file": "Computer Science/Web Development/Front-End/DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Lambda Expressions.md"
+                "file": "Computer Science/Web Development/Front-End/DOM.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   "lastOpenFiles": [
     "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
@@ -163,7 +164,6 @@
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "Computer Science/Networking/Data Transmission.md",
     "Computer Science/Networking/VPN.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",

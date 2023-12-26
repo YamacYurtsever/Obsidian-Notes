@@ -17,7 +17,17 @@
 ```html
 <button onclick="myFunction()">Click me</button>
 ```
-- **addEventListener**
+
+- **Property Event Handling**
+```js
+var element = document.getElementById('myButton');
+element.onclick(event => {
+	console.log('Event type:', event.type);
+	console.log('Target element:', event.target);
+});
+```
+
+- **Event Listener**
 ```js
 var element = document.getElementById('myButton');
 element.addEventListener('click', event => {
