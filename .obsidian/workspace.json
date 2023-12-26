@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
-                "mode": "preview",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md"
+                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Networking/SSL & TLS.md",
@@ -177,7 +178,6 @@
     "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/DevOps/CI CD.md",
     "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Mathematics",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
