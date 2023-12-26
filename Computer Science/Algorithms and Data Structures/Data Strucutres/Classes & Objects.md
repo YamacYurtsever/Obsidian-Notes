@@ -21,9 +21,9 @@ def main():
 	my_car.display_info()  
 ```
 
-- **\__init\__ (Constructor)**: 
+- **Constructor**: 
 	- A special [[Functions | method]] that is automatically called when a new object is created and initializes it's attributes
-- **self [[Parameters | parameter]]:**
+- **Self [[Parameters | parameter]]:**
 	- Allows methods to access and manipulate the attributes of the specific instance belong to
 - **Instance attributes**:
 	- [[Variables]] declared with the "self." prefix inside methods become instance attributes, meaning they are connected to the specific instance of the class and can be accessed from any other method inside the object
