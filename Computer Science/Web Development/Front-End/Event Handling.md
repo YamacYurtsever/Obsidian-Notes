@@ -1,0 +1,3 @@
+- Events are incidents that happen as a result of user actions or or other activities in the browser
+- Event handling involves defining functions (event handlers) that are executed in response to these events
+- 
