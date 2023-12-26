@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "6d84d4ee8a78b1d7",
+            "id": "b0c9f5ffded40751",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md"
+                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
               }
             }
           }
@@ -162,6 +162,12 @@
   },
   "active": "565584f27514ce5f",
   "lastOpenFiles": [
+    "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Programming Languages/Abstraction.md",
+    "Computer Science/Web Development/Front-End/Event Handling.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/Back-End/Templating.md",
     "Computer Science/Web Development/DevOps/CI CD.md",
@@ -171,13 +177,9 @@
     "Computer Science/Web Development/DevOps/Version Control System.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Web Development/Front-End/JSON.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
-    "Computer Science/Software Design/Programming Paradigims/Asynchronous Programming.md",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
@@ -187,8 +189,6 @@
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "Computer Science/Networking/Data Transmission.md",
     "Computer Science/Networking/VPN.md",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",

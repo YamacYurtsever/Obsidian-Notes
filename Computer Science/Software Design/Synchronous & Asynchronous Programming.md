@@ -1,7 +1,11 @@
-- A programming paradigm that allows a program to perform tasks concurrently, without waiting for each task to complete before moving on to the next one
-- This is particularly useful when dealing with operations that may take some time to complete, such as reading data from a file, making network requests, or handling user input
+## Synchronous Programming
+- Tasks are executed one after the other in a sequential manner where each operation must complete before the program moves on to the next one
 
-### Callbacks
+## Asynchronous Programming
+- Tasks can be executed concurrently, without waiting for each task to complete before moving on to the next one
+- This is particularly useful when dealing with operations that may take some time to complete, such as reading data from a file, making [[HTTP Requests]], or handling user input
+
+#### Callbacks
 - Functions that are passed as arguments to other functions to be invoked after the completion of an asynchronous operation or at a specified time
 - **Callback hell** refers to a situation where multiple nested callbacks make the code hard to read and maintain which often occurs when dealing with a series of asynchronous tasks
 ```js
@@ -16,7 +20,7 @@ getUser(function(user) {
 });
 ```
 
-### Promises
+#### Promises
 - Objects that represent the eventual completion or failure of an asynchronous operation and its resulting value
 - **States of a Promise**:
 	- **Pending**: 
@@ -27,7 +31,7 @@ getUser(function(user) {
 		The asynchronous operation encountered an error, the promise has a reason for the failure
 - E.g.: [[HTTP Requests#FetchAPIs | Fetch APIs]]
 
-### Timeouts
+#### Timeouts
 - A way to execute a [[Functions | function]] or code snippet once after a specified amount of time has passed
 
 JavaScript
@@ -46,7 +50,7 @@ IEnumerator timeoutCoroutine() {
 }
 ```
 
-### Intervals
+#### Intervals
 - A way to repeatedly execute a [[Functions | function]] or code snippet continuously at specified time intervals until stopped
 
 JavaScript
