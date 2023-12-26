@@ -1,5 +1,5 @@
 - Tools that automate the process of installing, updating, configuring, and managing software packages on a computer system
-- E.g.: Homebrew (MacOS), pip (python), npm (node.js)
+- E.g.: Homebrew (MacOS), APT (Ubuntu Linux), pip (python), npm (node.js)
 
 ### Features
 - **Dependency Resolution**
