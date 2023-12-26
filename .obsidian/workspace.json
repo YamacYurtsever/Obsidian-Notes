@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-                "mode": "source",
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Front-End Technologies/React.md"
+                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Networking/SSL & TLS.md",
     "Computer Science/Networking/SSH.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Software Design/Imperative & Declarative Programming.md",
     "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md",
     "Images/Pasted Image 20231227000102_131.png",
@@ -169,7 +170,6 @@
     "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
     "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/JSON.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Programming Languages/Abstraction.md",
