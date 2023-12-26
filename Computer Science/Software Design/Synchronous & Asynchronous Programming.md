@@ -1,5 +1,6 @@
 ## Synchronous Programming
 - Tasks are executed one after the other in a sequential manner where each operation must complete before the program moves on to the next one
+- This is the traditional and simpler way of handling tasks
 
 ## Asynchronous Programming
 - Tasks can be executed concurrently, without waiting for each task to complete before moving on to the next one
