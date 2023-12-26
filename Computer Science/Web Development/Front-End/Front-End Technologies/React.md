@@ -6,28 +6,31 @@
 - React uses a virtual [[DOM]] to improve performance by minimizing the number of direct manipulations to the actual DOM
 - The virtual DOM is a lightweight copy of the actual DOM, and React calculates the most efficient way to update the actual DOM based on changes to the virtual DOM
 
+#### JSX (Javascript XML)
+- A syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files, making it more readable and expressive
+
 #### Components
 - Components are the building blocks of a React application
 - They represent different parts of the user interface and can be composed to create complex UIs
-- Class Components:
+- 
+##### Class Components:
 ```js
 class MyClassComponent extends React.Component { 
 	// Class component code goes here 
 }
 ```
-- Functional Components:  
+
+##### Functional Components:  
 ```js
 function MyFunctionalComponent(props) { 
 	// Functional component code goes here 
 }
 ```
 
-#### State and Props
-
-- **State:** 
-	- Represents the local data that a component can hold and manage
-	- It is mutable and can be modified using the `setState` method
-	- It is used when a component needs to keep track of data that may change over time
+#### State
+- Represents the local data that a React component can hold and manage
+- It is mutable and can be modified using the `setState` method
+- It is used when a component needs to keep track of data that may change over time
 	  
 ```js
 class Counter extends Component {
@@ -53,25 +56,32 @@ class Counter extends Component {
 }
 ```
 
-- **Props (Properties):** 
-	- Used to pass data from a parent component to a child component
-	- They are immutable and are passed down as attributes in the JSX
-	- They are used when you want to provide data or behavior from a parent component to a child component
+#### Props
+- Used to pass data from a parent component to a child component
+- They are immutable and are passed down as attributes in the JSX
+- They are used when you want to provide data or behavior from a parent component to a child component
 
 ```js
-function ParentComponent() {
-  const data = "Hello from parent!";
-  return <ChildComponent message={data} />;
+function Hello(props) {
+  return (
+	  <h1>Hello {props.name}!</h1>
+  );
 }
 
-function ChildComponent(props) {
-  return <p>{props.message}</p>;
+function App() {
+	return (
+		<div>
+			<Hello name="Harry"/>
+			<Hello name="Ron"/>
+			<Hello name="Hermione"/>
+		</div>
+	);
 }
 ```
 
 #### Hooks
 - Functions that allow functional components to use state and lifecycle features
-- `useState` for managing state, `useEffect` for handling side effects, `useContext` for accessing context
+- `useState` for managing state, `useEffect` for handling side effects
 
 ```js
 function Counter() {
@@ -90,5 +100,6 @@ function Counter() {
 }
 ```
 
-#### JSX (Javascript XML)
-- A syntax extension for JavaScript that allows you to write HTML-like code in your JavaScript files, making it more readable and expressive
+#### Re-Rendering
+- Every time the state or props of a React component get changed, the component is re-rendered automatically
+- Also the the re-render can be forced through `this.forceUpdate();`
