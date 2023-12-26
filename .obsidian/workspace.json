@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Event Handling.md",
-                "mode": "source",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Event Handling.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Event Handling.md",
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Event Handling.md"
+                "file": "Computer Science/Programming Languages/Lambda Expressions.md"
               }
             }
           }
@@ -150,7 +150,9 @@
   },
   "active": "565584f27514ce5f",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
@@ -167,9 +169,7 @@
     "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
-    "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Web Development/Front-End/JSON.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Databases/Indexing.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Relational Databases.md",
