@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Asynchronous Operations.md",
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
                 "mode": "preview",
                 "source": true
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md",
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/HTTP Requests.md"
+                "file": "Computer Science/Web Development/Back-End/HTTP Responses.md"
               }
             }
           }
@@ -161,13 +160,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d84d4ee8a78b1d7",
+  "active": "565584f27514ce5f",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Asynchronous Operations.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
+    "Computer Science/Web Development/Back-End/ORM.md",
+    "Computer Science/Web Development/Back-End/Templating.md",
+    "Computer Science/Web Development/DevOps/CI CD.md",
+    "Computer Science/Web Development/DevOps/CLI.md",
+    "Computer Science/Web Development/DevOps/Environment Managers.md",
+    "Computer Science/Web Development/DevOps/Package Managers.md",
+    "Computer Science/Web Development/DevOps/Version Control System.md",
+    "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/DOM.md",
     "Computer Science/Web Development/Front-End/Event Handling.md",
+    "Computer Science/Web Development/Front-End/JSON.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
+    "Computer Science/Software Design/Programming Paradigims/Asynchronous Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
@@ -180,16 +189,6 @@
     "Computer Science/Networking/VPN.md",
     "Computer Science/Programming Languages/Data Precision.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Trees.md",
-    "Computer Science/Web Development/DevOps/Package Managers.md",
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
-    "Computer Science/Programming Languages/Static vs Dynamic Typing.md",
-    "Computer Science/Web Development/Front-End/JSON.md",
-    "Computer Science/Databases/Indexing.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
-    "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Types of Databases.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
-    "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",

@@ -31,7 +31,7 @@ user_name = request.form.get('user_name')
 ### FetchAPIs
 - JavaScript interfaces for making HTTP requests
 
-1. Promise Based
+1. Chain of Promises
 ```javascript
 fetch('https://api.example.com/data')
   .then(response => response.json())
@@ -54,12 +54,12 @@ async function fetchData() {
 
 - Fetch APIs use promises to wait for HTML responses
 	- **`.then()`:** 
-		Sets up a [[Asynchronous Operations#Callbacks | callback]] to be executed when the [[Asynchronous Operations#Promises | promise]] is resolved
+		Sets up a [[Asynchronous Programming#Callbacks| callback]] to be executed when the [[Asynchronous Programming#Promises| promise]] is resolved
 	- **`await`:** 
-		Used inside an `async` function, it pauses the function's execution until the awaited [[Asynchronous Operations#Promises | promise]] is resolved
+		Used inside an `async` function, it pauses the function's execution until the awaited [[Asynchronous Programming#Promises| promise]] is resolved
 
 ##### AJAX (Asynchronous javascript and XML)
--  A set of web development techniques that allows web pages to be updated [[Asynchronous Operations | asynchronously]] by exchanging data with the server behind the scenes
+-  A set of web development techniques that allows web pages to be updated [[Asynchronous Programming| asynchronously]] by exchanging data with the server behind the scenes
 - This means that instead of reloading the entire web page when a user performs an action, such as submitting a form, only the specific part of the page that needs to be updated is refreshed
 - This can be achieved using Fetch APIs
 - E.g.: Loading related items from the database when/after writing search queries

@@ -1,8 +1,23 @@
+- A programming paradigm that allows a program to perform tasks concurrently, without waiting for each task to complete before moving on to the next one
+- This is particularly useful when dealing with operations that may take some time to complete, such as reading data from a file, making network requests, or handling user input
+
 ### Callbacks
-- A function that is passed as an argument to another function and is intended to be executed after the completion of some asynchronous operation or at a specified time
+- Functions that are passed as arguments to other functions to be invoked after the completion of an asynchronous operation or at a specified time
+- **Callback hell** refers to a situation where multiple nested callbacks make the code hard to read and maintain which often occurs when dealing with a series of asynchronous tasks
+```js
+getUser(function(user) {
+  getProfile(user, function(profile) {
+    getPosts(user, function(posts) {
+      getComments(posts[0], function(comments) {
+        displayUserDetails(user, profile, posts, comments);
+      });
+    });
+  });
+});
+```
 
 ### Promises
-- A programming pattern that represent the eventual completion or failure of an asynchronous operation and its resulting value
+- Objects that represent the eventual completion or failure of an asynchronous operation and its resulting value
 - **States of a Promise**:
 	- **Pending**: 
 		The initial state, the promise is neither fulfilled nor rejected
@@ -15,19 +30,12 @@
 ### Timeouts
 - A way to execute a [[Functions | function]] or code snippet once after a specified amount of time has passed
 
-javascript
+JavaScript
 ```js
 var timeoutId = setTimeout(myFunction, 3000);
 
 clearTimeout(timeoutId); 
 // Executes the function inside the timeout before it finishes
-```
-
-python
-```python
-import time  
-
-time.sleep(3)
 ```
 
 C# (Unity Coroutines)
@@ -41,7 +49,7 @@ IEnumerator timeoutCoroutine() {
 ### Intervals
 - A way to repeatedly execute a [[Functions | function]] or code snippet continuously at specified time intervals until stopped
 
-javascript
+JavaScript
 ```js
 var intervalId = setInterval(myFunction, 1000); // Start
 
