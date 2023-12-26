@@ -87,5 +87,3 @@ window.onpopstate = () => {}; // Back or forward in browser event
 window.location.href = "/new-url";
 ```
 
-
-

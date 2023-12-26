@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/DOM.md",
-                "mode": "preview",
+                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/DOM.md",
+                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/DOM.md",
+                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/DOM.md"
+                "file": "Computer Science/Programming Languages/Timeouts and Intervals.md"
               }
             }
           }
@@ -150,15 +150,16 @@
   },
   "active": "565584f27514ce5f",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Front-End/Event Handling.md",
+    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
+    "Computer Science/Programming Languages/Timeouts and Intervals.md",
     "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/Event Handling.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
     "Mathematics",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
