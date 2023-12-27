@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Testing.md",
-                "mode": "source",
+                "file": "Computer Science/Web Development/DevOps/CI CD.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Testing.md",
+                "file": "Computer Science/Web Development/DevOps/CI CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Testing.md",
+                "file": "Computer Science/Web Development/DevOps/CI CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Testing.md"
+                "file": "Computer Science/Web Development/DevOps/CI CD.md"
               }
             }
           }
@@ -150,12 +150,15 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Web Development/Testing.md",
+    "Computer Science/Web Development/DevOps/CI CD.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Web Development/DevOps/Environment Managers.md",
+    "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
-    "Computer Science/Web Development/Testing.md",
     "Computer Science/Web Development/DevOps/Version Control System.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
@@ -175,10 +178,7 @@
     "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Databases/Types of Databases.md",
     "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Non-Relational Databases.md",
-    "Computer Science/Databases/Indexing.md",
-    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
     "Mathematics",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
