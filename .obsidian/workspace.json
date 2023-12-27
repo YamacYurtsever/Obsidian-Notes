@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "9c6ee319ad1dd213",
+    "id": "074819e36129449f",
     "type": "split",
     "children": [
       {
-        "id": "f38a198df26d73f8",
+        "id": "b53061db27a1075c",
         "type": "tabs",
         "children": [
           {
-            "id": "b0c9f5ffded40751",
+            "id": "42d19fe3d48d3b8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Web Development/Testing.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1411efe03e3ccff3",
+    "id": "db5cfa70ada083b1",
     "type": "split",
     "children": [
       {
-        "id": "a135b4684895ab19",
+        "id": "04b1cec08f3a62c4",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fe3e01075326d7",
+            "id": "6dbaff68a4af319c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,22 +39,22 @@
             }
           },
           {
-            "id": "1eba57745ea5cb37",
+            "id": "bed281d5b172d343",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "1884853dce8cb7fa",
+            "id": "f25d610021643573",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "acd3a4ed3de36ace",
+    "id": "0db229e92cf2e0b2",
     "type": "split",
     "children": [
       {
-        "id": "f81028df8016bacc",
+        "id": "6877a3cc0b5a53b4",
         "type": "tabs",
         "children": [
           {
-            "id": "262805d717bc79ed",
+            "id": "9fcc261a3151abee",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "8ec56ac88cdca4b0",
+            "id": "a416ea7e814c4ce1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "65c7aaa19de52fac",
+            "id": "fafc7dd1d819ce24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "5a07dd24a3c1d5e9",
+            "id": "28c08e683881054e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Web Development/Testing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,63 +130,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b0c9f5ffded40751",
-  "lastOpenFiles": [
-    "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Web Development/DevOps/Package Managers.md",
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
-    "Computer Science/Web Development/Testing.md",
-    "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Computer Science/Networking/SSL & TLS.md",
-    "Computer Science/Networking/SSH.md",
-    "Computer Science/Software Design/Imperative & Declarative Programming.md",
-    "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md",
-    "Images/Pasted Image 20231227000102_131.png",
-    "Images/Pasted Image 20231227000102_116.png",
-    "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Databases/Types of Databases.md",
-    "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
-    "Computer Science/Databases/Non-Relational Databases.md",
-    "Computer Science/Databases/Indexing.md",
-    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
-    "Mathematics",
-    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
-    "Images/Pasted Image 20231226013144_585.png",
-    "Images/Pasted Image 20231225194317_306.png",
-    "Computer Science/Databases/Database Technologies",
-    "Images/Pasted Image 20231225185919_572.png",
-    "Images/Pasted image 20231225151940.png",
-    "Images/Pasted image 20231225151923.png",
-    "Images/Pasted image 20231225134340.png",
-    "Images/DOM.png",
-    "Images/Pasted image 20231224235605.png",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
-    "Computer Science/Web Development/DevOps/DevOps Technologies",
-    "Computer Science/Web Development/Back-End/Back-End Technologies",
-    "Computer Science/Web Development/Front-End/Front-End Technologies",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming"
-  ]
+  "active": "42d19fe3d48d3b8b",
+  "lastOpenFiles": []
 }
