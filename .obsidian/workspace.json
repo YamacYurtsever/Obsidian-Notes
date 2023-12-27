@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e3991866c28f9dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,11 +161,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0c9f5ffded40751",
+  "active": "e3991866c28f9dc5",
   "lastOpenFiles": [
+    "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
+    "conflict-files-obsidian-git.md",
     "Computer Science/Web Development/Back-End/Scaling Servers.md",
     "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
@@ -176,7 +190,6 @@
     "Computer Science/Networking/SSL & TLS.md",
     "Computer Science/Networking/SSH.md",
     "Computer Science/Software Design/Imperative & Declarative Programming.md",
-    "Images/Imperative & Declarative Programming 2023-12-27 00.00.47.excalidraw.md",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
     "Mathematics",
