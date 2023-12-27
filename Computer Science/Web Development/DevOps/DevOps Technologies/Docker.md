@@ -7,7 +7,7 @@
 
 #### Container
 - An isolated and lightweight execution environment ([[Emulators and Virtual Machines#Virtual Machine | virtual machine]] like place) for an application
-- Contains everything needed to run an application: code, runtime, dependencies, configurations
+- Contains everything needed to run an application: code, runtime, dependencies, microservices, configurations
 - Shares the host OS kernel
 
 #### Docker Compose
