@@ -1,3 +1,3 @@
 - A tool or system that facilitates the creation, configuration, and management of software environments for projects
 - These environments encapsulate and isolate dependencies required for a particular application or project
-- E.g.: Conda, Docker
+- E.g.: Conda, [[Docker]]

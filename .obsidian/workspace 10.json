@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "074819e36129449f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53061db27a1075c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42d19fe3d48d3b8b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db5cfa70ada083b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b1cec08f3a62c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dbaff68a4af319c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed281d5b172d343",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f25d610021643573",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0db229e92cf2e0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6877a3cc0b5a53b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fcc261a3151abee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a416ea7e814c4ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fafc7dd1d819ce24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28c08e683881054e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42d19fe3d48d3b8b",
+  "lastOpenFiles": [
+    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+    "Computer Science/Web Development/DevOps/Version Control System.md",
+    "Computer Science/Web Development/Testing.md"
+  ]
+}

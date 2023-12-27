@@ -40,7 +40,7 @@
 	3. *Execution*: 
 		- The translated code is executed immediately after translation
 		- The execution involves the interpretation of the generated intermediate code 
-		- This can be done either by the interpreter itself or by a virtual machine designed for executing the specific intermediate code.
+		- This can be done either by the interpreter itself or by a [[Emulators and Virtual Machines#Virtual Machine | virtual machine]] designed for executing the specific intermediate code.
 
 - **Langauges**:
 	- Python

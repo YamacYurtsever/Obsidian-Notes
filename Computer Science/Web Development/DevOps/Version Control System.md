@@ -14,7 +14,7 @@
 - **Branching:**
 	- Allows for the creation of divergent lines of development called branches
 	- Developers can work on a feature or bug fix in isolation without affecting the main codebase.
-- **Merging:**
+- **Merging:** ^3d24fc
 	- The process of combining changes from different branches
 - **Checkout:**
     - Switching between different branches or versions of the code
