@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
+                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
+                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
+                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md"
+                "file": "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md"
               }
             }
           }
@@ -149,10 +148,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1eba57745ea5cb37",
+  "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
+    "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Web Development/DevOps/CI CD.md",
@@ -168,7 +169,6 @@
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
@@ -179,7 +179,6 @@
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Databases/Types of Databases.md",
     "Mathematics",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
