@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CI CD.md",
-                "mode": "preview",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "virtual machine",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CI CD.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CI CD.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/DevOps/CI CD.md"
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md"
               }
             }
           }
@@ -148,20 +149,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0c9f5ffded40751",
+  "active": "1eba57745ea5cb37",
   "lastOpenFiles": [
-    "Computer Science/Web Development/Testing.md",
-    "Computer Science/Web Development/DevOps/CI CD.md",
-    "Computer Science/Web Development/Back-End/HTTP Responses.md",
+    "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
+    "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
+    "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
+    "Computer Science/Web Development/DevOps/CI CD.md",
+    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+    "Computer Science/Web Development/Testing.md",
+    "Computer Science/Web Development/Back-End/HTTP Responses.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
@@ -177,8 +180,6 @@
     "Images/Pasted Image 20231227000102_116.png",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Databases/Types of Databases.md",
-    "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Non-Relational Databases.md",
     "Mathematics",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
