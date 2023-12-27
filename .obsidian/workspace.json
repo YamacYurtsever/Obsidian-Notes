@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Web Development/Testing.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -150,10 +150,12 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
+    "Computer Science/Web Development/Testing.md",
     "Computer Science/Web Development/DevOps/Version Control System.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
-    "Computer Science/Web Development/Testing.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/DevOps/CLI.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
@@ -177,9 +179,7 @@
     "Computer Science/Databases/Non-Relational Databases.md",
     "Computer Science/Databases/Indexing.md",
     "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
     "Mathematics",
-    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231226013144_585.png",
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Databases/Database Technologies",
