@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md",
-                "mode": "preview",
+                "file": "Computer Science/Cybersecurity/Securing Accounts.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md",
+                "file": "Computer Science/Cybersecurity/Securing Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md",
+                "file": "Computer Science/Cybersecurity/Securing Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Databases/Relational Databases.md"
+                "file": "Computer Science/Cybersecurity/Securing Accounts.md"
               }
             }
           }
@@ -150,6 +150,14 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Cybersecurity/Securing Accounts.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+    "Computer Science/Programming Languages/Magic Values.md",
+    "Computer Science/Programming Languages/Ternary Operator.md",
+    "Computer Science/Databases/Potential Problems in Databases.md",
+    "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Images/Django 2023-12-25 18.59.02.excalidraw.md",
@@ -170,15 +178,7 @@
     "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
     "Computer Science/Web Development/Testing.md",
     "Computer Science/Web Development/Back-End/HTTP Responses.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
-    "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Web Development/DevOps/CLI.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
     "Mathematics",

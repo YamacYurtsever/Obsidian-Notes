@@ -6,6 +6,8 @@
 typedef char *String;
 ```
 
+^d74f88
+
 ```C
 typedef struct {
 	String name;

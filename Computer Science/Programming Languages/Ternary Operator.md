@@ -1,4 +1,4 @@
-A concise way to express an if-else statement in a single line of code
+A concise way to express a [[Conditionals | conditional]] statement in a single line of code
 
 C:
 ```C

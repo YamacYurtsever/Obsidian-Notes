@@ -1,4 +1,4 @@
-- A front-end framework that simplifies front-end web development by providing a collection of pre-designed components, styles, and JavaScript plugins 
+- A front-end framework that simplifies front-end web development by providing a collection of pre-designed components, styles, and [[HTML, CSS & JavaScript#JavaScript | JavaScript]] plugins 
 
 #### Features
 -  **Grid System:**
