@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Databases/Scaling Databases.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -150,6 +150,7 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Images/Pasted image 20231228131615.png",
     "Computer Science/Databases/Indexing.md",
     "Computer Science/Databases/Scaling Databases.md",
     "Computer Science/Web Development/Back-End/Scaling Servers.md",
@@ -176,7 +177,6 @@
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Computer Science/Networking/SSL & TLS.md",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
     "Mathematics",

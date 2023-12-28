@@ -11,3 +11,18 @@
 
 ### Caching
 - Using an in-memory [[Cache Memory | cache]] to store frequently accessed data and reduce the need for database queries
+
+##### Client-Side Caching
+- [[HTTP Requests]] (Cache Related Headers)
+```
+// Maximum amount of time the resource will stay fresh in seconds
+Cache-Control: max-age=86400
+
+// A number sequence that can be used to check with the server if the cached resource has changed
+ETag: "769...517"
+```
+
+![[Pasted image 20231228131615.png | 550]]
+
+##### Server-Side Caching
+
