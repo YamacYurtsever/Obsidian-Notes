@@ -25,4 +25,4 @@
 #### Passkeys
 - Keys used with a mathematical algorithm to serve as a shared secret for secure communication or accessing encrypted information
 
-! As the security mechanisms increase, the usability might decrease, thus finding a balance between usability and security is crucial
+! As the security measures increase, the usability might decrease, thus finding a balance between usability and security is crucial
