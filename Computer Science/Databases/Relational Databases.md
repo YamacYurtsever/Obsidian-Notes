@@ -36,6 +36,7 @@ CREATE TABLE stars (
 - `REAL`              (float)
 - `TEXT`              (string)
 - `BLOB`              (binary large object e.g.: images)
+- `BOOLEAN`        (bool)
 ...
 
 #### Main Functions of Relational Databases (CRUD)

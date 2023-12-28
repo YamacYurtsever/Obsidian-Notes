@@ -22,7 +22,16 @@ Cache-Control: max-age=86400
 ETag: "769...517"
 ```
 
-![[Pasted image 20231228131615.png | 550]]
+![[Pasted image 20231228133519.png | 550]]
 
 ##### Server-Side Caching
 
+![[Pasted image 20231228131615.png | 550]]
+
+### Indexing
+- Structures that enhance the speed of retrieval operations (E.g.: SELECT queries) by  reducing the number of rows being searched
+- This can result in additional storage space and some overhead during [[Relational Databases#Main Functions of Relational Databases (CRUD) | data modification operations]] (INSERT, UPDATE, DELETE)
+
+```SQL
+CREATE INDEX title_index ON shows(title);
+```
