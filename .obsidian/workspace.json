@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Cybersecurity/Data Threats.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -150,9 +150,15 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Computer Science/Cybersecurity/Data Security.md",
+    "Computer Science/Computer Architecture and Organization/Memory.md",
+    "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
+    "Computer Science/Databases/Non-Relational Databases.md",
+    "Computer Science/Databases/Relational Databases.md",
+    "Computer Science/Databases/Types of Databases.md",
+    "Computer Science/Databases/Scaling Databases.md",
+    "Computer Science/Cybersecurity/Data Security.md",
     "Computer Science/Computer Architecture and Organization/Memory Management.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Images/Memory Management 2023-12-17 12.35.04.excalidraw.md",
@@ -161,7 +167,6 @@
     "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
     "Images/Pasted image 20231229125151.png",
     "Computer Science/Networking/VPN.md",
-    "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
@@ -172,11 +177,6 @@
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Programming Languages/Magic Values.md",
-    "Computer Science/Programming Languages/Ternary Operator.md",
-    "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Images/Django 2023-12-25 18.59.02.excalidraw.md",
-    "Computer Science/Databases/Scaling Databases.md",
     "Images/Pasted image 20231228133519.png",
     "Images/Pasted image 20231228131615.png",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
