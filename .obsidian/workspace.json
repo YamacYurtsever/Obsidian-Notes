@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Threats.md",
+                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Threats.md",
+                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Threats.md",
+                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Threats.md"
+                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md"
               }
             }
           }
@@ -150,16 +150,21 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Computer Architecture and Organization/Data Representation.md",
+    "Computer Science/Computer Architecture and Organization/CPU.md",
+    "Computer Science/Computer Architecture and Organization/Cache Memory.md",
+    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
+    "Computer Science/Computer Architecture and Organization/Arithmetic Operations.md",
+    "Computer Science/Computer Architecture and Organization/Memory Management.md",
+    "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Computer Architecture and Organization/Memory.md",
     "Computer Science/Computer Architecture and Organization/Operating System.md",
-    "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Non-Relational Databases.md",
     "Computer Science/Databases/Relational Databases.md",
     "Computer Science/Databases/Types of Databases.md",
     "Computer Science/Databases/Scaling Databases.md",
     "Computer Science/Cybersecurity/Data Security.md",
-    "Computer Science/Computer Architecture and Organization/Memory Management.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Images/Memory Management 2023-12-17 12.35.04.excalidraw.md",
     "Computer Science/Networking/OSI Model.md",
@@ -169,14 +174,9 @@
     "Computer Science/Networking/VPN.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Cybersecurity/Account Security.md",
-    "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "Computer Science/Web Development/Front-End/JSON.md",
     "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
     "Computer Science/Cybersecurity/Account Threats.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
-    "Computer Science/Programming Languages/Magic Values.md",
     "Images/Pasted image 20231228133519.png",
     "Images/Pasted image 20231228131615.png",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",

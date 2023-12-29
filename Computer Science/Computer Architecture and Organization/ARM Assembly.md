@@ -1,9 +1,9 @@
-- A low-level programming language that is a human-readable representation of the machine code instructions executed by a computer's central processing unit
+- A low-level programming language that is a human-readable representation of the machine code instructions executed by a computer's [[CPU]]
 ---
 #### Glossary
 - *R7*: A special [[CPU#Registers | register]] that makes calls to the [[Operating System | operating system]]
-- *LR (Link Register)*: Stores the location that a function should return back to ^cacb96
-- *CPSR (Current Program Status Register)*: Stores information about the program, each bit is a associated with a flag ^ed2c7f
+- *LR (Link Register)*: Stores the location that a [[Functions | function]] should return back to ^cacb96
+- *CPSR (Current Program Status Register)*: Stores information about the program, each [[Data Representation#^f57512 | bit]] is a associated with a flag ^ed2c7f
 	- Negative Flag
 	- Zero Flag
 	- Overflow Flag
@@ -13,7 +13,7 @@
 - The most significant bit (leftmost bit) is used as the sign bit, determining whether the number is positive or negative and the remaining bits represent the magnitude of the number
 ---
 #### Endianness
-- Endianness refers to the byte order in which the bytes of a multi-byte data are stored in computer memory
+- Endianness refers to the [[Data Representation#^ff39e6 | byte]] order in which the bytes of a multi-byte data are stored in computer [[Memory | memory]]
 - Big-Endian:
 	- The most significant byte is stored at the lowest memory address (first), and the least significant byte is stored at the highest memory address (last).
 	- Example: The 32-bit integer 0x12345678 is stored in memory as 12 34 56 78 in big-endian
@@ -61,7 +61,7 @@ ADD R3, R1, R2    @ R3 = R1 + R2
 SUB R3, R1, R2    @ R3 = R1 - R2
 MUL R3, R1, R2    @ R3 = R1 * R2
 ```
-!!! If an addition operation results in overflow, [[#^ed2c7f | CPSR]]'s Overflow Flag becomes 1
+!!! If an addition operation results in [[Data Precision#Overflow | overflow]], [[#^ed2c7f | CPSR]]'s Overflow Flag becomes 1
 !!! -2 is represented as `fffffffe` in hexadecimal, but `ffffffff` - 1 is also represented the same. Therefore, to see if the number is negative, we can look at the Negative Flag in the  [[#^ed2c7f | CPSR]] register. Subtracting with the instruction `SUBS` subtracts and also updates the Negative Flag in the [[#^ed2c7f | CPSR]] register based on the result.
 - AND -> AND gate ([[Logic Gates]])
 - ORR -> OR gate ([[Logic Gates]])

@@ -18,7 +18,7 @@
 
 ### Registers
 - Small and quickly accessible storage locations in the [[CPU]] to store data temporarily during processing
-- *Program Counter (PC)*: Stores the memory address of the next instruction to be fetched and executed ^0aeee0
+- *Program Counter (PC)*: Stores the [[Memory | memory]] address of the next instruction to be fetched and executed ^0aeee0
 - *Instruction Register (IR)*: Holds the instruction that is currently being executed ^69d700
 - *Memory Address Register (MAR)*: Stores the address of the data that will be fetched or stored ^a40da3
 - *Memory Buffer Register (MBR)*: Stores the data that will be fetched or stored ^31a1d2
