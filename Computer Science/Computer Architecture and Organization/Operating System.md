@@ -15,9 +15,9 @@
 
 #### Process Management
 - Facilitates the **creation and termination** of processes as needed
-- **Scheduling**: determining the order in which processes are executed by the CPU
+- **Scheduling**: determining the order in which processes are executed by the [[CPU]]
 - **Multi-Tasking**: the process of performing multiple tasks concurrently through a time sharing system where computer resources are used simultaneously
-- **Interrupts**: events that temporarily suspend the normal execution of a program or process in a computer system to allow the operating system to handle a specific event ^64825e
+- **Interrupts**: events that temporarily suspend the normal execution of a program or process in a computer system to allow the [[Operating System | operating system]] to handle a specific event ^64825e
 
 #### Memory Management
 
@@ -30,6 +30,6 @@
 - Manages what resources certain processes are given
 
 #### Provides Security and Protection
-- Does **authentication** through passwords and biometrics
-- Does **authorization** though determining which users or system processes have permission to access resources
+- Does **[[Account Security#Authentication | authentication]]** through passwords and biometrics
+- Does **[[Account Security#Authorization | authorization]]** though determining which users or system processes have permission to access resources
 - **[[Data Security#Ciphers | Encrypts]]** data to prevent unauthorized access

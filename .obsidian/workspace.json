@@ -11,11 +11,9 @@
             "id": "b0c9f5ffded40751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
-                "mode": "preview",
-                "source": true
+                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heap",
+                "query": "overflow",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
+                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
+                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md"
+                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf"
               }
             }
           }
@@ -150,15 +148,24 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
+    "Computer Science/Artificial Intelligence/IB Extened Essay.pdf",
+    "Computer Science/Artificial Intelligence/IB Case Study.pdf",
+    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
+    "Computer Science/Computer Architecture and Organization/Operating System.md",
+    "Computer Science/Computer Architecture and Organization/Memory Management.md",
+    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
+    "Computer Science/Computer Architecture and Organization/Memory.md",
+    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
+    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
+    "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "Computer Science/Computer Architecture and Organization/CPU.md",
     "Computer Science/Computer Architecture and Organization/Cache Memory.md",
-    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
     "Computer Science/Computer Architecture and Organization/Arithmetic Operations.md",
-    "Computer Science/Computer Architecture and Organization/Memory Management.md",
     "Computer Science/Cybersecurity/Data Threats.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
-    "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Non-Relational Databases.md",
     "Computer Science/Databases/Relational Databases.md",
@@ -169,17 +176,9 @@
     "Images/Memory Management 2023-12-17 12.35.04.excalidraw.md",
     "Computer Science/Networking/OSI Model.md",
     "Images/Data Security 2023-12-29 13.09.29.excalidraw.md",
-    "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
     "Images/Pasted image 20231229125151.png",
-    "Computer Science/Networking/VPN.md",
-    "Computer Science/Networking/Network Protocols.md",
-    "Computer Science/Cybersecurity/Account Security.md",
-    "Computer Science/Web Development/Front-End/JSON.md",
-    "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
-    "Computer Science/Cybersecurity/Account Threats.md",
     "Images/Pasted image 20231228133519.png",
     "Images/Pasted image 20231228131615.png",
-    "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
     "Mathematics",
@@ -194,7 +193,6 @@
     "Computer Science/Web Development/DevOps/DevOps Technologies",
     "Computer Science/Web Development/Back-End/Back-End Technologies",
     "Computer Science/Web Development/Front-End/Front-End Technologies",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming"
+    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming"
   ]
 }

@@ -12,7 +12,7 @@ The [[Operating System]] manages the memory:
 - Memory in the heap needs to be explicitly managed by the programmer (allocated and freed)
 - Usually larger than stack
 
-#### Overflow
+#### Buffer Overflow
 - When more memory is written to either [[#Heap Memory]] or [[#Stack Memory]]  than they can hold, it can exceed into the other's boundaries. This overflow can result in specific issues:
 - **Heap Overflow**: Occurs when more data is written to dynamically allocated memory in the heap than it was originally allocated to hold
 - **Stack Overflow**: Occurs when the call stack exceeds the available stack space, often due to excessive function calls

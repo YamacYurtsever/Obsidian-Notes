@@ -1,4 +1,4 @@
-- Devices that perform a Boolean logic operation on one or more binary inputs and then outputs a single binary output
+- Devices that perform a Boolean logic operation on one or more [[Data Representation#^79c0a2 | binary]] inputs and then outputs a single binary output
 
 ![[Logic Gates.png | 300]]
 
