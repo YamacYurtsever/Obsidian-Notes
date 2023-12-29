@@ -59,5 +59,9 @@
   
 #### Encryption at Rest (Full Disk Encryption)
 - All data being encrypted by default until they are decrypted after authentication
-- E.g.: MacOS Firevault
+- E.g.: MacOS FileVault
 
+#### Deletion
+- When data is "deleted" in devices through for instance, dragging to the trash can and then emptying it, the data is actually not deleted. Rather, its location is forgotten, so it is not kept track of on the memory, however until new data overrides the same location in memory, it is still there
+- **Secure deletion** actually deletes the files by changing the binary values in memory before forgetting the location
+	- **Zero fill** makes all of the binaries zero
