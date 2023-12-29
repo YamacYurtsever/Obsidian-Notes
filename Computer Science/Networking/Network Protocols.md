@@ -20,7 +20,7 @@ Set of rules that computers adhere to in order transmit data over the internet
 
 #### Hyper Text Transfer Protocol / Secure (HTTP / HTTPS)
 - A set of protocols used to communicate between web servers and web browsers (clients)
-- HTTPS is the secure version of HTTP, where the communication is encrypted using protocols like TLS (Transport Layer Security) or its predecessor SSL (Secure Sockets Layer).
+- HTTPS is the secure version of HTTP, where the communication is [[Data Security#Ciphers | encrypted]] using protocols like TLS (Transport Layer Security) or its predecessor SSL (Secure Sockets Layer).
 
 ![[HTTP.excalidraw | 450]]
 

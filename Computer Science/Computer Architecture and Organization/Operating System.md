@@ -32,4 +32,4 @@
 #### Provides Security and Protection
 - Does **authentication** through passwords and biometrics
 - Does **authorization** though determining which users or system processes have permission to access resources
-- **Encrypts** data to prevent unauthorized access
+- **[[Data Security#Ciphers | Encrypts]]** data to prevent unauthorized access

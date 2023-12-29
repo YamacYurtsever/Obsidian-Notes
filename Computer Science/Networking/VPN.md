@@ -1,4 +1,4 @@
-- A Virtual Private Network is a technology that provides a secure and encrypted connection over the internet, allowing users to access resources and share data as if they were directly connected to a private [[Network | network]]
+- A Virtual Private Network is a technology that provides a secure and [[Data Security#Ciphers | encrypted]] connection over the internet, allowing users to access resources and share data as if they were directly connected to a private [[Network | network]]
 - VPNs are commonly used for enhancing privacy, security, and anonymity when accessing the internet
 
 ### Types of VPNs (According to Users):
@@ -9,7 +9,7 @@ Allows individual users to connect securely to a company's [[Network | network]]
 
 ### Types of VPNs (According to the Provider):
 - **Secure VPN:** 
-All traffic on the VPN is encrypted, authenticated and is sent along virtual tunnel
+All traffic on the VPN is [Data Security#Ciphers | encrypted]], authenticated and is sent along virtual tunnel
 - **Trusted VPN:** 
 All traffic on the VPN relies on the security of the providers [[Network | network]] to protect the traffic
 - **Hybrid VPN:** 
@@ -21,7 +21,7 @@ Combines elements of both secure and trusted VPNs
 	- It ensures that only authorized individuals or systems can access the [[Network | network]]
 	- Knowing the identity of all clients helps maintain the security and integrity of the VPN
 - **Encryption**: 
-	- Encryption is the process of encrypting data to make it unreadable to unauthorized users.
+	- [Data Security#Ciphers | Encryption]] is the process of encrypting data to make it unreadable to unauthorized users.
 	- In the context of VPNs, all data transmitted over the [[Network | network]] is typically encrypted, ensuring that even if it is intercepted, it remains unreadable without the appropriate decryption key.
 	- This is a crucial aspect of VPN security to protect sensitive information
 - **Tunneling**: 

@@ -18,7 +18,7 @@ A conceptual framework that divides [[Network | network]] communications functio
 - Manages sessions or connections between applications
 - It establishes, maintains, and terminates communication sessions, providing services such as dialog control and synchronization
 6. **Presentation Layer**
-- Deals with data format translation and encryption/decryption
+- Deals with data format translation and [[Data Security#Ciphers | encryption/decryption]]
 7. **Application Layer**
 - Provides network services directly to end-users or applications
 - It includes [[Network Protocols | protocols]] for email, file transfer, remote login, and other application-level services

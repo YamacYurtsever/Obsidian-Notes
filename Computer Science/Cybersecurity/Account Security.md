@@ -22,7 +22,4 @@
 - A tool that helps users create, store, and manage complex and unique passwords for different applications
 - Single point of failure, so not having access to your password manager means not having access to all other apps
 
-#### Passkeys
-- Keys used with a mathematical algorithm to serve as a shared secret for secure communication or accessing encrypted information
-
 ! As the security measures increase, the usability might decrease, thus finding a balance between usability and security is crucial

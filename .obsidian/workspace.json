@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "101db8e7f7eb6652",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "encod",
+                "query": "encryp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -65,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Security.md",
+                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Security.md",
+                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Cybersecurity/Data Security.md"
+                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md"
               }
             }
           }
@@ -149,17 +159,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0c9f5ffded40751",
+  "active": "101db8e7f7eb6652",
   "lastOpenFiles": [
+    "Computer Science/Cybersecurity/Data Security.md",
+    "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
+    "Images/Pasted image 20231229125151.png",
+    "Computer Science/Networking/VPN.md",
+    "Computer Science/Networking/OSI Model.md",
+    "Computer Science/Computer Architecture and Organization/Operating System.md",
+    "Computer Science/Networking/Network Protocols.md",
+    "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Computer Architecture and Organization/Data Representation.md",
     "Computer Science/Web Development/Front-End/JSON.md",
-    "Computer Science/Networking/OSI Model.md",
-    "Computer Science/Cybersecurity/Data Security.md",
-    "Computer Science/Networking/VPN.md",
     "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
     "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Cybersecurity/Account Threats.md",
-    "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
@@ -167,7 +181,6 @@
     "Computer Science/Programming Languages/Ternary Operator.md",
     "Computer Science/Databases/Potential Problems in Databases.md",
     "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Web Development/Front-End/HTTP Requests.md",
     "Images/Django 2023-12-25 18.59.02.excalidraw.md",
     "Computer Science/Databases/Scaling Databases.md",
@@ -177,8 +190,6 @@
     "Computer Science/Web Development/Back-End/Scaling Servers.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
     "conflict-files-obsidian-git.md",
-    "Computer Science/Web Development/Back-End/ORM.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
@@ -189,7 +200,6 @@
     "Images/Pasted Image 20231225185919_572.png",
     "Images/Pasted image 20231225151940.png",
     "Images/Pasted image 20231225151923.png",
-    "Images/Pasted image 20231225134340.png",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",
