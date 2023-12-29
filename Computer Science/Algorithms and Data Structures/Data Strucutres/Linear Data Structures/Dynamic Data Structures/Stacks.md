@@ -11,7 +11,7 @@
 - **Size**: Returns the number of elements in the stack
 
 #### Implementation
-Python
+Python:
 ```python
 class Stack:
     def __init__(self):
@@ -38,7 +38,7 @@ class Stack:
     def size(self):
         return len(self.items)
 ```
-C
+C:
 ```C
 #include <stdio.h>
 #include <stdlib.h>

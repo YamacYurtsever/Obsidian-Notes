@@ -1,2 +1,2 @@
 (COMING SOON)
-Singletons???
+- Mention Singletons

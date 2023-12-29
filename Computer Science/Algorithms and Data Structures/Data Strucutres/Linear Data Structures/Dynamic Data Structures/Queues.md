@@ -11,7 +11,7 @@
 - **Size**: Returns the number of elements in the queue
 
 #### Implementation
-Python
+Python:
 ```python
 class Queue:
     def __init__(self):
@@ -39,7 +39,7 @@ class Queue:
         return len(self.items)
 ```
 
-C
+C:
 ```C
 #include <stdio.h>
 #include <stdlib.h>

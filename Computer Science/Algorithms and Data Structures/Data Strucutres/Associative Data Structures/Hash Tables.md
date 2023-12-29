@@ -17,7 +17,7 @@
 	- **Open Addressing**: The collision resolution involves searching for the next available slot in the array.
 
 #### Implementation
-C
+C:
 ```C
 typedef struct KeyValue {
     char *key;
@@ -31,7 +31,7 @@ typedef struct HashTable {
 } HashTable;
 ```
 
-Python (Dictionaries)
+Python (Dictionaries):
 ```python
 my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
 

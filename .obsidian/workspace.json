@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Conditionals.md",
+                "file": "Computer Science/Programming Languages/Regular Expressions.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overflow",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Conditionals.md",
+                "file": "Computer Science/Programming Languages/Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Conditionals.md",
+                "file": "Computer Science/Programming Languages/Regular Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Conditionals.md"
+                "file": "Computer Science/Programming Languages/Regular Expressions.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
-    "Computer Science/Programming Languages/Abstraction.md",
-    "Computer Science/Databases/Non-Relational Databases.md",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
+    "Computer Science/Programming Languages/Syntactic Sugar.md",
+    "Computer Science/Programming Languages/Enumerators.md",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
-    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
+    "Computer Science/Programming Languages/Regular Expressions.md",
+    "Computer Science/Programming Languages/Variables.md",
+    "Computer Science/Programming Languages/Ternary Operator.md",
+    "Computer Science/Programming Languages/Parameters.md",
+    "Computer Science/Programming Languages/Memory Management.md",
+    "Computer Science/Programming Languages/Magic Values.md",
+    "Computer Science/Programming Languages/Loops.md",
+    "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Programming Languages/Function Mapping.md",
+    "Computer Science/Programming Languages/Functions.md",
+    "Computer Science/Programming Languages/Error Handling.md",
+    "Computer Science/Programming Languages/Debugging.md",
+    "Computer Science/Programming Languages/Data Precision.md",
+    "Computer Science/Programming Languages/Conventions.md",
+    "Computer Science/Programming Languages/Conditionals.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Databases/Types of Databases.md",
-    "Computer Science/Software Design/Imperative & Declarative Programming.md",
-    "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
-    "Computer Science/Web Development/Testing.md",
-    "Computer Science/Web Development/APIs.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
-    "Computer Science/Web Development/Front-End/JSON.md",
-    "Computer Science/Web Development/Front-End/HTTP Requests.md",
-    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
-    "Computer Science/Web Development/Front-End/Event Handling.md",
-    "Computer Science/Web Development/Front-End/DOM.md",
-    "Computer Science/Web Development/Front-End/Client Side Storage.md",
-    "Computer Science/Web Development/DevOps/Version Control System.md",
-    "Computer Science/Web Development/DevOps/Package Managers.md",
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
+    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
+    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
+    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Artificial Intelligence/IB Case Study.pdf",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Artificial Intelligence/IB Extened Essay.pdf",
