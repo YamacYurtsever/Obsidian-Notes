@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Programming Languages/Regular Expressions.md",
-                "mode": "source",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Regular Expressions.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Regular Expressions.md",
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Programming Languages/Regular Expressions.md"
+                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md"
               }
             }
           }
@@ -150,17 +150,22 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Programming Languages/Enumerators.md",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
-    "Computer Science/Programming Languages/Regular Expressions.md",
     "Computer Science/Programming Languages/Variables.md",
-    "Computer Science/Programming Languages/Ternary Operator.md",
+    "Computer Science/Programming Languages/Syntactic Sugar.md",
+    "Computer Science/Programming Languages/Regular Expressions.md",
     "Computer Science/Programming Languages/Parameters.md",
     "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Magic Values.md",
     "Computer Science/Programming Languages/Loops.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
+    "Computer Science/Programming Languages/Enumerators.md",
+    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
+    "Computer Science/Databases/Non-Relational Databases.md",
+    "Images/RegEx Cheat Sheat.jpg",
+    "Images/Pasted image 20231230022224.png",
+    "Computer Science/Programming Languages/Ternary Operator.md",
     "Computer Science/Programming Languages/Function Mapping.md",
     "Computer Science/Programming Languages/Functions.md",
     "Computer Science/Programming Languages/Error Handling.md",
@@ -173,9 +178,6 @@
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
-    "Computer Science/Web Development/DevOps/DevOps Technologies/Git.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
     "Computer Science/Artificial Intelligence/IB Case Study.pdf",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Artificial Intelligence/IB Extened Essay.pdf",
@@ -189,8 +191,6 @@
     "Images/Pasted Image 20231225194317_306.png",
     "Computer Science/Databases/Database Technologies",
     "Images/Pasted Image 20231225185919_572.png",
-    "Images/Pasted image 20231225151940.png",
-    "Images/Pasted image 20231225151923.png",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",
