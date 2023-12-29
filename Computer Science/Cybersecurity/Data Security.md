@@ -45,4 +45,19 @@
 
 #### Rotational (Caesar) Cipher
 - Rotating each character (on the alphabet) as much as the key value
-![[Data Security 2023-12-29 13.04.01.excalidraw]]
+
+![[Data Security 2023-12-29 13.04.01.excalidraw | 300]]
+
+#### Digital Signature
+- An electronic stamp of authentication
+- Uses public key cryptography
+
+![[Data Security 2023-12-29 13.09.29.excalidraw | 400]]
+
+#### End-to-End Encryption
+- A method of secure communication that prevents third-parties from accessing data while it's transferred
+  
+#### Encryption at Rest (Full Disk Encryption)
+- All data being encrypted by default until they are decrypted after authentication
+- E.g.: MacOS Firevault
+

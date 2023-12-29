@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "101db8e7f7eb6652",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "encryp",
+                "query": "end-to",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
+                "file": "Computer Science/Cybersecurity/Data Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
+                "file": "Computer Science/Cybersecurity/Data Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Data Security 2023-12-29 13.04.01.excalidraw.md"
+                "file": "Computer Science/Cybersecurity/Data Security.md"
               }
             }
           }
@@ -159,13 +148,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "101db8e7f7eb6652",
+  "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
     "Computer Science/Cybersecurity/Data Security.md",
+    "Computer Science/Networking/OSI Model.md",
+    "Images/Data Security 2023-12-29 13.09.29.excalidraw.md",
     "Images/Data Security 2023-12-29 13.04.01.excalidraw.md",
     "Images/Pasted image 20231229125151.png",
     "Computer Science/Networking/VPN.md",
-    "Computer Science/Networking/OSI Model.md",
     "Computer Science/Computer Architecture and Organization/Operating System.md",
     "Computer Science/Networking/Network Protocols.md",
     "Computer Science/Cybersecurity/Account Security.md",
@@ -189,7 +179,6 @@
     "Images/Pasted image 20231228131615.png",
     "Computer Science/Web Development/Back-End/Scaling Servers.md",
     "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
-    "conflict-files-obsidian-git.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
