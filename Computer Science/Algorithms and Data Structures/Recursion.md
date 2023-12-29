@@ -4,7 +4,7 @@ A programming concept where a function calls itself
 Approaches base case
 
 - **Base Case**
-Exit Condition
+Exit condition
 
 ```python
 def fibonacci(n):

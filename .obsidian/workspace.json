@@ -11,9 +11,11 @@
             "id": "b0c9f5ffded40751",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf"
+                "file": "Computer Science/Programming Languages/Conditionals.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf",
+                "file": "Computer Science/Programming Languages/Conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf",
+                "file": "Computer Science/Programming Languages/Conditionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Artificial Intelligence/IB Case Study.pdf"
+                "file": "Computer Science/Programming Languages/Conditionals.md"
               }
             }
           }
@@ -148,34 +150,35 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
+    "Computer Science/Programming Languages/Abstraction.md",
+    "Computer Science/Databases/Non-Relational Databases.md",
+    "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+    "Computer Science/Databases/Types of Databases.md",
+    "Computer Science/Software Design/Imperative & Declarative Programming.md",
+    "Computer Science/Software Design/Synchronous & Asynchronous Programming.md",
+    "Computer Science/Web Development/Testing.md",
+    "Computer Science/Web Development/APIs.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/JQuery.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
+    "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
+    "Computer Science/Web Development/Front-End/JSON.md",
+    "Computer Science/Web Development/Front-End/HTTP Requests.md",
+    "Computer Science/Web Development/Front-End/HTML, CSS & JavaScript.md",
+    "Computer Science/Web Development/Front-End/Event Handling.md",
+    "Computer Science/Web Development/Front-End/DOM.md",
+    "Computer Science/Web Development/Front-End/Client Side Storage.md",
+    "Computer Science/Web Development/DevOps/Version Control System.md",
+    "Computer Science/Web Development/DevOps/Package Managers.md",
+    "Computer Science/Web Development/DevOps/Environment Managers.md",
+    "Computer Science/Artificial Intelligence/IB Case Study.pdf",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Artificial Intelligence/IB Extened Essay.pdf",
-    "Computer Science/Artificial Intelligence/IB Case Study.pdf",
-    "Computer Science/Algorithms and Data Structures/Time Complexity.md",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Computer Science/Computer Architecture and Organization/ARM Assembly.md",
-    "Computer Science/Computer Architecture and Organization/Operating System.md",
-    "Computer Science/Computer Architecture and Organization/Memory Management.md",
-    "Computer Science/Computer Architecture and Organization/Memory Acess Order.md",
-    "Computer Science/Computer Architecture and Organization/Memory.md",
-    "Computer Science/Computer Architecture and Organization/Machine Instruction Cycle.md",
-    "Computer Science/Computer Architecture and Organization/Logic Gates.md",
-    "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
-    "Computer Science/Computer Architecture and Organization/Data Representation.md",
-    "Computer Science/Computer Architecture and Organization/CPU.md",
-    "Computer Science/Computer Architecture and Organization/Cache Memory.md",
-    "Computer Science/Computer Architecture and Organization/Arithmetic Operations.md",
-    "Computer Science/Cybersecurity/Data Threats.md",
-    "Computer Science/Databases/Potential Problems in Databases.md",
-    "Computer Science/Databases/Non-Relational Databases.md",
-    "Computer Science/Databases/Relational Databases.md",
-    "Computer Science/Databases/Types of Databases.md",
-    "Computer Science/Databases/Scaling Databases.md",
-    "Computer Science/Cybersecurity/Data Security.md",
-    "Computer Science/Programming Languages/Memory Management.md",
-    "Images/Memory Management 2023-12-17 12.35.04.excalidraw.md",
-    "Computer Science/Networking/OSI Model.md",
-    "Images/Data Security 2023-12-29 13.09.29.excalidraw.md",
     "Images/Pasted image 20231229125151.png",
     "Images/Pasted image 20231228133519.png",
     "Images/Pasted image 20231228131615.png",
@@ -192,7 +195,6 @@
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming",
     "Computer Science/Web Development/DevOps/DevOps Technologies",
     "Computer Science/Web Development/Back-End/Back-End Technologies",
-    "Computer Science/Web Development/Front-End/Front-End Technologies",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming"
+    "Computer Science/Web Development/Front-End/Front-End Technologies"
   ]
 }
