@@ -10,3 +10,15 @@
 - The salt is stored with the hash value in the database
 - When a user attempts to log in, the system retrieves the stored salt for that user, combines it with the entered password, hashes the result, and compares it to the stored hash value to check if the password is correct
 
+#### Codes
+- A system of symbols, letters, or numbers used to represent information
+- Codes don't necessarily provide security
+- **Encoding**:
+	- Converting information from one form to another, often for the purpose of efficient transmission or storage
+- **Decoding**:
+	- Converting encoded information back into its original form
+- E.g.: [[Data Representation#^06f8fb | ASCII]], [[Data Representation#^55e4eb | Unicode]], [[JSON#Encoding and Decoding JSON | JSON Encoding]]
+
+#### Ciphers
+- 
+

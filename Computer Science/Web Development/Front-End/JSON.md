@@ -18,7 +18,7 @@ let person = {
 ```
 
 ### Encoding and Decoding JSON
-- Encoding JSON objects is a necessary step to represent structured data in a text-based format that can be easily transmitted, stored, and understood by other systems
+- [[Data Security#Codes | Encoding]] JSON objects is a necessary step to represent structured data in a text-based format that can be easily transmitted, stored, and understood by other systems
 ```javascript
 const jsonString = JSON.stringify(data); # Encoding
 const receivedData = JSON.parse(jsonString); # Decoding

@@ -32,8 +32,8 @@ device into digital data that the computer can use
 
 #### Representing Textual Data
 - Binary data is used to represent textual data through characters sets such as ASCII and Unicode where binary values correspond to characters
-- ASCII: An encoding standard used to represent characters in the english alphabet as binary values, it originally used 7 bits to represent each character thus there are 128 possibilities
-- Unicode: A newer encoding standard used to represent characters from all common languages, emojis and symbols as binary values, UTF-32 uses 4 bytes to represent each character thus there are about 4 billion possibilities
+- ASCII: An [[Data Security#Codes | encoding]] standard used to represent characters in the english alphabet as binary values, it originally used 7 bits to represent each character thus there are 128 possibilities ^06f8fb
+- Unicode: A newer [[Data Security#Codes | encoding]] standard used to represent characters from all common languages, emojis and symbols as binary values, UTF-32 uses 4 bytes to represent each character thus there are about 4 billion possibilities ^55e4eb
 - The ASCII representation for  'A' is 65 and every letter is 32 away from its lowercase or uppercase equivalent, so the code for 'a' is 97.
 
 ![[ASCII Table.png]]

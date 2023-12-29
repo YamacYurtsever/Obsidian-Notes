@@ -21,7 +21,7 @@ Combines elements of both secure and trusted VPNs
 	- It ensures that only authorized individuals or systems can access the [[Network | network]]
 	- Knowing the identity of all clients helps maintain the security and integrity of the VPN
 - **Encryption**: 
-	- Encryption is the process of encoding data to make it unreadable to unauthorized users.
+	- Encryption is the process of encrypting data to make it unreadable to unauthorized users.
 	- In the context of VPNs, all data transmitted over the [[Network | network]] is typically encrypted, ensuring that even if it is intercepted, it remains unreadable without the appropriate decryption key.
 	- This is a crucial aspect of VPN security to protect sensitive information
 - **Tunneling**: 

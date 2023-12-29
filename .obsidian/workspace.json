@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Cybersecurity/Data Security.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "dfe1e05fa13b6546",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/Data Security 2023-12-29 01.52.22.excalidraw.md"
               }
             }
           }
@@ -58,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "encod",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -75,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,11 +151,15 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Computer Science/Cybersecurity/Data Threats.md",
+    "Computer Science/Computer Architecture and Organization/Data Representation.md",
+    "Computer Science/Web Development/Front-End/JSON.md",
+    "Computer Science/Networking/OSI Model.md",
     "Computer Science/Cybersecurity/Data Security.md",
+    "Computer Science/Networking/VPN.md",
+    "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
+    "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Cybersecurity/Account Threats.md",
     "Computer Science/Cybersecurity/Account Security.md",
-    "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
@@ -184,10 +179,6 @@
     "conflict-files-obsidian-git.md",
     "Computer Science/Web Development/Back-End/ORM.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/React.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
-    "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
-    "Computer Science/Web Development/DevOps/Package Managers.md",
-    "Computer Science/Web Development/DevOps/Environment Managers.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",

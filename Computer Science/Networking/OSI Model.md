@@ -10,7 +10,7 @@ A conceptual framework that divides [[Network | network]] communications functio
 - It handles error detection and correction, as well as flow control.
 3. **Network Layer**  ^7e919f
  - Manages routing and addressing
- - It is responsible for logical addressing, packet forwarding between routers, and determining the best path for data to travel
+ - It is responsible for logical addressing, [[Data Transmission#^206809 | packet]] forwarding between [[Network Hardware#^3c8292 | router]], and determining the best path for data to travel
 4. **Transport Layer**
 - Ensures end-to-end communication and reliability
 - It handles segmentation, flow control, error recovery, and reordering of data
@@ -19,7 +19,6 @@ A conceptual framework that divides [[Network | network]] communications functio
 - It establishes, maintains, and terminates communication sessions, providing services such as dialog control and synchronization
 6. **Presentation Layer**
 - Deals with data format translation and encryption/decryption
-- It ensures that the data is presented in a readable format and handles character encoding, compression, and encryption.
 7. **Application Layer**
 - Provides network services directly to end-users or applications
-- It includes protocols for email, file transfer, remote login, and other application-level services
+- It includes [[Network Protocols | protocols]] for email, file transfer, remote login, and other application-level services
