@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Cybersecurity/Data Security.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -160,10 +160,11 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
+    "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Cybersecurity/Data Security.md",
     "Computer Science/Cybersecurity/Account Threats.md",
     "Computer Science/Cybersecurity/Account Security.md",
+    "Images/Data Security 2023-12-29 01.52.22.excalidraw.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Bootstrap.md",
     "Computer Science/Web Development/Front-End/Front-End Technologies/Sass.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
@@ -187,7 +188,6 @@
     "Computer Science/Computer Architecture and Organization/Emulators and Virtual Machines.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
     "Computer Science/Web Development/DevOps/Environment Managers.md",
-    "Computer Science/Web Development/DevOps/CI CD.md",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Images/Pasted Image 20231227000102_131.png",
     "Images/Pasted Image 20231227000102_116.png",
