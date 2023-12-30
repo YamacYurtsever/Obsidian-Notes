@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
-                "mode": "preview",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "coming soon",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Web Development/Front-End/Client Side Storage.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md"
               }
             }
           }
@@ -150,8 +150,13 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
-    "Computer Science/Software Design/Imperative & Declarative Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
+    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
+    "Computer Science/Programming Languages/Enumerators.md",
+    "Computer Science/Databases/Non-Relational Databases.md",
     "Computer Science/Web Development/Front-End/Client Side Storage.md",
+    "Computer Science/Software Design/Imperative & Declarative Programming.md",
     "Untitled.canvas",
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Variables.md",
@@ -162,11 +167,6 @@
     "Computer Science/Programming Languages/Magic Values.md",
     "Computer Science/Programming Languages/Loops.md",
     "Computer Science/Programming Languages/Lambda Expressions.md",
-    "Computer Science/Programming Languages/Enumerators.md",
-    "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
-    "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
-    "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
-    "Computer Science/Databases/Non-Relational Databases.md",
     "Images/RegEx Cheat Sheat.jpg",
     "Images/Pasted image 20231230022224.png",
     "Computer Science/Programming Languages/Ternary Operator.md",
