@@ -11,12 +11,8 @@
             "id": "b0c9f5ffded40751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Programming Languages/Compilation & Interpretation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0c9f5ffded40751",
+  "active": "c4fe3e01075326d7",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
     "Computer Science/Programming Languages/Regular Expressions.md",
@@ -174,10 +168,8 @@
     "Computer Science/Programming Languages/Conventions.md",
     "Computer Science/Programming Languages/Conditionals.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Web Development/Back-End/Back-End Technologies/Django.md",
-    "Computer Science/Web Development/Back-End/Back-End Technologies/Flask.md",
     "Computer Science/Artificial Intelligence/IB Case Study.pdf",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Artificial Intelligence/IB Extened Essay.pdf",
