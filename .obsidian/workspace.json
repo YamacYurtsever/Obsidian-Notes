@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
-                "mode": "source",
+                "file": "Computer Science/Cybersecurity/System Security.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coming soon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
+                "file": "Computer Science/Cybersecurity/System Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
+                "file": "Computer Science/Cybersecurity/System Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md"
+                "file": "Computer Science/Cybersecurity/System Security.md"
               }
             }
           }
@@ -150,6 +150,16 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Cybersecurity/Account Threats.md",
+    "Computer Science/Cybersecurity/Account Security.md",
+    "Computer Science/Cybersecurity/Data Threats.md",
+    "Computer Science/Cybersecurity/Data Security.md",
+    "Computer Science/Cybersecurity/System Security.md",
+    "UNSW/Topics to Classes.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
+    "Computer Science/Web Development/DevOps/Package Managers.md",
+    "Computer Science/Web Development/DevOps/DevOps Technologies/Docker.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Hash Tables.md",
     "Computer Science/Software Design/Programming Paradigims/Functional Programming.md",
     "Computer Science/Software Design/Programming Paradigims/Procedural Programming.md",
     "Computer Science/Software Design/Programming Paradigims/Object Oriented Programming.md",
@@ -169,16 +179,6 @@
     "Computer Science/Programming Languages/Lambda Expressions.md",
     "Images/RegEx Cheat Sheat.jpg",
     "Images/Pasted image 20231230022224.png",
-    "Computer Science/Programming Languages/Ternary Operator.md",
-    "Computer Science/Programming Languages/Function Mapping.md",
-    "Computer Science/Programming Languages/Functions.md",
-    "Computer Science/Programming Languages/Error Handling.md",
-    "Computer Science/Programming Languages/Debugging.md",
-    "Computer Science/Programming Languages/Data Precision.md",
-    "Computer Science/Programming Languages/Conventions.md",
-    "Computer Science/Programming Languages/Conditionals.md",
-    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-    "Computer Science/Programming Languages/Concatenation & Interpolation.md",
     "Computer Science/Artificial Intelligence/IB Case Study.pdf",
     "Computer Science/Artificial Intelligence/CS50 AI Notebook.pdf",
     "Computer Science/Artificial Intelligence/IB Extened Essay.pdf",
