@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Cybersecurity/Account Security.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Cybersecurity/Account Security.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Cybersecurity/Account Security.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Cybersecurity/Account Security.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md"
               }
             }
           }
@@ -148,14 +148,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4fe3e01075326d7",
+  "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Cybersecurity/System Security.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
     "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Cybersecurity/Account Threats.md",
-    "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Cybersecurity/Data Security.md",
     "UNSW/Topics to Classes.md",
