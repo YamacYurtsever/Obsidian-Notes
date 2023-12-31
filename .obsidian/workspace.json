@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "error",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -150,6 +150,7 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Cybersecurity/System Security.md",
     "Computer Science/Cybersecurity/Account Threats.md",
     "Computer Science/Cybersecurity/Account Security.md",
@@ -176,7 +177,6 @@
     "Computer Science/Programming Languages/Memory Management.md",
     "Computer Science/Programming Languages/Magic Values.md",
     "Computer Science/Programming Languages/Loops.md",
-    "Computer Science/Programming Languages/Lambda Expressions.md",
     "Images/RegEx Cheat Sheat.jpg",
     "Images/Pasted image 20231230022224.png",
     "Computer Science/Artificial Intelligence/IB Case Study.pdf",
