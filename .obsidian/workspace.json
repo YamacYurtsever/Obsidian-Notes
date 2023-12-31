@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Cybersecurity/System Security.md",
+                "file": "Computer Science/Cybersecurity/Account Security.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Cybersecurity/System Security.md",
+                "file": "Computer Science/Cybersecurity/Account Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Cybersecurity/System Security.md",
+                "file": "Computer Science/Cybersecurity/Account Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Cybersecurity/System Security.md"
+                "file": "Computer Science/Cybersecurity/Account Security.md"
               }
             }
           }
@@ -148,11 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0c9f5ffded40751",
+  "active": "c4fe3e01075326d7",
   "lastOpenFiles": [
+    "Computer Science/Cybersecurity/System Security.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Non-Linear Data Structures/Graphs.md",
-    "Computer Science/Cybersecurity/System Security.md",
     "Computer Science/Programming Languages/Error Handling.md",
     "Computer Science/Cybersecurity/Account Threats.md",
     "Computer Science/Cybersecurity/Account Security.md",
