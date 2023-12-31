@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Cybersecurity/System Security.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -150,11 +150,11 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Cybersecurity/System Security.md",
     "Computer Science/Cybersecurity/Account Threats.md",
     "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Cybersecurity/Data Threats.md",
     "Computer Science/Cybersecurity/Data Security.md",
-    "Computer Science/Cybersecurity/System Security.md",
     "UNSW/Topics to Classes.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Associative Data Structures/Sets.md",
     "Computer Science/Web Development/DevOps/Package Managers.md",
