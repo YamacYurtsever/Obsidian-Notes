@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md"
+                "file": "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "b0c9f5ffded40751",
   "lastOpenFiles": [
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Queues.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Linked Lists.md",
+    "Computer Science/Algorithms and Data Structures/Data Strucutres/Classes & Objects.md",
     "Computer Science/Cybersecurity/Account Security.md",
     "Computer Science/Cybersecurity/System Security.md",
     "Computer Science/Algorithms and Data Structures/Data Strucutres/Linear Data Structures/Dynamic Data Structures/Stacks.md",
@@ -174,9 +177,6 @@
     "Computer Science/Programming Languages/Compilation & Interpretation.md",
     "Computer Science/Programming Languages/Variables.md",
     "Computer Science/Programming Languages/Syntactic Sugar.md",
-    "Computer Science/Programming Languages/Regular Expressions.md",
-    "Computer Science/Programming Languages/Parameters.md",
-    "Computer Science/Programming Languages/Memory Management.md",
     "Images/RegEx Cheat Sheat.jpg",
     "Images/Pasted image 20231230022224.png",
     "Computer Science/Artificial Intelligence/IB Case Study.pdf",
